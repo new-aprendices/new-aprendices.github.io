@@ -1,751 +1,751 @@
 [{
-  "author": "Alfonso Burgos",
-  "category": "Tools - CI - CD",
-  "content": "\"But note: none of these rules should be absolutely black-and-white. Nothing in life ever is. Sometimes merging with my tree is simply the best option. If it's not your normal mode of operation, but an option in your toolbox that you end up using when everything else is just too painful, go ahead. \" \"Git does allow people to do many different things, and solve problems different ways. I just want all the regular workflows to be \"good practice\", but then if you have to occasionally break the rules to solve some odd problem, go ahead and break the rules (and tell people why you did it that way this time).\" Linus #git Re: [git pull] drm-next mail-archive.com",
-  "date": 1375156800000
-}, {
-  "author": "Alfonso Burgos",
-  "category": "Tools - CI - CD",
-  "content": "#git What git branching models actually work? stackoverflow.com",
-  "date": 1375156800000
-}, {
   "author": "Manuel Rivero",
-  "category": "Architecture/Design",
-  "content": "Dependency Injection Inversion dependency injection inversion | unclebobconsultingllc twitteado por Javier Acero TranslateShow original text Dependency Injection Inversion - Clean Coder sites.google.com",
-  "date": 1374984000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "XP, Lean & Agile",
-  "content": "Agile Development leads to Alzheimer’s http://www.javacodegeeks.com/2013/07/agile-development-leads-to-alzheimers.html Curioso. ¿ Alguno está o ha estado en un proyecto Agile lo suficientemente largo durante el suficiente tiempo como para notar alguno de los problemas de los que hablan en este artícul0? TranslateShow original text Agile Development leads to Alzheimer’s javacodegeeks.com",
-  "date": 1374984000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "Code Smells, Jeff Atwood (@codinghorror) http://www.codinghorror.com/blog/2006/05/code-smells.html",
-  "date": 1374984000000
-}, {
-  "author": "Pepe Doval",
-  "category": "Community",
-  "content": "¿Cómo usamos git en nuestro día a día? Me gustaría compartir un coloquio sobre este tema. Seguro que todos hacemos muchas cosas bien y muchas mal y tenemos nuestros propios trucos, por lo que compartir este debate puede ser muy rico para todos. ¿A quién le interesa? :-) TranslateShow original text",
-  "date": 1374811200000
-}, {
-  "author": "Beatriz Aldaz",
-  "category": "Readers Club",
-  "content": "Libros interesantes con acceso online! http://chimera.labs.oreilly.com/books TranslateShow original text Atlas Beta - The new learning environment from O’Reilly chimera.labs.oreilly.com",
-  "date": 1374811200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Courses, events, conferences,...",
-  "content": "De Agile BCN: http://introduccionagilejulio2013.eventbrite.com/ Curso de Introducción a Agile - Julio 2013 introduccionagilejulio2013.eventbrite.com",
-  "date": 1374811200000
-}, {
-  "author": "Nico Cortés",
-  "category": "Interesting Posts and Papers",
-  "content": "Flash is Not Dead Yet! HTML5 vs Flash Flash is Not Dead Yet! HTML5 vs Flash bit.ly",
-  "date": 1374811200000
-}, {
-  "author": "Gabriel Moral",
-  "category": "Courses, events, conferences,...",
-  "content": "Por si os interesa: http://bddkickstart.com/dates A mi se me escapa de mis posibilidades xD BDD Kickstart bddkickstart.com",
-  "date": 1374811200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Tools - CI - CD",
-  "content": "Trucos con Git http://www.youtube.com/playlist?list=PLJq-O-GkzDUOX1koXDuJfDTtFFniMlryy TranslateShow original text Trucos git youtube.com",
-  "date": 1374811200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "XP, Lean & Agile",
-  "content": "Webcast: How to Build a Lean Startup, step-by-step http://www.oreillynet.com/pub/e/1294 Webcast: How to Build a Lean Startup, step-by-step oreillynet.com",
-  "date": 1374811200000
-}, {
-  "author": "Nico Cortés",
   "category": "Clean Code",
-  "content": "Magnífica chuleta sobre Clean Code Clean Code Sheet (Source: Retwitt from @trikitrok) bit.ly/1dX3esl bit.ly",
-  "date": 1374724800000
+  "content": "Foundations of Object Design Part II<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/62963805\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/62963805</a>",
+  "date": 1377487213000
 }, {
-  "author": "Jaime Perera Merino",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "En el Club de lectura hemos hablado de este artículo. Muy fácil de leer e ideas muy claras TranslateShow original text Tea-Driven Development :: TDD vs BDD blog.mattwynne.net",
-  "date": 1374724800000
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.infoq.com/interviews/cunningham-federated-wiki\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.infoq.com/interviews/cunningham-federated-wiki</a>",
+  "date": 1377485109000
 }, {
-  "author": "Nico Cortés",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Los screencasts que te ayudan a escribir mejores tests y mejor código. No está operativa aún, pero creo que vale la pena estar pendiente. TranslateShow original text tddeo | Screencasts para mejorar tus tests y tu código bit.ly",
-  "date": 1374724800000
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Software Craftsmanship Barcelona 2013<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://jaumejornet.net/scbcn/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://jaumejornet.net/scbcn/</a>",
+  "date": 1377374888000
 }, {
   "author": "Manuel Rivero",
   "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Why I practice TDD? http://blog.gdinwiddie.com/2013/07/23/why-i-practice-tdd/ George Dinwiddie's blog » Why I Practice TDD Effective software development blog.gdinwiddie.com",
-  "date": 1374638400000
+  "content": "Stub your data access layer; it won&#39;t hurt<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://thecodewhisperer.tumblr.com/post/1172613515/stub-your-data-access-layer-it-wont-hurt\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://thecodewhisperer.tumblr.com/post/1172613515/stub-your-data-access-layer-it-wont-hurt</a><br><br>twitteado por @amisai",
+  "date": 1377375467000
 }, {
-  "author": "Nico Cortés",
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1377245698000
+}, {
+  "author": "Jaume Jornet Rivas",
   "category": "Katas",
-  "content": "Implementación de kata del pasado 18 de Julio en BeCode: - http://codekata.pragprog.com/2007/01/kata_twenty_one.html - Java y items mediante lista de enlace doble. Todo comentario será bien recibido. TranslateShow original text SimpleKataList github.com",
-  "date": 1374638400000
+  "content": "Kata para practicar el Open/Closed principle de Meyer. Me ha parecido interesante como ejemplo de prácticar en una kata no únicamente la construcción de software usando TDD si no algo más (en este caso OCP) A ver si en Septiembre podemos practicarla en Bcn ;)",
+  "date": 1377247436000
+}, {
+  "author": "Guillermo Pascual",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Conversational patterns in BDD/Specification by example. <a rel=\"nofollow\" target=\"_blank\" href=\"http://lizkeogh.com/2011/09/22/conversational-patterns-in-bdd/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://lizkeogh.com/2011/09/22/conversational-patterns-in-bdd/</a>",
+  "date": 1377243984000
 }, {
   "author": "Manuel Rivero",
-  "category": "Architecture/Design",
-  "content": "Use Uncertainty As a Driver, Kevlin Henney (@KevlinHenney) http://www.artima.com/weblogs/viewpost.jsp?thread=351308",
-  "date": 1374552000000
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Una charla que compartió <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/111885584666182473491\" oid=\"111885584666182473491\" >Guillermo Pascual</a></span> en el club de lectura:<br>Challenging requirements<br> <a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/31715562\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/31715562</a>﻿<br><br>La pongo aquí para que esté más visible.",
+  "date": 1377248339000
+}, {
+  "author": "Guillermo Pascual",
+  "category": "Tools - CI - CD",
+  "content": "7 Reasons why Continuous Delivery needs to be a BUSINESS initiative - <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.allaboutagile.com/7-reasons-why-continuous-delivery-needs-to-be-a-business-initiative\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.allaboutagile.com/7-reasons-why-continuous-delivery-needs-to-be-a-business-initiative</a>",
+  "date": 1377244073000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1377246009000
 }, {
   "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Taming Asynchronous Programming (Beyond Promises) http://www.ustream.tv/recorded/29303800 Enrique Amodeo (Hiphunters) @ MLOC.JS ustream.tv",
-  "date": 1374552000000
+  "category": "XP, Lean & Agile",
+  "content": "Agile Product Management with Effect Maps<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://skillsmatter.com/podcast/agile-testing/effect-maps\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://skillsmatter.com/podcast/agile-testing/effect-maps</a><br><br>Los Effect Maps me parecen una idea muy interesante.",
+  "date": 1377271331000
 }, {
   "author": "Nico Cortés",
-  "category": "Community",
-  "content": "Y ya somos más de 100 Y aunque no soy muy amigo de celebrar fechas ni números, creo que si es una buena ocasión para hacer algún tipo de retrospectiva y analizar de forma crítica el funcionamiento de nuestra comunidad hasta el momento, atendiendo a que creamos que ha funcionado bien, y por supuesto, que podríamos hacer entre todos para mejorarla. Por eso, aquí os dejo este pequeño llamamiento a la reflexión. Si os parece: * Uitlicemos este post para adjuntar todos los comentarios al respecto que se os ocurran. * y sobre la base de dichos comentarios planifiquemos una hang para debatirlos y plantear la puesta en marcha de lo que consensuemos. TranslateShow original text",
-  "date": 1374552000000
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test Driven .NET Development with FitNesse: Second Edition (free download)",
+  "date": 1377182808000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "IEEE Software Special Issue on Technical Debt, Nov/Dec 2012. (vol. 29 no. 6) http://www.computer.org/csdl/mags/so/2012/06/index.html CSDL - IEEE Software Forrest Shull, Fraunhofer Center for Experimental Software Engineering. pp. 4-8. ABSTRACT · PDF · HTML. Impact. CSI Kernel: Finding a Needle in a Multiterabyte Haystack (Abstract). Clive King, Oracle. Chris Beal, Oracle. pp. 9-12. ABSTRACT. PDF. HTML. Buy. PURCHASE ARTICLE: $19 ... computer.org",
-  "date": 1374465600000
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": null,
+  "date": 1377160353000
 }, {
   "author": "Paulo Clavijo",
-  "category": "Learning",
-  "content": "Teach Yourself Programming in Ten Years Peter Norvig http://norvig.com/21-days.html Aprende a Programar en 10 años dosideas.com",
-  "date": 1374379200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "XP, Lean & Agile",
-  "content": "http://vimeo.com/32085663 4 Pecha Kuchas (Monday) by K. Beck, S. Roock, D. DeGrandis, J. Coldewey vimeo.com",
-  "date": 1374379200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Professional matters",
-  "content": "Ser profesional http://plqd.blogspot.com.es/2013/07/ser-profesional.html?view=classic TranslateShow original text Ser profesional plqd.blogspot.com.es",
-  "date": 1374292800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Test-Driven Development and Embracing Failure, Steve Freeman https://web.archive.org/web/20161029190044/http://www.higherorderlogic.com/2011/04/tdd-embracing-failure/",
-  "date": 1374292800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "Ejemplo de Double Dispatch https://bitbucket.org/trikitrok/rockpaperscissorsdoubledispatchexample/src Lo hice con TDD (pueden ver todos los commits). Al principio me lié y me arrinconé bastante, pero al final pude llegar refactorizando hasta donde quería. TranslateShow original text trikitrok / RockPaperScissorsDoubleDispatchExample / source / — Bitbucket Clone in SourceTree. SourceTree is a free Windows client by Atlassian for Git, Mercurial, and Subversion. SourceTree is a free Mac client by Atlassian for Git, Mercurial, and Subversion. Overview · Source · Commits · Pull requests · Issues · Wiki · Downloads. Branch default ... bitbucket.org",
-  "date": 1374206400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Testing the UI: presentation and rendering http://www.jbrains.ca/permalink/testing-the-ui-presentation-and-rendering",
-  "date": 1374206400000
+  "category": "",
+  "content": null,
+  "date": 1377210432000
 }, {
   "author": "Nico Cortés",
-  "category": "Languages",
-  "content": "Python para todos' es un libro sobre programación en Python escrito por Raúl González Duque. Se trata de un tutorial de Python adecuado para todos los niveles y que puedes descargar totalmente gratis. El tutorial de Python 'Python para todos' se distribuye bajo licencia Creative Commons Reconocimiento 2.5 España, lo que supone que puedes distribuirlo, modificarlo, traducirlo a otros idiomas, ... siempre que indiques el autor original. El enlace de la fuente os lo dejo a continuación. TranslateShow original text Tutorial de Python bit.ly",
-  "date": 1374206400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "The editing pass, Michael McCracken http://michael-mccracken.net/2007/10/the-editing-pass/",
-  "date": 1374206400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Legacy Code",
-  "content": "Ask why, but never answer, J. B. Rainsberger (@jbrains) http://www.jbrains.ca/permalink/ask-why-but-never-answer",
-  "date": 1374206400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Courses, events, conferences,...",
-  "content": "Barcelona JUG organiza un coding dojo la semana que viene: http://www.barcelonajug.org/2013/07/ultimo-evento-de-la-temporada-2013-coding-dojo.html TranslateShow original text Último evento de la temporada 2013 (25/07): Coding Dojo barcelonajug.org",
-  "date": 1374206400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Community",
-  "content": "Vaya, llegamos a 100 aprendices! TranslateShow original text",
-  "date": 1374120000000
-}, {
-  "author": "Abel Cuenca",
   "category": "TDD - BDD - Testing - Monitoring",
-  "content": "La semana pasada durante el hangout me acordaba de este post de J.B. Rainsberger: http://www.jbrains.ca/permalink/becoming-an-accomplished-software-designer Me parece bastante atractiva (y tranquilizadora) la idea de que, si no tenemos una intuición de por donde orientar la solución, hay suficientes actividades mecánicas que nos van a guiar de manera segura (aunque quizás bastante más lenta). TranslateShow original text Becoming an accomplished software designer – jbrains jbrains.ca",
-  "date": 1374120000000
+  "content": "How to sell BDD to the business",
+  "date": 1377179733000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Katas",
-  "content": "Mi código para el ejercicio SellOneItem del curso que estoy haciendo: https://bitbucket.org/trikitrok/selloneitemexerciserainsbergercourse/src TranslateShow original text trikitrok / SellOneItemExerciseRainsbergerCourse / source / — Bitbucket Clone in SourceTree. SourceTree is a free Windows client by Atlassian for Git, Mercurial, and Subversion. SourceTree is a free Mac client by Atlassian for Git, Mercurial, and Subversion. Overview · Source · Commits · Pull requests · Issues · Wiki · Downloads. Branch default ... bitbucket.org",
-  "date": 1374120000000
-}, {
-  "author": "Asbeel G. Rodríguez",
+  "author": "Nico Cortés",
   "category": "TDD - BDD - Testing - Monitoring",
-  "content": "http://net.tutsplus.com/tutorials/php/testing-laravel-controllers/ Testing Laravel Controllers | Nettuts+ net.tutsplus.com",
-  "date": 1374120000000
+  "content": "Improving testing practices at Google",
+  "date": 1377182574000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Demystifying the Dependency Inversion Principle, J. B. Rainsberger http://blog.thecodewhisperer.com/2013/01/29/consequences-of-dependency-inversion-principle/ Demystifying the Dependency Inversion Principle - The Code Whisperer Another “demystifying” article. Great! I know… bear with me. Of the SOLID principles, the Dependency Inversion Principle remains somewhat … blog.thecodewhisperer.com",
-  "date": 1374120000000
-}, {
-  "author": "Manuel Rivero",
+  "author": "Marco Antonio González Gómez-Caro",
   "category": "XP, Lean & Agile",
-  "content": "Essentials of Agile Software Development http://xprogramming.com/blog/essentials-of-agile-software-development Essentials of Agile Software Development | xProgramming.com xprogramming.com",
-  "date": 1374033600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Legacy Code",
-  "content": "Strangler Application, Martin Fowler (@martinfowler) http://www.martinfowler.com/bliki/StranglerApplication.html",
-  "date": 1374033600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Chris Matts on BDD, Feature Injection and Commitment http://www.infoq.com/interviews/matts-commitment-bdd Chris Matts on BDD, Feature Injection and Commitment Chris Matts was interviewed at QCon London. He discusses behavior driven development, feature injection and his latest project - a graphic novel written with Olav Maassen and Chris Geary explaining the principles of real options in a project using a compelling story and an unusual format. infoq.com",
-  "date": 1374033600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Roles, stereotypes, kinds of objects, Matteo Vaccari (@xpmatteo) http://matteo.vaccari.name/blog/archives/842",
-  "date": 1374033600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Legacy Code",
-  "content": "Agile approach to legacy systems, Chris Stevenson and Andy Pols http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf",
-  "date": 1374033600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Courses, events, conferences,...",
-  "content": "http://www.javahispano.org/portada/2013/7/11/preinscripcion-abierta-para-codemotion-2013.html javaHispano - Portada - Preinscripción abierta para Codemotion 2013 javahispano.org",
-  "date": 1374033600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Legacy Code",
-  "content": "Legacy Application Strangulation : Case Studies http://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/",
-  "date": 1374033600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "[PREGUNTA] Mocks y colaboradores https://groups.google.com/forum/?hl=en#!topic/agile-spain/L9fryq2Bu5Q TranslateShow original text [PREGUNTA] Mocks y colaboradores - Google Groups [PREGUNTA] Mocks y colaboradores, Kiko Caldito, 7/10/13 1:19 PM, Bueno, aqui estamos otra vez con una duda existencial... A la hora de trabajar TDD me lo han dejado claro: trabaja sobre memoria, no te preocupes con la persistencia hasta el final. Esto significa que debo 'simular' el acceso a los ... groups.google.com",
-  "date": 1373947200000
-}, {
-  "author": "Ricardo Roldán",
-  "category": "Clean Code",
-  "content": "Code quality is the responsibility of the people who actually write the code Crisp's Blog » The Solution to Technical Debt blog.crisp.se",
-  "date": 1373947200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Interesting Posts and Papers",
-  "content": "Stoos Sparks #4 Stoos Sparks #4",
-  "date": 1373947200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Tools - CI - CD",
-  "content": "DDDEA - Continuous Delivery at 7digital http://prezi.com/2wczo541qzpy/dddea-continuous-delivery-at-7digital/",
-  "date": 1373947200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "XP, Lean & Agile",
-  "content": "It’s All About Value http://xprogramming.com/articles/its-all-about-value/ It’s All About Value | xProgramming.com xprogramming.com",
-  "date": 1373947200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Courses, events, conferences,...",
-  "content": "http://workos.cat/project/lean-a-la-fresca/ Lean a la fresca | workos workos.cat",
-  "date": 1373860800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "What's in a Story? http://dannorth.net/whats-in-a-story/",
-  "date": 1373515200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "GUI ArchitecturesGUI Architectures http://martinfowler.com/eaaDev/uiArchs.html TranslateShow original text GUI ArchitecturesGUI Architectures martinfowler.com",
-  "date": 1373515200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Interesting Posts and Papers",
-  "content": "The Ever-Fatter Thin Client http://www.drdobbs.com/web-development/the-ever-fatter-thin-client/240157951",
-  "date": 1373515200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "The Build Your Own CAB Series: http://codebetter.com/jeremymiller/2007/07/26/the-build-your-own-cab-series-table-of-contents/ The Build Your Own CAB Series Table of Contents | Jeremy D. Miller Yes, this is overdue. Here is an introduction and table of contents to my “Build Your Own CAB” series of blog posts on designing WinForms applications. You'll see nothing here about user experience and not much WinForms technology. That stuff is covered quite well in a hundred different places. codebetter.com",
-  "date": 1373515200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "Interactive Application Architecture Patterns http://aspiringcraftsman.com/2007/08/25/interactive-application-architecture/ Interactive Application Architecture Patterns aspiringcraftsman.com",
-  "date": 1373515200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "Comentando y extendiendo el artículo de Fowler: Article: \"GUI Architectures\" http://brandeiscosi.wordpress.com/2010/10/10/article-gui-architectures-by-martin-fowler/ Article: \"GUI Architectures\" by Martin Fowler brandeiscosi.wordpress.com",
-  "date": 1373515200000
-}, {
-  "author": "Gabriel Moral",
-  "category": "Courses, events, conferences,...",
-  "content": "Buenas, ¿Alguien ha pensado en asistir a la CAS2013? Yo me estoy planteando ir, siempre y cuando en mi curro me den vacaciones. Aquí os dejo el enlace por si le queréis pegar un vistazo, http://conferencia2013.agile-spain.org TranslateShow original text",
-  "date": 1373428800000
-}, {
-  "author": "Alfonso Burgos",
-  "category": "Readers Club",
-  "content": "Originally shared by Alfonso Burgos The Pragmatic Bookshelf | Read Our Magazines pragprog.com",
-  "date": 1373342400000
-}, {
-  "author": "Joaquin Engelmo Moriche",
-  "category": "Interesting Posts and Papers",
-  "content": "He aquí un sitio que vale su peso en oro :) Si bien sus contenidos no son precisamente nuevos en el tiempo siguen siendo igual de válidos. De autores como el tío Bob, Michael Feathers y más. A disfrutarlo TranslateShow original text Published Articles Agile and Object Oriented Design training, mentoring, coaching, and development. objectmentor.com",
-  "date": 1373342400000
-}, {
-  "author": "Joaquin Engelmo Moriche",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "¡Tenemos al tío Bob en Londres! :) Con sus cursos con la gente de Skills Matter http://skillsmatter.com/ y siempre aprovechan para que de alguna charla que luego graban. Aquí la de ayer sobre Acceptant Tests (aún no la he visto, necesito que dejemos estas tonterías e inventemos de una vez los días de 40 horas, por favor :D) http://skillsmatter.com/podcast/home/automated-acceptance-testing/jd-7929",
-  "date": 1373342400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Interesting Posts and Papers",
-  "content": "On Our Ability To Do Much, Michael Feathers (@mfeathers) http://skillsmatter.com/podcast/home/on-our-ability-to-do-much",
-  "date": 1373342400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Tools - CI - CD",
-  "content": "Continuous Delivery by Martin Fowler, Jez Humble http://yow.eventer.com/yow-2011-1004/continuous-delivery-by-martin-fowler-and-jez-humble-1062 Continuous Delivery by Martin Fowler, Jez Humble - YOW 2011 | Eventer Businesses rely on getting valuable new software into the hands of usersas fast as possible, while making sure that they keep their production environments stable. Continuous Delivery is a revolutionary and scalableagile methodology that enables any ; Video: 01:01:09; 2011-12-02; DevOps; Martin Fowler is an author, speaker, consultant and general loud-mouth on software development. He concentrates on designing enterprise software - looking at wha... yow.eventer.com",
-  "date": 1373256000000
-}, {
-  "author": "Joaquin Engelmo Moriche",
-  "category": "Community",
-  "content": "Buenas \"pedazos de cracks\" :) lo primero es lo primero, ¡vivan los profesionales buenos preocupados por mejorar! Mega fail por mi parte que descubrí la comunidad hace unos días y ahora tengo que verlo todo :D Tema 2, los hangouts, ¿no se han ido grabando? Ya que \"viene gratis\" con youtube creo que sería un gran contenido a mantener no? ;) Mi intención es participar todo lo posible por aquí, gracias por tomar la iniciativa! Abrazos! TranslateShow original text",
-  "date": 1373256000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Domain Driven Design",
-  "content": "Domain Driven Design Reference by Eric Evans: http://domainlanguage.com/ddd/patterns/DDD_Reference_2011-01-31.pdf",
-  "date": 1373256000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Connascence Examined, Jim Weirich http://yow.eventer.com/yow-2012-1012/connascence-examined-by-jim-weirich-1273 Connascence Examined by Jim Weirich - YOW! 2012 | Eventer yow.eventer.com",
-  "date": 1372996800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Test-Driven and Test-First (I) http://vimeo.com/5812605 JB Rainsberger - Test-Driven and Test-First Part 1 vimeo.com",
-  "date": 1372996800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Test-Driven and Test-First (II) http://vimeo.com/5813145 JB Rainsberger - Test-Driven and Test-First Part 2 vimeo.com",
-  "date": 1372996800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "XP, Lean & Agile",
-  "content": "Continuous Design by Mary Poppendieck http://yow.eventer.com/yow-2011-1004/continuous-design-by-mary-poppendieck-1027 Continuous Design by Mary Poppendieck - YOW 2011 | Eventer yow.eventer.com",
-  "date": 1372996800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "XP, Lean & Agile",
-  "content": "Lean Methodology - Lean Startup by Eric Ries https://www.udemy.com/lean-startup-sxsw-2012-videos-and-presentations/ Lean Methodology - Lean Startup by Eric Ries | Udemy udemy.com",
-  "date": 1372996800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "The Limited Red Society, Joshua Kerievsky http://yow.eventer.com/yow-2011-1004/the-limited-red-society-by-joshua-kerievsky-1036",
-  "date": 1372996800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "ATDD example: http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf",
-  "date": 1372910400000
-}, {
-  "author": "Casiano Rodriguez-Leon",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Originally shared by Casiano Rodriguez-Leon Test-driven development: Write better code in less time by Evan Dorn",
-  "date": 1372910400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Move Specificity Towards the Tests http://vimeo.com/5895145 JB Rainsberger - Move Specificity Towards the Tests vimeo.com",
-  "date": 1372824000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "Refactorings catalog: lhttp://www.refactoring.com/catalog/index.html Many more than in the original book. Alpha list of refactorings Refactorings in Alphabetical Order. This is a simple list of refactorings both from the original book and some later sources. Sadly I haven't had enough time and energy to keep this material up to date. Refactorings marked with with have some extra material to what's in the Refactoring book. refactoring.com",
-  "date": 1372737600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "Smells to Refactorings Cheatsheet http://www.industriallogic.com/blog/smells-to-refactorings-cheatsheet/ Smells to Refactorings Cheatsheet - Industrial Logic industriallogic.com",
-  "date": 1372737600000
+  "content": null,
+  "date": 1377091282000
 }, {
   "author": "Marco Antonio González Gómez-Caro",
   "category": "Clean Code",
-  "content": "Los cracks de la muerte hablando sobre acoplamiento y cohesión. Todo un must-watch. Disclaimer: no tenía claro dónde publicarlo. Sorry si me he equivocado. TranslateShow original text Understanding Coupling and Cohesion",
-  "date": 1372737600000
+  "content": null,
+  "date": 1377027821000
 }, {
   "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Callbacks as our Generations&#39; Go To Statement .Miguel de Icaza<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://tirania.org/blog/archive/2013/Aug-15.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://tirania.org/blog/archive/2013/Aug-15.html</a>",
+  "date": 1377013298000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Clean Code",
+  "content": null,
+  "date": 1376922560000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Best practices for JavaScript RIAs (by <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/109344225971145056361\" oid=\"109344225971145056361\" >Carlos Ble</a></span> , MadridJS 2013)<br><br>Table of contents:<br> * Is it an application or is it a website?<br> * Is it a library, a framework, or application code?<br> * Am I test-driving the code or not?<br> * Testing tools<br> * Testing techniques<br> * Desing patterns and architecture<br> * Client-Server?",
+  "date": 1376931320000
+}, {
+  "author": "Nico Cortés",
+  "category": "Readers Club",
+  "content": "Libro online y gratuito sobre patrones de diseño con JavaScript<br><br>Thanks a lot to @addyosmani",
+  "date": 1376930504000
+}, {
+  "author": "Guillermo Pascual",
+  "category": "Interesting Posts and Papers",
+  "content": "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/114552443805676710515\" oid=\"114552443805676710515\" >Ilya Grigorik</a></span> | Web Performance Crash Course - Fluent 2013. <br><br>From the ground up introduction to the field of web performance optimization: network bottlenecks, the document parsing and evaluation pipeline, visual layout, javascript, and more. We&#39;ll investigate each in order and then pull it all together through case studies and hands-on examples.<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY</a>",
+  "date": 1376902915000
+}, {
+  "author": "Nico Cortés",
+  "category": "Clean Code",
+  "content": "Interesante charla del tio Bob sobre su punto de vista de lo que es ser un profesional del software",
+  "date": 1376844408000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Readers Club",
+  "content": null,
+  "date": 1376769675000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": null,
+  "date": 1376765148000
+}, {
+  "author": "Nico Cortés",
   "category": "Architecture/Design",
-  "content": "Mi dominio es mio y no lo comparto, Javier Acero http://vimeo.com/69157481 TranslateShow original text Mi dominio es mío y no lo comparto... vimeo.com",
-  "date": 1372737600000
+  "content": "Interesante post introductorio sobre los callback utilizando JavaScript<br><br>Extracted links from:<br>- <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs</a><br>- Thanks to <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/117817370205182982732\" oid=\"117817370205182982732\" >Manuel Rivero</a></span> ",
+  "date": 1376738521000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "Otro ejemplo: Object Pool Design Pattern http://www.blackwasp.co.uk/ObjectPool.aspx Es parecido al Flyweight pattern que publicó Nico... TranslateShow original text Object Pool Design Pattern (Page 1 of 3) :: BlackWasp Software Development The object pool pattern is a creational design pattern that can improve performance when working with classes that are slow to instantiate. Rather than constructing new objects, reusable objects are retrieved from, and released to, a pool as required. blackwasp.co.uk",
-  "date": 1372651200000
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": null,
+  "date": 1376768004000
 }, {
-  "author": "Manuel Rivero",
+  "author": "Ricardo Roldán",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Vía <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/111110972092746056881\" oid=\"111110972092746056881\" >Leo Antoli</a></span> ",
+  "date": 1376661136000
+}, {
+  "author": "Matias Mascazzini",
+  "category": "Readers Club",
+  "content": null,
+  "date": 1376696319000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": null,
+  "date": 1376509472000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
   "category": "XP, Lean & Agile",
-  "content": "Agile Academy http://www.youtube.com/user/AgileAcademyAus Agile Academy youtube.com",
-  "date": 1372651200000
+  "content": null,
+  "date": 1376505482000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Legacy Code",
-  "content": "Cleaning Code - Tools and Techniques for Large Legacy Projects, Mike Long http://meekrosoft.wordpress.com/2013/05/15/cleaning-code-tools-and-techniques-for-large-legacy-projects/",
-  "date": 1372651200000
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "XP, Lean & Agile",
+  "content": "Tercera y última entrega de la serie sobre Historias de Usuario por @JuanmaGomeR",
+  "date": 1376510567000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "More on getters and setters http://www.javaworld.com/javaworld/jw-01-2004/jw-0102-toolbox.html?page=1 More on getters and setters javaworld.com",
-  "date": 1372564800000
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1376491396000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Procedural Polymorphism Procedural Polymorphism | 8th Light 8thlight.github.com",
-  "date": 1372564800000
+  "author": "Paulo Clavijo",
+  "category": "Interesting Posts and Papers",
+  "content": "Real Software Engineering - Glenn Vanderburg.<br><br>Software engineering as it&#39;s taught in universities simply doesn&#39;t work. It doesn&#39;t produce software systems of high quality, and it doesn&#39;t produce them for low cost. Sometimes, even when practiced rigorously, it doesn&#39;t produce systems at all.<br><br>That&#39;s odd, because in every other field, the term &quot;engineering&quot; is reserved for methods that work...",
+  "date": 1376484243000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Primitive obsession and Value objects conversation between J. B. Rainsberger and Corey Haines (part 2): http://vimeo.com/9919802#at=0 JB Rainsberger - Value Objects vimeo.com",
-  "date": 1372564800000
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": null,
+  "date": 1376433272000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1376389717000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": null,
+  "date": 1376415821000
 }, {
   "author": "Manuel Rivero",
   "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Carlos Ble. TDD Carlos Ble. TDD",
-  "date": 1372564800000
+  "content": "Testing Revisited, Michael Feathers (@mfeathers)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/54198870\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/54198870</a>",
+  "date": 1376402370000
 }, {
-  "author": "Manuel Rivero",
+  "author": "Marco Antonio González Gómez-Caro",
   "category": "XP, Lean & Agile",
-  "content": "¿Agile Spain o España Agil? carlosble.com",
-  "date": 1372564800000
+  "content": "Segunda parte de la serie de @JuanmaGomeR sobre Historias de Usuario (User Story Mapping).",
+  "date": 1376405792000
 }, {
-  "author": "Nico Cortés",
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": null,
+  "date": 1376386181000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": null,
+  "date": 1376332891000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
   "category": "XP, Lean & Agile",
-  "content": "No os perdais este magnífico resumen de @rcanalesmora sobre el #aos2013 TranslateShow original text Comentando la AOS 2013 Comentando el AOS 2013 bit.ly",
-  "date": 1372564800000
+  "content": null,
+  "date": 1376336135000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Katas",
-  "content": "Road Thoughts - Practice, Corey Haines http://vimeo.com/3039371 Road Thoughts - Practice vimeo.com",
-  "date": 1372564800000
-}, {
-  "author": "Manuel Rivero",
+  "author": "Marco Antonio González Gómez-Caro",
   "category": "XP, Lean & Agile",
-  "content": "Pair Programing http://thomassundberg.wordpress.com/2012/06/15/pair-programing/ Pair Programing thomassundberg.wordpress.com",
-  "date": 1372564800000
+  "content": null,
+  "date": 1376334453000
 }, {
   "author": "Manuel Rivero",
   "category": "Courses, events, conferences,...",
-  "content": "Originally shared by J. B. Rainsberger We will record this hangout and post it for you to view any time. Understanding Coupling and Cohesion We will record this hangout and post it for you to view any time. events",
-  "date": 1372478400000
+  "content": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.eventbrite.es/event/7808319895/?ref=enivte001&amp;invite=Mzk5NjUzNS90cmlraXRyb2tAZ21haWwuY29tLzA%3D\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.eventbrite.es/event/7808319895/?ref=enivte001&amp;invite=Mzk5NjUzNS90cmlraXRyb2tAZ21haWwuY29tLzA%3D</a>",
+  "date": 1376307962000
 }, {
   "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Primitive obsession and Value objects conversation between J. B. Rainsberger and Corey Haines (part 1): http://vimeo.com/9870277# Hacen referencia al CHECKS pattern language de Ward Cunningham. TranslateShow original text JB Rainsberger - Primitive Obsession vimeo.com",
-  "date": 1372478400000
+  "category": "Architecture/Design",
+  "content": "Systems and Domains. Triplet Sons of Different Mothers, Robert C. Martin<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://skillsmatter.com/podcast/design-architecture/uncle-bob\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://skillsmatter.com/podcast/design-architecture/uncle-bob</a>",
+  "date": 1376248610000
 }, {
   "author": "Manuel Rivero",
   "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Parameterized Test at XUnitPatterns.com http://xunitpatterns.com/Parameterized%20Test.html Parameterized Test at XUnitPatterns.com Parameterized Test. The book has now been published and the content of this chapter has likely changed substanstially. Please see page 607 of xUnit Test Patterns for the latest information. How do we reduce Test Code Duplication when we have the same test logic in many tests? xunitpatterns.com",
-  "date": 1372478400000
+  "content": "Otra charla que nos recomendó <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/101943262997914586854\" oid=\"101943262997914586854\" >Miguel Angel Fernández</a></span> en el curso de Desarrollo Ágil de BeCode:<br>Integration Tests Are a Scam<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.infoq.com/presentations/integration-tests-scam\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.infoq.com/presentations/integration-tests-scam</a>",
+  "date": 1376236751000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1376240007000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1376208501000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "cyber-dojo: a place to practice programming<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cyber-dojo.com/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.cyber-dojo.com/</a>",
+  "date": 1376234268000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Esta charla me pareció muy interesante:<br>Boundaries<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=yTkzNHF6rMs\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">Ruby Conf 12 - Boundaries by Gary Bernhardt</a>",
+  "date": 1376238149000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": null,
+  "date": 1376257779000
+}, {
+  "author": "Vicenç Garcia",
+  "category": "XP, Lean & Agile",
+  "content": "Todo un clásico",
+  "date": 1376258356000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Una charla corta muy interesante que <span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/101943262997914586854\" oid=\"101943262997914586854\" >Miguel Angel Fernández</a></span> nos pasó en el curso de Desarrollo Ágil de BeCode:<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=dn3IQoJEsSg\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">Help, I&#39;m Stuck! What Do I Test Next? | XI to Eye vol 6</a>",
+  "date": 1376233386000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "XP, Lean & Agile",
+  "content": "El Aprendiz de Agilidad - Una historia de Desarrollo Ágil",
+  "date": 1376120184000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "<span class=\"proflinkWrapper\"><span class=\"proflinkPrefix\">+</span><a class=\"proflink bidi_isolate\" href=\"https://plus.google.com/111885584666182473491\" oid=\"111885584666182473491\" >Guillermo Pascual</a></span> puso estos links en un comentario por lo que no eran muy visibles. Los pongo aquí para que sean más fáciles de ver:<br><br>&quot;Aquí dejo algunas cosas que he comentado sobre integration contract tests.&quot;<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"http://martinfowler.com/bliki/IntegrationContractTest.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://martinfowler.com/bliki/IntegrationContractTest.html</a><br><br><a rel=\"nofollow\" target=\"_blank\" href=\"http://thecodewhisperer.tumblr.com/post/1325859246/in-brief-contract-tests\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://thecodewhisperer.tumblr.com/post/1325859246/in-brief-contract-tests</a>﻿",
+  "date": 1376163249000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Interesting post about &quot;The Transformation Priority Premise&quot;<br><br>Recommended reading beside to the <a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/60561303#at=0\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/60561303#at=0</a>",
+  "date": 1376158489000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1376132682000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "&quot;Uncle Bob&quot; Martin - The Transformation Priority Premise",
+  "date": 1376151672000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "",
+  "content": null,
+  "date": 1376051819000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "XP, Lean & Agile",
+  "content": null,
+  "date": 1376058981000
+}, {
+  "author": "Nico Cortés",
+  "category": "Languages",
+  "content": "Java Script: Designing a Language in 10 Days",
+  "date": 1376046051000
+}, {
+  "author": "Francho Joven",
+  "category": "Community",
+  "content": "Hola soy Francho de Zaragoza.<br><br>Me gusta definirme como &quot;un papá, artesano del software, de esos que van al trabajo a divertirse&quot; :)<br><br>Es decir, que me encanta programar. Me dedico a esto a nivel profesional desde 1996. Durante un tiempo compaginé la programación con la administración de sistemas.<br><br>Ahora ando enfocado en la programación para móviles (Android, iOs, javascript principalmente) y a las metodologías ágiles.<br><br>También estoy bastante involucrado en el proyecto de <a rel=\"nofollow\" target=\"_blank\" href=\"http://zagales-hacklab.org\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">zagales-hacklab.org</a> con el que pretendemos enseñar a l@s niñ@s a usar la tecnología.<br><br>Más info en <a rel=\"nofollow\" target=\"_blank\" href=\"http://francho.org/about/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://francho.org/about/</a>",
+  "date": 1376041529000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": null,
+  "date": 1376039925000
+}, {
+  "author": "Guillermo Pascual",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Uncle Bob - Advanced Concepts in TDD.<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/71816368\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/71816368</a>",
+  "date": 1376000629000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Decir que no<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://plqd.blogspot.com.es/2013/08/decir-que-no.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://plqd.blogspot.com.es/2013/08/decir-que-no.html</a>",
+  "date": 1376004721000
+}, {
+  "author": "Beatriz Aldaz",
+  "category": "Courses, events, conferences,...",
+  "content": "8 plataformas para aprendizaje online<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://alt1040.com/2013/08/aprendizaje-online\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://alt1040.com/2013/08/aprendizaje-online</a>",
+  "date": 1375949566000
+}, {
+  "author": "Nico Cortés",
+  "category": "Interesting Posts and Papers",
+  "content": "Interesante entrevista del País a Brenda Eich, creador de Javascript y actual CTO de Mozilla",
+  "date": 1375975292000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Quality-Speed Tradeoff — You’re kidding yourself. Ron Jeffries<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://xprogramming.com/blog/quality-speed-tradeoff-youre-kidding-yourself/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://xprogramming.com/blog/quality-speed-tradeoff-youre-kidding-yourself/</a>",
+  "date": 1375869068000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Five Key Ingredients of Essential Test-Driven Development<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://powersoftwo.agileinstitute.com/2011/11/five-key-ingredients-of-essential-test.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://powersoftwo.agileinstitute.com/2011/11/five-key-ingredients-of-essential-test.html</a>",
+  "date": 1375900252000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Interesante debate de hace algún tiempo sobre Software Craftsmanship en orden cronológico:<br><br>Programming is not a craft (Dan North)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://dannorth.net/2011/01/11/programming-is-not-a-craft/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://dannorth.net/2011/01/11/programming-is-not-a-craft/</a><br><br>Enough With The Software Holy Wars! (Jason Gorman)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://codemanship.co.uk/parlezuml/blog/?postid=992\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://codemanship.co.uk/parlezuml/blog/?postid=992</a><br><br>The Thing of Software Development (Michael Feathers)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://michaelfeathers.typepad.com/michael_feathers_blog/2011/01/the-thing-of-software-development.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://michaelfeathers.typepad.com/michael_feathers_blog/2011/01/the-thing-of-software-development.html</a><br><br>The Path Already Taken (Gil Zilberfeld)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gilzilberfeld.com/2011/01/path-already-taken.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.gilzilberfeld.com/2011/01/path-already-taken.html</a><br><br>Software Craftsmanship: What it&#39;s all about. (Robert C. Martin)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://thecleancoder.blogspot.com.es/2011/01/software-craftsmanship-what-it-all.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://thecleancoder.blogspot.com.es/2011/01/software-craftsmanship-what-it-all.html</a>",
+  "date": 1375907261000
+}, {
+  "author": "Fermin Saez",
+  "category": "Clean Code",
+  "content": "<a rel=\"nofollow\" target=\"_blank\" href=\"http://agileage.blogspot.hu/2011/07/slow-and-dirty-rant-by-jason-gorman-at.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://agileage.blogspot.hu/2011/07/slow-and-dirty-rant-by-jason-gorman-at.html</a>",
+  "date": 1375864774000
+}, {
+  "author": "Miguel Angel Fernández",
+  "category": "Interesting Posts and Papers",
+  "content": "Lo leí ayer y me gustó mucho",
+  "date": 1375685925000
 }, {
   "author": "Gabriel Moral",
-  "category": "Languages",
-  "content": "http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/ Functions are first class objects in javascript – Helephant.com Functions are first class objects in javascript. Functions in javascript are first class objects. This means that javascript functions are just a special type of object that can do all the things that regular objects can do. helephant.com",
-  "date": 1372305600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "The Four Elements of Simple Design J. B. Rainsberger http://www.jbrains.ca/permalink/the-four-elements-of-simple-design",
-  "date": 1372219200000
-}, {
-  "author": "Paulo Clavijo",
-  "category": "Readers Club",
-  "content": "Nos quedan solo un par de sesiones para terminar con \"Implementation Patterns - Beck\", nuestro segundo libro en el Club de la Lectura tras \"Users Stories Applied - Mike Cohn\". Durante esta semana vamos a ir decidiendo cual va a ser el siguiente, así los que queramos comprarlo en papel tendremos tiempo suficiente. He preparado una encuesta con los titulos que comentamos. ¿Cuál de los siguientes libros prefieres? Marca con un +1 tu favorito. TranslateShow original text",
-  "date": 1372219200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Assert First http://www.clear-lines.com/blog/post/Assert-First.aspx Assert First We were doing some pair-programming with Petar recently, Test-Driven Development style, and started talking about how figuring out where to begin with the tests is often the hardest part. Petar noticed that when writing a test, I was typically starting at the end, first writing an Assert, ... clear-lines.com",
-  "date": 1372219200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "Ward Cunningham's CHECKS pattern language: http://c2.com/ppr/checks.html The CHECKS Pattern Language of Information Integrity The CHECKS Pattern Language of Information Integrity. Any program that accepts user input will need to separate good input from bad, and to make sure little of the latter gets recorded. This pattern language tells how to make these checks without complicating the program and compromising future ... c2.com",
-  "date": 1372219200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Domain Driven Design",
-  "content": "http://www.eferro.net/2013/06/el-arte-del-patadon-palante-postponer.html El arte del patadon pa'lante / Postponer decisiones técnicas eferro.net",
-  "date": 1372132800000
-}, {
-  "author": "José E. Rodríguez",
   "category": "Interesting Posts and Papers",
-  "content": "http://coen.boisestate.edu/ece/files/2013/05/Creating.a.Raspberry.Pi-Based.Beowulf.Cluster_v2.pdf coen.boisestate.edu/ece/files/2013/05/Creating.a.Raspberry.Pi-Based.Beowulf.Cluster_v2.pdf coen.boisestate.edu",
-  "date": 1372132800000
-}, {
-  "author": "Paulo Clavijo",
-  "category": "Domain Driven Design",
-  "content": "In this talk, Eric Evans outlines some of the foundations of Domain-Driven Design: How models are chosen and evaluated; How multiple models coexist; How the patterns help avoid the common pitfalls, such as overly interconnected models; How developers and domain experts together in a DDD team engage in deeper exploration of their problem domain and make that understanding tangible as a practical software design. DDD: putting the model to work infoq.com",
-  "date": 1371960000000
-}, {
-  "author": "Paulo Clavijo",
-  "category": "Tools - CI - CD",
-  "content": "PowerMock nos permite extender EasyMock o Mockito con alguna funcionalidades avanzadas como el moquear metodos static o constructores. Como todo framework se puede usar para bien o para mal, y olvidarnos de que es el buen código es el que permite ser testeado facilmente. TranslateShow original text Mocking static methods in Java system classes – Jayway jayway.com",
-  "date": 1371787200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Can Approval Testing and Specification by Example Work Together? Nat Pryce http://www.natpryce.com/articles/000801.html",
-  "date": 1371787200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Readers Club",
-  "content": "Un libro viejuno que nombramos en el club de la lectura de esta noche: Object Design. Roles, Responsibilities, and Collaborations Rebecca Wirfs-Brock and Alan McKean http://www.amazon.com/Object-Design-Roles-Responsibilities-Collaborations/dp/0201379430 Habla de Responsibility Driven Design. Hay un post en la comunidad con las trasparencias de una charla de Rebecca Wirfs-Brock sobre RDD. TranslateShow original text Object Design: Roles, Responsibilities, and Collaborations: Rebecca Wirfs-Brock, Alan McKean: 0785342379433: Amazon.com: Books Object Design: Roles, Responsibilities, and Collaborations [Rebecca Wirfs-Brock, Alan McKean] on Amazon.com. *FREE* super saver shipping on qualifying offers. After more than ten years, object technology pioneer Rebecca Wirfs-Brock teams with expert Alan McKean to present a thoroughly updated amazon.com",
-  "date": 1371700800000
-}, {
-  "author": "Ricardo Roldán",
-  "category": "XP, Lean & Agile",
-  "content": "Originally shared by Ricardo Roldán La Magia de las Historias de Usuario / Desarrollo Conducido por Historias de Usuario lecciones-aprendidas.blogspot.com.es",
-  "date": 1371700800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "Ejemplo Strategy Pattern en C++ https://bitbucket.org/trikitrok/strategypatternexamplecpp/src TranslateShow original text trikitrok / StrategyPatternExampleCpp / source / — Bitbucket Clone in SourceTree. SourceTree is a free Windows client by Atlassian for Git and Subversion. SourceTree is a free Mac client by Atlassian for Git, Mercurial, and Subversion. Overview · Source · Commits · Pull requests · Issues · Wiki · Downloads. Branch default ... bitbucket.org",
-  "date": 1371614400000
+  "content": "Un debate que creo que es interesante y podríamos opinar sobre ello, <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.linkedin.com/groups/Coding-in-non-quality-organization-76602.S.219658778\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.linkedin.com/groups/Coding-in-non-quality-organization-76602.S.219658778</a>",
+  "date": 1375696261000
 }, {
   "author": "Manuel Rivero",
   "category": "Interesting Posts and Papers",
-  "content": "The Design Principle that sneaks through your code, your system, and your life. Postel's Law Michael Feathers, (@mfeathers) http://skillsmatter.com/podcast/home/the-design-principle-that-sneaks-through",
-  "date": 1371614400000
+  "content": "Complaining about Other People&#39;s Code, Nat Pryce<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.natpryce.com/articles/000756.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.natpryce.com/articles/000756.html</a>",
+  "date": 1375637429000
 }, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Conversación muy interesante en la que Steve Freeman y Michael Feathers discuten sobre su visión del diseño orientado a objetos, desarrollo de software, TDD, Agile, clean code, etc: http://www.infoq.com/interviews/feathers-freeman-design La recomiendo, de verdad, es genial! TranslateShow original text Michael Feathers and Steve Freeman on Design Michael Feathers interviews Steve Freeman in an informal setting about current design techniques and the evolution of the software development community. They focus on the role of design in the community, how it has evolved, and where they think it needs to go. infoq.com",
-  "date": 1371614400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Interesante discusión sobre el enfoque end-to-end de GOOS y algunas ideas del Clean Architecture de Robert Martin: \"Start Each feature with an Acceptance Test\" => end-to-end ? https://groups.google.com/forum/?fromgroups#!topic/growing-object-oriented-software/uKtktAVhWLM",
-  "date": 1371614400000
-}, {
-  "author": "Frank Torres",
-  "category": "Clean Code",
-  "content": "http://michaelfeathers.typepad.com/michael_feathers_blog/2013/06/avoid-null-checks-by-replacing-finders-with-tellers.html Michael Feathers: Avoid Null Checks by Replacing Finders with Tellers One of my pet peeves in programming is null checks. Many codebases are littered with them and, as a result they are often very hard to understand. It's easy enough to complain about null checks, but it's harder to root... michaelfeathers.typepad.com",
-  "date": 1371441600000
-}, {
-  "author": "José E. Rodríguez",
-  "category": "Interesting Posts and Papers",
-  "content": "Originally shared by DeWitt Clinton Lucid walk-through of +Jordan Mechner's recently released Prince of Persia source code for the Apple II, at least the bootloading parts. Not having been an Apple II programmer myself, this is one of those articles where I learned something in literally every paragraph. I'm hoping the author, +Fabien Sanglard, can find the time to go into detail about more of the game code itself. Fascinating stuff! In three parts: 1. http://fabiensanglard.net/prince_of_persia 2. http://fabiensanglard.net/prince_of_persia/pop_boot.php 3. http://fabiensanglard.net/prince_of_persia/pop_boot2.php Many thanks to Fabien for writing this. Insightful throughout. Prince Of Persia Code Review Part 1 fabiensanglard.net",
-  "date": 1371355200000
-}, {
-  "author": "Nico Cortés",
-  "category": "Tools - CI - CD",
-  "content": "Instalación de sonar para Linux y MacOS X en 1 minuto TranslateShow original text Sonar native packages sonar-pkg.sourceforge.net",
-  "date": 1371355200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Katas",
-  "content": "Gilded Rose refactoring kata en Java https://bitbucket.org/trikitrok/gildedrosekatainjava/src Todo sería más fácil si el \"goblin\" nos dejara tocar la clase Item o la colección Items... xD",
-  "date": 1371355200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "Refactoring Fat Models with Patterns http://www.tvagile.com/2013/05/20/refactoring-fat-models-with-patterns/ Refactoring Fat Models with Patterns Fat models cause maintenance issues in large apps. Only incrementally better than cluttering controllers with domain logic, they usually represent a failure tvagile.com",
-  "date": 1371268800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Interesting Posts and Papers",
-  "content": "Fix your Pebbles http://www.altdevblogaday.com/2012/10/21/fix-your-pebbles/ TranslateShow original text Fix your Pebbles altdevblogaday.com",
-  "date": 1371268800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "XP, Lean & Agile",
-  "content": "7 Agile Best Practices that You Don’t Need to Follow http://swreflections.blogspot.com.es/2013/05/7-agile-best-practices-that-you-dont.html Es una crítica a algunas prácticas ágiles. Creo que esta bien leerlo porque ver otros puntos de vista es saludable para desafiar nuestras ideas y entendimiento, y forzarnos a reflexionar más sobre ellas. Puede ayudarnos a evitar caer en el \"cargo cult programming\". TranslateShow original text Building Real Software: 7 Agile Best Practices that You Don’t Need to Follow There are many good ideas and practices in Agile development, ideas and practices that definitely work: breaking projects into Small Releases to manage risk and accelerate feedback; time-boxing to limit WIP and keep everyone focused; relying only on working software as the measure of progress; ... swreflections.blogspot.com.es",
-  "date": 1371268800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "A fundamental design move, Matteo Vaccari (@xpmatteo) http://matteo.vaccari.name/blog/archives/856",
-  "date": 1371268800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Katas",
-  "content": "Roman Numerals Kata with Commentary (video) http://programmingtour.blogspot.it/2012/12/roman-numerals-kata-with-commentary.html On Being A Journeyman Software Developer: Roman Numerals Kata with Commentary programmingtour.blogspot.it",
-  "date": 1371268800000
-}, {
-  "author": "Nico Cortés",
-  "category": "Humour",
-  "content": "Javapocalypse, un trailer humorístico sobre Java (apto más bien solo para geeks) TranslateShow original text Javapocalypse, un trailer humorístico sobre Java (apto más bien solo para geeks) | Microsiervos (Humor) bit.ly",
-  "date": 1371268800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Interesting Posts and Papers",
-  "content": "On Simplexity http://www.altdevblogaday.com/2012/06/09/26562/ On Simplexity altdevblogaday.com",
-  "date": 1371268800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Selected TDD Resources To Start, Matteo Vaccari (@xpmatteo) http://matteo.vaccari.name/blog/selected-tdd-resources-to-start",
-  "date": 1371268800000
-}, {
-  "author": "Nico Cortés",
-  "category": "Courses, events, conferences,...",
-  "content": "Hoy finaliza el plazo de inscripción a #deSymfony 2013. Yo he estado en ediciones anteriores, y desde mi punto de vista es un evento de asistencia más que recomendable: - por temática y profundidad de las charlas, - ponentes, - y evidentemente, todo el aspecto de networking asociado. Si podéis pegaros una escapada a Madrid el próximo finde 21-23 Junio (ediciones anteriores fueron en Castellón), sin lugar a dudas es un buen plan. Conferencia española de Symfony y PHP (21-23 de junio de 2013, Madrid) | deSymfony 2013 bit.ly",
-  "date": 1371182400000
-}, {
-  "author": "Nico Cortés",
-  "category": "Courses, events, conferences,...",
-  "content": "Agile Girona Open Space – Sábado 22 Junio 10h a 15h TranslateShow original text » Agile Girona Open Space – Sábado 22 Junio 10h a 15h Agile Barcelona bit.ly",
-  "date": 1371182400000
-}, {
-  "author": "Paulo Clavijo",
-  "category": "Patterns",
-  "content": "Memoization Pattern Memoization. Una primer mirada | fernetjs Primero que nada, quería aclarar que conozco el término solamente en inglés, y no quiero entrar en debates filosóficos de cómo deberíamos llamarlo en fernetjs.com",
-  "date": 1371182400000
-}, {
-  "author": "Eduardo Ferro Aldama",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Interesante articulo... sensaciones, nerviosismo, ansiedad... TranslateShow original text ArticleS.UncleBob.JustTenMinutesWithoutAtest We used to refer to pages by their path names. Something like MyPage.ChildPage.GrandChildPage. This meant that there were strings all over the place that used the path syntax. It also meant that page names were passed into methods as strings. We want to change the syntax of wiki word paths from ... butunclebob.com",
-  "date": 1371182400000
+  "author": "Tomás Corral Casas",
+  "category": "Community",
+  "content": "Buenas, a todos.<br><br>Soy Tomás y vivo en Barcelona. Mi mundo gira en torno a aprender y enseñar todo lo que aprendo. <br>Me encanta vuestra comunidad y quiero que contéis conmigo para todo lo que os parezca. <br>Mi especialidad es el Javascript y el HTML5, en especial todo aquello enfocado a las buenas prácticas y técnicas extreme programming como TDD, Scrum...<br>A todos los que sois de Barcelona también os espero en el evento WeLoveJS que hacemos cada 3 meses (aprox) donde exponemos lo más nuevo sobre Javascript. <br>Un fuerte abrazo a todos.",
+  "date": 1375638434000
 }, {
   "author": "Manuel Rivero",
   "category": "Readers Club",
-  "content": "Un fragmento del capítulo 2 del GOOS que creo que describe muy bien algo que estuvimos comentando anoche en el hang-out sobre State: As well as hiding information, there's a more subtle benefit from \"Tell, don't ask\". It forces us to make explicit and so name the interactions between objects rather than leaving them implicit in a chain of getters.",
-  "date": 1371182400000
-}, {
-  "author": "Nico Cortés",
-  "category": "Clean Code",
-  "content": "Top 10 Secure Coding Practices (from @elmendalerenda) Top 10 Secure Coding Practices - Secure Coding - CERT Secure Coding Standards bit.ly",
-  "date": 1371182400000
-}, {
-  "author": "Nico Cortés",
-  "category": "Patterns",
-  "content": "Flyweight Design Pattern Flyweight Design Pattern - CodeProject codeproject.com",
-  "date": 1371182400000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Learning",
-  "content": "Serendipity and False Pride, Eugene Wallingford http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2004-08.html TranslateShow original text",
-  "date": 1371096000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "Refactoring Katas https://github.com/emilybache/Refactoring-Katas",
-  "date": 1371096000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Interesante visión desde la perspectiva de treinta y pico años de carrera: http://www.infoq.com/interviews/foote-oop-code TranslateShow original text Brian Foote on the State of OOP, Refactoring, Code Quality Brian Foote looks back at the promises of OOP and discusses which, if any, of them became reality. Also: a look at NoSQL, refactoring and code quality, testing and static typing and more. infoq.com",
-  "date": 1371096000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Katas",
-  "content": "Nico y yo vamos a trabajar la kata de refactoring \"Gilded Rose\" (https://github.com/emilybache/GildedRose-Refactoring-Kata) e implementar el patrón Strategy (para el caso SimUDuck del Head First Design Patterns) en varios lenguajes para el Martes que viene. Colgaremos por aquí el código resultante. Si alguien más se anima es más que bienvenido a participar. TranslateShow original text GildedRose-Refactoring-Kata github.com",
-  "date": 1371096000000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Learning",
-  "content": "Practices Versus Etudes, Eugene Wallingford http://c2.com/cgi/wiki?PracticesVersusEtudes Practices Versus Etudes Is XP a collection of practices which should be followed as much as possible, because programming teams get better results when they do all the practices diligently? Or are they \"etudes\" - practices to study, but not necessarily to implement in all circumstances because they're just goals to ... c2.com",
-  "date": 1371009600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Architecture/Design",
-  "content": "Hexagonal Architecture (Alistair Cockburn) at Mark Needham http://www.markhneedham.com/blog/2009/07/30/book-club-hexagonal-architecture-alistair-cockburn/ Book Club: Hexagonal Architecture (Alistair Cockburn) at Mark Needham Thoughts on Software Development markhneedham.com",
-  "date": 1371009600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "Functional Programming Patterns in Four Popular Javascript Libraries http://css.dzone.com/articles/functional-programming-1",
-  "date": 1371009600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "A brief tour of RDD in 2004 de Rebeca Wirfs Brock http://www.wirfs-brock.com/PDFs/A%20Brief%20Tour%20of%20RDD%20in%202004.pdf RDD es la base de la forma que tienen los autores de GOOS de pensar en los objetos en función de sus roles, responsabilidades y colaboradores. TranslateShow original text www.wirfs-brock.com/PDFs/A%20Brief%20Tour%20of%20RDD%20in%202004.pdf wirfs-brock.com",
-  "date": 1371009600000
-}, {
-  "author": "Nico Cortés",
-  "category": "Professional matters",
-  "content": "5 Things a Java Developer Should Consider This Year This post is about 5 things that I am planning to do this year. I have created it for me to track my progress then thought it can be a good direction for anybody similar. 5 Things a Java Developer Should Consider This Year | Architects Zone bit.ly",
-  "date": 1371009600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Learning",
-  "content": "Don’t Waste Your Golden Learning Opportunity!, J. B. Rainsberger http://www.jbrains.ca/permalink/dont-waste-your-golden-learning-opportunity Don’t Waste Your Golden Learning Opportunity! – jbrains Very true. I've watch dozens of organisations adopt practices in order to have new rules to follow, but these organisations have tended not to make any lasting change nor realise significant improvements. At the risk of oversimplifying the situation, we all know from direct personal experience ... jbrains.ca",
-  "date": 1371009600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "State vs. Interaction Based Testing Example http://nat.truemesh.com/archives/000356.html",
-  "date": 1371009600000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Clean Code",
-  "content": "Guiding Software Development with Design Challenges, Michael Feathers (@mfeathers) http://michaelfeathers.typepad.com/michael_feathers_blog/2013/06/guiding-software-development-with-design-challenges-1.html",
-  "date": 1370923200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "Refactoring: Replace condional with polymorphism, Part II http://www.carlosble.com/2011/11/screencast-replace-conditional-part-ii/",
-  "date": 1370923200000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Refactoring",
-  "content": "Refactoring: Replace condional with polymorphism, Part I http://www.carlosble.com/2011/11/first-refactoring-screencast/",
-  "date": 1370923200000
-}, {
-  "author": "Nico Cortés",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Agile Development – Difference between TDD/ATDD/BDD ? Interesante artículo que expone de forma resumida la diferencia entre estás técnicas. Agile Development – Difference between TDD/ATDD/BDD ? anitpatel.net",
-  "date": 1370923200000
-}, {
-  "author": "Ricardo Roldán",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Originally shared by Ricardo Roldán Software Quality via Unit Testing javacodegeeks.com",
-  "date": 1370923200000
-}, {
-  "author": "Alfonso Burgos",
-  "category": "Katas",
-  "content": "Originally shared by Alfonso Burgos Programming tasks are problems that may be solved through programming. When such a task is defined, Rosetta Code users are encouraged to solve them using as many different languages as they know. The end goal is to demonstrate how the same task is accomplished in different languages. These are the Programming Tasks that have been defined and solved. Feel free to add solutions in languages not already included. Read the guidelines on creating new tasks. If you need help, check the discussion for this page. Category:Programming Tasks - Rosetta Code Programming tasks are problems that may be solved through programming. When such a task is defined, Rosetta Code users are encouraged to solve them using as many different languages as they know. The end goal is to demonstrate how the same task is accomplished in different languages. rosettacode.org",
-  "date": 1370836800000
-}, {
-  "author": "Alfonso Burgos",
-  "category": "Humour",
-  "content": "Writing unit tests devopsreactions.tumblr.com",
-  "date": 1370836800000
-}, {
-  "author": "Alfonso Burgos",
-  "category": "Humour",
-  "content": "when the subroutine unexpectedly returns a null value - thecodinglove thecodinglove.com",
-  "date": 1370836800000
-}, {
-  "author": "Alfonso Burgos",
-  "category": "Readers Club",
-  "content": "Originally shared by Alfonso Burgos About the Succinctly series The essentials in about 100 pages Free E-books: C++, JavaScript, Git, ... While a lot of information on application development is available on the internet and in books, that information is becoming harder to digest. If you do not enjoy reading several 500+ page books, or scouring the web for relevant blog posts and articles, you have come to the right place. Syncfusion publishes the Succinctly series concise technical books that target developers working on the Microsoft platform. Each book is around 100 pages and is guaranteed to enlighten you on the topic of interest. Download a copy, get a cup of your favorite beverage, and enjoy! Syncfusion | Technology Resource Portal syncfusion.com",
-  "date": 1370836800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Patterns",
-  "content": "John Lindquist's PatternCraft es una colección de videos que explican algunos patrones de diseño usando ejemplos sacados de videojuegos: http://www.youtube.com/playlist?list=PL8B19C3040F6381A2 TranslateShow original text PatternCraft youtube.com",
-  "date": 1370836800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "TDD - BDD - Testing - Monitoring",
-  "content": "Growing software from examples, Seb Rose (@sebrose) http://www.slideshare.net/sebrose/growing-software-from-examples-22730701",
-  "date": 1370836800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Architecture/Design",
-  "content": "Estas dos charlas cubren en mayor profundidad varios de los temas que vimos en la charla de Simon Brown de hoy: How much architecture is just enough? http://skillsmatter.com/podcast/home/how-much-just-enough Effective sketches http://skillsmatter.com/podcast/home/sb-effective-sketches Hay algunas otras charlas suyas aquí: http://skillsmatter.com/expert-profile/home/simon-brown TranslateShow original text",
-  "date": 1370836800000
-}, {
-  "author": "Manuel Rivero",
-  "category": "Readers Club",
-  "content": "https://github.com/grzesiek-galezowski/tdd-ebook tdd-ebook github.com",
-  "date": 1370750400000
+  "content": "The Developer book club<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://developerbookclub.net/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://developerbookclub.net/</a><br><br>En palabras del autor:<br>&quot;I’m going to see if I can find interesting developers and get them to tell me their story about three technical books that influenced or inspired them&quot;",
+  "date": 1375654323000
 }, {
   "author": "Manuel Rivero",
   "category": "Podcasts",
-  "content": "Mock, Stub, Spy y otras hierbas con Carlos Blé http://www.32minutos.net/?p=14 TranslateShow original text",
-  "date": 1370750400000
+  "content": "Functional vs Object Oriented Programming, Michael Feathers (@mfeathers)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/</a>",
+  "date": 1375637685000
+}, {
+  "author": "Vicenç Garcia",
+  "category": "Community",
+  "content": "Hola a todos,<br><br>mi nombre es Vicenç García (@vgaltes) y actualmente trabajo como desarrollador y formador en Plain Concepts, programando en .Net y javascript. Me interesa la profesionalidad y el hacer bien las cosas y seguir aprendiendo cada día. Ahora mismo mi principal área de aprendizaje es el cuidado de un enano de seis meses :-)<br><br>Llevo poco en esta comunidad, pero estoy flipando con la cantidad y calidad de lo que hay por aquí. Espero poder aportar mi granito de arena.<br><br>Un abrazo!",
+  "date": 1375546942000
+}, {
+  "author": "Miguel Angel Diez",
+  "category": "Community",
+  "content": "Aunque tenía previsto ayer asistir al coloquio sobre git, al final me fué imposible. Viernes tarde, niña de 6 años. ...<br><br>Lo veré en youtube. Gracias Pepe.",
+  "date": 1375543807000
+}, {
+  "author": "Carlos García",
+  "category": "Community",
+  "content": "Hola, soy Carlos y vivo en Arteixo. Desarrollo sofware desde hace 13 años, y, aunque mucha de la gente que conozco decidió &quot;ascender&quot; y dejar de desarrollar, a mi es lo que siempre me apasionó. Desde hace 4 años empecé a utilizar Agile como parte de un cambio hacia la mejora como programador. Y gracias a gente fantástica y comunidades como esta todo es mucho más fácil. <br><br>Junto con otra gente relacionada con el mundo TIC constituimos una asociación de coworking para colaborar y aprender unos de otros, aquí en Arteixo. A la que estáis todos invitados a venir cuando queráis y compartir experiencias. <br><br>Mi perfil y experiencias las comparto en <a rel=\"nofollow\" target=\"_blank\" href=\"http://unpasoatras.tumblr.com/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://unpasoatras.tumblr.com/</a>",
+  "date": 1375542560000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "Community",
+  "content": "Hola, soy Jaume y soy de Barcelona. No se como definirme, simplemente me gusta ayudar y participar todo lo que puedo en comunidades como esta :) Me encanta esta comunidad, y ver tanta gente alrededor del concepto de aprender continuamente. ",
+  "date": 1375558799000
+}, {
+  "author": "Eduardo Ferro Aldama",
+  "category": "Community",
+  "content": "Buenas, soy Eduardo Ferro (@eferro) y empece con los ordenadores con un ZXSpectum hace mucho tiempo. Llevo dedicandome profesionalmente a esto desde el 96 y actualmente trabajo en un equipo de Extreme Programming... Aparte de desarrollador soy feliz papa, lo que ocupa gran parte del tiempo que no dedico a esto de los ordenadores.<br>Si quereis conocer algo más de mi, podeis visitar mi blog <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.eferro.net\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.eferro.net</a> o mi perfil de linkedin <a rel=\"nofollow\" target=\"_blank\" href=\"http://es.linkedin.com/in/eferro\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://es.linkedin.com/in/eferro</a> ",
+  "date": 1375543994000
+}, {
+  "author": "Pepe Doval",
+  "category": "Community",
+  "content": "Aquí está el resultado del coloquio de ayer.<br><br>He añadido al vídeo anotaciones con los links mencionados. En la página del evento y en la de youtube he puesto también un metraje con los puntos más relevantes.",
+  "date": 1375533958000
+}, {
+  "author": "Guillermo Pascual",
+  "category": "Domain Driven Design",
+  "content": "Don’t publish Domain Events, return them!<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jayway.com/2013/06/20/dont-publish-domain-events-return-them/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.jayway.com/2013/06/20/dont-publish-domain-events-return-them/</a>",
+  "date": 1375558755000
+}, {
+  "author": "Gabriel Moral",
+  "category": "Community",
+  "content": "Mi nombre es Gabriel, desarrollador .NET desde hace 5 años, cansado de hacer &quot;basura&quot;, decidido a aprender  de todos vosotros y mejorar día a día.",
+  "date": 1375529275000
+}, {
+  "author": "beatriz martín “zigiella”",
+  "category": "Community",
+  "content": "Hola. Soy Bea y soy de Barcelona.<br>Me muevo en el ámbito de la estrategia y desarrollo digital. Me gusta hacer las cosas bien, tanto en el proceso como en el producto, mejorando continuamente.<br>Esta comunidad es de lo mejor que he visto últimamente.<br>El aprendizaje continuo es una actitud :)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://about.me/zigiella\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://about.me/zigiella</a>",
+  "date": 1375538312000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Ian Cooper: TDD, where did it all go wrong<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/68375232\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/68375232</a>",
+  "date": 1375480437000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Obie Fernandez: 10 Reasons Pair Programming Is Not For the Masses<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://blog.obiefernandez.com/content/2009/09/10-reasons-pair-programming-is-not-for-the-masses.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://blog.obiefernandez.com/content/2009/09/10-reasons-pair-programming-is-not-for-the-masses.html</a>",
+  "date": 1375480230000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "Repositorio de código con Git y Gitolite en Debian.<br><br>(From &quot;Colóquios on air&quot;)",
+  "date": 1375462779000
+}, {
+  "author": "Miguel Angel Diez",
+  "category": "Community",
+  "content": "Hola a todos, soy Miguel, tengo 50 tacos y me apasiona el desarrollo de software, el cine y el Rock and Roll.<br><br>Solo he trabajado en una empresa, desde el 82,  de desarrollo de software, que montó mi jefe en una buhardilla en el 79.<br><br>He sido espectador de la espectacular evolución del sotware/gardware de estos últimos 30 años y flipo. Con todo y con eso, creo, que esto es solo el comienzo. ¡Abróchense los cinturones!<br><br>Estuve en el OpenSpace SaveInformáticos y aluciné con la cantidad de gente que quiere hacer las cosas bien en este sector.<br><br>Un saludo a todos",
+  "date": 1375456404000
+}, {
+  "author": "Yeray Darias Camacho",
+  "category": "Community",
+  "content": "Soy Yeray y llevo 2 horas sin programar :-)<br><br>Bromas a parte, soy desarrollador de software, principalmente en el lado del servidor aunque llevo unos años tocando bastante JavaScript en el cliente y algo de desarrollo móvil. Me gustan las metodologías ágiles y hacer cosas que faciliten la vida a otras personas.<br><br>Puedes saber más de mi en <a rel=\"nofollow\" target=\"_blank\" href=\"http://about.me/yeray_darias/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://about.me/yeray_darias/</a>",
+  "date": 1375457460000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Agile Coach Camp Barcelona 2013<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.eventbrite.com/event/7645799793\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.eventbrite.com/event/7645799793</a>",
+  "date": 1375480712000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Community",
+  "content": "Presentaciones<br><br>Empezamos a ser unos cuantos, y empieza a ser difícil conocer a todo el mundo.<br>Por eso creo que podría estar bien presentarnos de forma breve. Aquí va la mía:<br><br>&quot;Soy Manuel Rivero. Me gusta mucho desarrollar software. Llevo poco tiempo en esto. Estoy intentando asimilar y comprender muchas cosas, pero lleva su tiempo. Más cosas en: <a rel=\"nofollow\" target=\"_blank\" href=\"http://es.linkedin.com/pub/manuel-rivero/71/112/544/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">es.linkedin.com/pub/manuel-rivero/71/112/544/</a>&quot;<br><br>Con las presentaciones sabremos unos de otros y puede que descubramos más intereses comunes y que puedan surgir colaboraciones o quién sabe qué.<br><br>Saludos!",
+  "date": 1375449470000
+}, {
+  "author": "Nico Cortés",
+  "category": "Community",
+  "content": "Abierto apartado para los posts de presentaciones personales:  &quot;Gente&quot;<br><br>Cuando publiquemos nuestra presentación, hagámoslo dentro de esa sección para que sean más fáciles de encontrar y no se diluyan dentro del ya extenso contenido de la comunidad.<br><br>Gracias.<br><br>P.D. Para los que lo hayais publicado ya, no os preocupéis. Ya lo hemos movido nosotros. :-)",
+  "date": 1375465150000
+}, {
+  "author": "Nico Cortés",
+  "category": "Community",
+  "content": "Empezamos el hang de Git.<br><br>Links:<br>G+:<br> <a rel=\"nofollow\" target=\"_blank\" href=\"https://plus.google.com/hangouts/_/7304e906e367dd154edfe548d89832c2280cf6f7?hl=es\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://plus.google.com/hangouts/_/7304e906e367dd154edfe548d89832c2280cf6f7?hl=es</a><br>Youtube:<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://youtu.be/7Dp7XafzYBk\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://youtu.be/7Dp7XafzYBk</a><br><br>Nos os lo perdáis que promete.",
+  "date": 1375457997000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "Linus Torvalds describes a good commit message.<br><br>Extracted from &quot;Coloquios on Air&quot;. Thanks to @pepellou",
+  "date": 1375462040000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Optimizing for hapiness<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/39016099\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/39016099</a>",
+  "date": 1375481199000
+}, {
+  "author": "Pepe Doval",
+  "category": "Community",
+  "content": "Soy Pepe, programador y ajedrecista. Mi empresa es ser feliz y hacer del desarrollo de software un oficio (van de la mano). Por lo demás, bastante centrado en desarrollo web. Más info en <a rel=\"nofollow\" target=\"_blank\" href=\"http://pepellou.info\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">pepellou.info</a>",
+  "date": 1375454328000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "Gestión de repositorios git con gitosis<br><br>From &quot;Coloquios on Air&quot;.",
+  "date": 1375462528000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test-Driven Development Exercises<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://code.theprogrammingchronicles.com/tpc-tdd-exercises/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://code.theprogrammingchronicles.com/tpc-tdd-exercises/</a>",
+  "date": 1375453127000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Review de otro libro que podríamos leer en un futuro:<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://css.dzone.com/articles/review-implementing-domain\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://css.dzone.com/articles/review-implementing-domain</a>",
+  "date": 1375395829000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Commit Often, Perfect Later, Publish Once—Git Best Practices<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://sethrobertson.github.io/GitBestPractices/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://sethrobertson.github.io/GitBestPractices/</a>",
+  "date": 1375398873000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Tal y como quedamos en la hang de la sección 3 del libro de TDD de Kent Beck, aquí os dejo el link con el ejemplo de:<br> - Patrón de testeo: Self Shunt",
+  "date": 1375396027000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=GkomuidGZ5g\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">Club de lectura. TDD By Example Part II</a>",
+  "date": 1375395079000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Feature Branch<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://martinfowler.com/bliki/FeatureBranch.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://martinfowler.com/bliki/FeatureBranch.html</a>",
+  "date": 1375399109000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Test-Driven Development By Example - Kent Beck, Section III",
+  "date": 1375394903000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "ThoughtWorks’ Fowler and Humble Talk Continuous Delivery<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.infoq.com/interviews/jez-humble-martin-fowler-cd\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.infoq.com/interviews/jez-humble-martin-fowler-cd</a>",
+  "date": 1375399172000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Aquí dejo también el link del libro de bolsillo sobre JUnit de Kent Beck que comentamos en la hang",
+  "date": 1375397820000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Readers Club",
+  "content": "Hoy jueves terminamos con el libro &quot;Test-Driven Development By Example&quot; de Kent Beck. <br>He preparado esta encuesta para decidir a lo largo de la semana, que libro escogemos de nuestra lista de candidatos.<br><br>¿Cuál de los siguientes libros prefieres?",
+  "date": 1375355474000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Tools - CI - CD",
+  "content": "&quot;But note: none of these rules should be absolutely black-and-white. <br>Nothing in life ever is. Sometimes merging with my tree is simply the best option. If it&#39;s not your normal mode of operation, but an option in your toolbox that you end up using when everything else is just too painful, go ahead. &quot;<br><br>&quot;Git does allow people to do many different things, and solve problems <br>different ways. I just want all the regular workflows to be &quot;good <br>practice&quot;, but then if you have to occasionally break the rules to solve <br>some odd problem, go ahead and break the rules (and tell people why you did it that way this time).&quot;<br><br>Linus<br><br> <a rel=\"nofollow\" class=\"ot-hashtag bidi_isolate\" href=\"https://plus.google.com/s/%23git/posts\" >#git</a>  ",
+  "date": 1375181884000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Tools - CI - CD",
+  "content": " <a rel=\"nofollow\" class=\"ot-hashtag bidi_isolate\" href=\"https://plus.google.com/s/%23git/posts\" >#git</a>  ",
+  "date": 1375181993000
+}, {
+  "author": "Pepe Doval",
+  "category": "",
+  "content": null,
+  "date": 1375179256000
+}, {
+  "author": "Matias Mascazzini",
+  "category": "Tools - CI - CD",
+  "content": "<b>¿Cómo coordinar Horarios y Días?</b> para eventos como El Club de Lectura.<br><br>Hola, soy Matías de Argentina, les quería comentar sobre una herramienta web para coordinar horarios llamda <b>Doodle</b> la he usado cuando tengo que coordinar horarios para Hangout, Reuniones presenciales, etc. <br>Visitan la pagina: <a rel=\"nofollow\" target=\"_blank\" href=\"http://doodle.com\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://doodle.com</a><br>Luego crean la agenda, definis un rango de días y posibles horarios. Luego le pasan el link a los intersados diciendoles que marquen la mayor cantidad de opciones que puedan,. Y luego para fijar el día y la hora te fijas donde este la mayoría en Verde.<br>Creo que es más fácil usarla que explicarla.<br><br>Gracias por grabar las Lecturas de TDD =D",
+  "date": 1375152272000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Dependency Injection Inversion<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">dependency injection inversion | unclebobconsultingllc</a><br><br>twitteado por Javier Acero",
+  "date": 1375031194000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Agile Development leads to Alzheimer’s<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.javacodegeeks.com/2013/07/agile-development-leads-to-alzheimers.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.javacodegeeks.com/2013/07/agile-development-leads-to-alzheimers.html</a><br><br>Curioso. ¿ Alguno está o ha estado en un proyecto Agile lo suficientemente largo durante el suficiente tiempo como para notar alguno de los problemas de los que hablan en este artícul0?",
+  "date": 1375008066000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Code Smells, Jeff Atwood (@codinghorror)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.codinghorror.com/blog/2006/05/code-smells.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.codinghorror.com/blog/2006/05/code-smells.html</a>",
+  "date": 1375009079000
+}, {
+  "author": "Pepe Doval",
+  "category": "Community",
+  "content": "<b>¿Cómo usamos git en nuestro día a día?</b><br><br>Me gustaría compartir un coloquio sobre este tema. Seguro que todos hacemos muchas cosas bien y muchas mal y tenemos nuestros propios trucos, por lo que compartir este debate puede ser muy rico para todos.<br><br>¿A quién le interesa? :-)",
+  "date": 1374834619000
+}, {
+  "author": "Beatriz Aldaz",
+  "category": "Readers Club",
+  "content": "Libros interesantes con acceso online! <a rel=\"nofollow\" target=\"_blank\" href=\"http://chimera.labs.oreilly.com/books\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://chimera.labs.oreilly.com/books</a>",
+  "date": 1374820112000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "De Agile BCN:<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://introduccionagilejulio2013.eventbrite.com/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://introduccionagilejulio2013.eventbrite.com/</a>",
+  "date": 1374833243000
+}, {
+  "author": "Nico Cortés",
+  "category": "Interesting Posts and Papers",
+  "content": "Flash is Not Dead Yet! HTML5 vs Flash",
+  "date": 1374836518000
+}, {
+  "author": "Gabriel Moral",
+  "category": "Courses, events, conferences,...",
+  "content": "Por si os interesa: <a rel=\"nofollow\" target=\"_blank\" href=\"http://bddkickstart.com/dates\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://bddkickstart.com/dates</a><br>A mi se me escapa de mis posibilidades xD",
+  "date": 1374856758000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Trucos con Git<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/playlist?list=PLJq-O-GkzDUOX1koXDuJfDTtFFniMlryy\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.youtube.com/playlist?list=PLJq-O-GkzDUOX1koXDuJfDTtFFniMlryy</a>",
+  "date": 1374863363000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Webcast: How to Build a Lean Startup, step-by-step<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.oreillynet.com/pub/e/1294\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.oreillynet.com/pub/e/1294</a>",
+  "date": 1374834406000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "",
+  "content": null,
+  "date": 1374789577000
+}, {
+  "author": "Nico Cortés",
+  "category": "Clean Code",
+  "content": "Magnífica chuleta sobre Clean Code<br>Clean Code Sheet<br><br>(Source: Retwitt from @trikitrok)",
+  "date": 1374750088000
+}, {
+  "author": "Jaime Perera Merino",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "En el Club de lectura hemos hablado de este artículo. Muy fácil de leer e ideas muy claras",
+  "date": 1374788661000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Los screencasts que te ayudan a escribir mejores tests y mejor código.<br><br>No está operativa aún, pero creo que vale la pena estar pendiente.",
+  "date": 1374754064000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Why I practice TDD?<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://blog.gdinwiddie.com/2013/07/23/why-i-practice-tdd/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://blog.gdinwiddie.com/2013/07/23/why-i-practice-tdd/</a>",
+  "date": 1374662047000
+}, {
+  "author": "Nico Cortés",
+  "category": "Katas",
+  "content": "Implementación de kata del pasado 18 de Julio en BeCode:<br> - <a rel=\"nofollow\" target=\"_blank\" href=\"http://codekata.pragprog.com/2007/01/kata_twenty_one.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://codekata.pragprog.com/2007/01/kata_twenty_one.html</a><br> - Java y items mediante lista de enlace doble.<br><br>Todo comentario será bien recibido.",
+  "date": 1374664172000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Taming Asynchronous Programming (Beyond Promises)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ustream.tv/recorded/29303800\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.ustream.tv/recorded/29303800</a>",
+  "date": 1374564814000
+}, {
+  "author": "Nico Cortés",
+  "category": "Community",
+  "content": "\t \t \t \t<b>Y ya somos más de 100</b><br><br>Y aunque no soy muy amigo de celebrar fechas ni números, creo que si es una buena ocasión para hacer algún tipo de retrospectiva y analizar de forma crítica el funcionamiento de nuestra comunidad hasta el momento, atendiendo a que creamos que ha funcionado bien, y por supuesto, que podríamos hacer entre todos para mejorarla.<br><br>Por eso, aquí os dejo este pequeño llamamiento a la reflexión.<br><br>Si os parece:<br> * Uitlicemos este post para adjuntar todos los comentarios al respecto que se os ocurran. \t<br>\t* y sobre la base de dichos \tcomentarios planifiquemos una hang para debatirlos y plantear la \tpuesta en marcha de lo que consensuemos.",
+  "date": 1374575575000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Use Uncertainty As a Driver, Kevlin Henney (@KevlinHenney)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.artima.com/weblogs/viewpost.jsp?thread=351308\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.artima.com/weblogs/viewpost.jsp?thread=351308</a>",
+  "date": 1374538118000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "IEEE Software Special Issue on Technical Debt, Nov/Dec 2012. (vol. 29 no. 6)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.computer.org/csdl/mags/so/2012/06/index.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.computer.org/csdl/mags/so/2012/06/index.html</a>",
+  "date": 1374527378000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Learning",
+  "content": "Teach Yourself Programming in Ten Years<br>Peter Norvig<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://norvig.com/21-days.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://norvig.com/21-days.html</a>",
+  "date": 1374389603000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "<a rel=\"nofollow\" target=\"_blank\" href=\"http://vimeo.com/32085663\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://vimeo.com/32085663</a>",
+  "date": 1374433189000
+}, {
+  "author": "Guillermo Pascual",
+  "category": "Domain Driven Design",
+  "content": "Buena explicación para entender las diferencias entre un domain model, un sub-domain model y un bounded context en DDD. <a rel=\"nofollow\" target=\"_blank\" href=\"http://gorodinski.com/blog/2013/04/29/sub-domains-and-bounded-contexts-in-domain-driven-design-ddd/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://gorodinski.com/blog/2013/04/29/sub-domains-and-bounded-contexts-in-domain-driven-design-ddd/</a>",
+  "date": 1374347190000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test-Driven Development and Embracing Failure, Steve Freeman<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://web.archive.org/web/20161029190044/http://www.higherorderlogic.com/2011/04/tdd-embracing-failure/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://web.archive.org/web/20161029190044/http://www.higherorderlogic.com/2011/04/tdd-embracing-failure/</a>",
+  "date": 1374330742000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Ser profesional<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://plqd.blogspot.com.es/2013/07/ser-profesional.html?view=classic\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://plqd.blogspot.com.es/2013/07/ser-profesional.html?view=classic</a>",
+  "date": 1374278845000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "Ejemplo de Double Dispatch<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://bitbucket.org/trikitrok/rockpaperscissorsdoubledispatchexample/src\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://bitbucket.org/trikitrok/rockpaperscissorsdoubledispatchexample/src</a><br><br>Lo hice con TDD (pueden ver todos los commits). Al principio me lié y me arrinconé bastante, pero al final pude llegar refactorizando hasta donde quería.",
+  "date": 1374260627000
+}, {
+  "author": "Nico Cortés",
+  "category": "Languages",
+  "content": "Python para todos&#39; es un libro sobre programación en Python escrito por Raúl González Duque. Se trata de un tutorial de Python adecuado para todos los niveles y que puedes descargar totalmente gratis.<br><br>El tutorial de Python &#39;Python para todos&#39; se distribuye bajo licencia Creative Commons Reconocimiento 2.5 España, lo que supone que puedes distribuirlo, modificarlo, traducirlo a otros idiomas, ... siempre que indiques el autor original.<br>El enlace de la fuente os lo dejo a continuación.",
+  "date": 1374224662000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Community",
+  "content": "Vaya, llegamos a 100 aprendices!",
+  "date": 1374174563000
+}, {
+  "author": "Abel Cuenca",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "La semana pasada durante el hangout me acordaba de este post de J.B. Rainsberger:<br><br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jbrains.ca/permalink/becoming-an-accomplished-software-designer\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.jbrains.ca/permalink/becoming-an-accomplished-software-designer</a><br><br>Me parece bastante atractiva (y tranquilizadora) la idea de que, si no tenemos una intuición de por donde orientar la solución, hay suficientes actividades mecánicas que nos van a guiar de manera segura (aunque quizás bastante más lenta).",
+  "date": 1374173340000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Testing the UI: presentation and rendering<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jbrains.ca/permalink/testing-the-ui-presentation-and-rendering\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.jbrains.ca/permalink/testing-the-ui-presentation-and-rendering</a>",
+  "date": 1374186214000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "The editing pass, Michael McCracken<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://michael-mccracken.net/2007/10/the-editing-pass/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://michael-mccracken.net/2007/10/the-editing-pass/</a>",
+  "date": 1374186696000
+}, {
+  "author": "Asbeel G. Rodríguez",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "<a rel=\"nofollow\" target=\"_blank\" href=\"http://net.tutsplus.com/tutorials/php/testing-laravel-controllers/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://net.tutsplus.com/tutorials/php/testing-laravel-controllers/</a>",
+  "date": 1374176311000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "Ask why, but never answer, J. B. Rainsberger (@jbrains)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jbrains.ca/permalink/ask-why-but-never-answer\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.jbrains.ca/permalink/ask-why-but-never-answer</a>",
+  "date": 1374184933000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Barcelona JUG organiza un coding dojo la semana que viene:<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barcelonajug.org/2013/07/ultimo-evento-de-la-temporada-2013-coding-dojo.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.barcelonajug.org/2013/07/ultimo-evento-de-la-temporada-2013-coding-dojo.html</a>",
+  "date": 1374193651000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Mi código para el ejercicio SellOneItem del curso que estoy haciendo:<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://bitbucket.org/trikitrok/selloneitemexerciserainsbergercourse/src\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://bitbucket.org/trikitrok/selloneitemexerciserainsbergercourse/src</a>",
+  "date": 1374110853000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Demystifying the Dependency Inversion Principle, J. B. Rainsberger<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://blog.thecodewhisperer.com/2013/01/29/consequences-of-dependency-inversion-principle/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://blog.thecodewhisperer.com/2013/01/29/consequences-of-dependency-inversion-principle/</a>",
+  "date": 1374111607000
 }]

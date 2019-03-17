@@ -1,0 +1,751 @@
+[{
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Testing &amp; validating Apache Spark jobs, Holden Karau (@holdenkarau)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=LP6blh4TFqI\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=LP6blh4TFqI</a>",
+  "date": 1552770299000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Quick feedback loops while coding, Ted Kaminski (@tedinski)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html</a>",
+  "date": 1552770962000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "The Art of Refactoring, Joshua Kerievsky (@JoshuaKerievsky)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=sxSc4UqtqQA\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=sxSc4UqtqQA</a>",
+  "date": 1552770368000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Don&#39;t mock what you don&#39;t own, Justin Searls <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/testdouble/contributing-tests/wiki/Don%27t-mock-what-you-don%27t-own\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://github.com/testdouble/contributing-tests/wiki/Don%27t-mock-what-you-don%27t-own</a> ...the primary value of test doubles is design feedback",
+  "date": 1551674500000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Architecture/Design",
+  "content": "Acercándonos a la programación funcional a través de la arquitectura hexagonal Javier Ferrer y Juan Manuel Serrano <a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/MY6K4FP3Lxg\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/MY6K4FP3Lxg</a><br>",
+  "date": 1551002361000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Functional Programming",
+  "content": "What we talk about when we talk about monads, Tomas Petricek<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://tomasp.net/academic/papers/monads/monads-programming.pdf\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://tomasp.net/academic/papers/monads/monads-programming.pdf</a>",
+  "date": 1550730222000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Code Coverage vs Test Coverage; Subjectivity and Usefulness, Dan Ashby<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://danashby.co.uk/2019/02/14/code-coverage-vs-test-coverage/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://danashby.co.uk/2019/02/14/code-coverage-vs-test-coverage/</a>",
+  "date": 1550724681000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Refactoring",
+  "content": "Refactoring, 2nd Ed. A love story. Michael Hunger.<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.slideshare.net/jexp/refactoring-2nd-edition\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.slideshare.net/jexp/refactoring-2nd-edition</a>",
+  "date": 1550048009000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Functional Programming",
+  "content": "And Monads for (Almost) All: The State Monad, Riccardo Cardin<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://rcardin.github.io/design/programming/fp/monad/2018/11/22/and-monads-for-all-state-monad.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://rcardin.github.io/design/programming/fp/monad/2018/11/22/and-monads-for-all-state-monad.html</a>",
+  "date": 1550070321000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Refactoring",
+  "content": "Primitive Obsession, David Tanzer<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.devteams.at/2019/02/04/primitive-obsession.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.devteams.at/2019/02/04/primitive-obsession.html</a>",
+  "date": 1549306334000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Don&#39;t Measure Unit Test Code Coverage, James Shore <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.jamesshore.com/Blog/Dont-Measure-Unit-Test-Code-Coverage.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.jamesshore.com/Blog/Dont-Measure-Unit-Test-Code-Coverage.html</a>",
+  "date": 1549117736000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Domain Driven Design",
+  "content": "Refactoring from anemic model to DDD, Zbigniew Artemiuk<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f</a>",
+  "date": 1548662389000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Domain Driven Design",
+  "content": "Domain-Driven Design vs. Anemic model. How do they differ?, Kamil Berdychowski<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://blog.pragmatists.com/domain-driven-design-vs-anemic-model-how-do-they-differ-ffdee9371a86\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://blog.pragmatists.com/domain-driven-design-vs-anemic-model-how-do-they-differ-ffdee9371a86</a>",
+  "date": 1548662365000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Tools - CI - CD",
+  "content": "Continuous Delivery, Martin Fowler, 2015<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/aoMfbgF2D_4\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/aoMfbgF2D_4</a>",
+  "date": 1548248390000
+}, {
+  "author": "Rafa Carmona",
+  "category": "Community",
+  "content": "Manuel Rivero, solo darte las gracias por la cantidad de aportes que das a la comunidad , de otra manera seria imposible en mi caso seguir cada hilo que compartes. Ya dirás donde te mueves cuando se apague esta comunidad ;-)<br>Lo dicho, mil gracias.",
+  "date": 1548256786000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Domain Driven Design",
+  "content": "Turn your startup in a stayup with DDD, Marijn Huizendveld<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/E8QAa55tCtw\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/E8QAa55tCtw</a>",
+  "date": 1547453232000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "The Composed Method implementation pattern, Jorge Manrubia<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.jorgemanrubia.com/2009/06/28/the-composed-method-implementation-pattern/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.jorgemanrubia.com/2009/06/28/the-composed-method-implementation-pattern/</a>",
+  "date": 1547504514000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "XP, Lean & Agile",
+  "content": "Sprints, marathons and root canals, Gojko Adzic<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://gojko.net/2018/08/30/sprints-marathons-root-canals.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gojko.net/2018/08/30/sprints-marathons-root-canals.html</a>",
+  "date": 1547012975000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Many Nodes, One Distributed System, Vaidehi Joshi (@vaidehijoshi)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4</a>",
+  "date": 1546905630000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "FAQ, Rachel M. Carmena (@bberrycarmen)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://rachelcarmena.github.io/2019/01/01/faq.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://rachelcarmena.github.io/2019/01/01/faq.html</a>",
+  "date": 1546905802000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Agile Makes No Sense, John Cutler (@johncutlefish)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://hackernoon.com/agile-makes-no-sense-c8ebbf971012\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://hackernoon.com/agile-makes-no-sense-c8ebbf971012</a>",
+  "date": 1546905940000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Showcasing the language of BDD, Liz Keogh (@lunivore)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://lizkeogh.com/2012/05/30/showcasing-the-language-of-bdd/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://lizkeogh.com/2012/05/30/showcasing-the-language-of-bdd/</a>",
+  "date": 1546906034000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Beyond Test Driven Development, Liz Keogh (@lunivore)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://lizkeogh.com/2012/06/24/beyond-test-driven-development/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://lizkeogh.com/2012/06/24/beyond-test-driven-development/</a>",
+  "date": 1546906182000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Things I Don’t Know as of 2018, Dan Abramov (@dan_abramov)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://overreacted.io/things-i-dont-know-as-of-2018/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://overreacted.io/things-i-dont-know-as-of-2018/</a>",
+  "date": 1546906436000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "&quot;Real Options&quot; Underlie Agile Practices, Olav Maassen (@OlavMaassen)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.infoq.com/articles/real-options-enhance-agility\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.infoq.com/articles/real-options-enhance-agility</a>",
+  "date": 1546906364000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Barbara Liskov, Inventor of Abstract Data Types, Alvaro Videla (@old_sound)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86</a> ",
+  "date": 1545613244000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "Stop Learning Frameworks, Eduards Sizovs (@eduardsi)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://sizovs.net/2018/12/17/stop-learning-frameworks/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://sizovs.net/2018/12/17/stop-learning-frameworks/</a>",
+  "date": 1545613813000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Going overboard with unit tests, Ted Kaminski (@tedinski)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tedinski.com/2018/11/27/contradictory-tdd.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.tedinski.com/2018/11/27/contradictory-tdd.html</a>",
+  "date": 1545613609000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Mapping Maturity: create context specific maturity models with Wardley Maps informed by Cynefin, Chris McDermott (@chrisvmcd)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315</a>",
+  "date": 1545612618000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Why Clojure?, Nir Rubinstein (@nirrubinstein)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/appsflyer/why-clojure-a52d033769a8\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/appsflyer/why-clojure-a52d033769a8</a> ",
+  "date": 1545613507000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Software Sprawl, The Golden Path, and Scaling Teams With Agency, Charity Majors (@mipsytipsy)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://charity.wtf/2018/12/02/software-sprawl-the-golden-path-and-scaling-teams-with-agency/</a>",
+  "date": 1545612895000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Django Forms as Domain Adapters, Pau Cervera (@paudirac)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.capside.com/labs/django-forms-as-domain-adapters/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.capside.com/labs/django-forms-as-domain-adapters/</a>",
+  "date": 1545614116000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Five Models for Making Sense of Complex Systems, Christina Wodtke<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@cwodtke/five-models-for-making-sense-of-complex-systems-134be897b6b3\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@cwodtke/five-models-for-making-sense-of-complex-systems-134be897b6b3</a>",
+  "date": 1545612995000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Professional matters",
+  "content": "Product engineers, Sherif Mansour<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@sherifmansour/product-engineers-f424da766871\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@sherifmansour/product-engineers-f424da766871</a>",
+  "date": 1545300343000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Design Principles Are The Key To A Testing Pyramid, Jason Gorman (@jasongorman) <br><a rel=\"nofollow\" target=\"_blank\" href=\"http://codemanship.co.uk/parlezuml/blog/?postid=1553\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://codemanship.co.uk/parlezuml/blog/?postid=1553</a>",
+  "date": 1544979368000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Ask not what an object is, but..., Carlo Pescio (@CarloPescio)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.carlopescio.com/2012/12/ask-not-what-object-is-but.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.carlopescio.com/2012/12/ask-not-what-object-is-but.html</a> ‏ ",
+  "date": 1544978979000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Escaping the SPA rabbit hole with modern Rails, Jorge Manrubia<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c</a>",
+  "date": 1544923725000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "A Study of Misunderstanding and its Remedies, Alvaro Videla (@old_sound)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@old_sound/a-study-of-misunderstanding-and-its-remedies-72aac85ed181\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@old_sound/a-study-of-misunderstanding-and-its-remedies-72aac85ed181</a>",
+  "date": 1544924153000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "The Complexity Trap: Think Before You Leap, Daniel Westheide (@kaffeecoder)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://danielwestheide.com/blog/2018/12/07/the-complexity-trap.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://danielwestheide.com/blog/2018/12/07/the-complexity-trap.html</a>",
+  "date": 1544299364000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Boring Innovation?, Hermann Schmidt<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.innoq.com/en/blog/boring-innovation/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.innoq.com/en/blog/boring-innovation/</a>",
+  "date": 1544229272000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Testing Yourself, Growing Through Refactoring, Michael Feathers (@mfeathers)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://michaelfeathers.silvrback.com/testing-yourself\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://michaelfeathers.silvrback.com/testing-yourself</a>",
+  "date": 1544229882000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Broad Stack Test, Martin Fowler (@martinfowler)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://martinfowler.com/bliki/BroadStackTest.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://martinfowler.com/bliki/BroadStackTest.html</a>",
+  "date": 1544213884000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Manufacturing Creativity, Paul Stadig (@pjstadig)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://paul.stadig.name/2018/09/manufacturing-creativity.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://paul.stadig.name/2018/09/manufacturing-creativity.html</a>",
+  "date": 1544230600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Shape (Form) as a Program, Carlo Pescio (@CarloPescio)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.physicsofsoftware.com/random-notes/shape-form-as-a-program\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.physicsofsoftware.com/random-notes/shape-form-as-a-program</a> ",
+  "date": 1544229696000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "The Practical Test Pyramid, Ham Vocke (@hamvocke)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation</a>",
+  "date": 1544213530000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Component Test, Martin Fowler (@martinfowler)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://martinfowler.com/bliki/ComponentTest.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://martinfowler.com/bliki/ComponentTest.html</a>",
+  "date": 1544213957000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Jean Sammet — Designer of COBOL, Alvaro Videla (@old_sound)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/a-computer-of-ones-own/jean-sammet-designer-of-cobol-77c6d794365c\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/a-computer-of-ones-own/jean-sammet-designer-of-cobol-77c6d794365c</a> ",
+  "date": 1544108266000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Dorothy Vaughan — Space Heroine, Florencia Grattarola<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/a-computer-of-ones-own/dorothy-vaughan-space-heroine-a9b7e2d6b1b3\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/a-computer-of-ones-own/dorothy-vaughan-space-heroine-a9b7e2d6b1b3</a>",
+  "date": 1544108394000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Grace Hopper — The Programming Sea-woman, Florencia Grattarola<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/a-computer-of-ones-own/grace-hopper-the-programming-sea-woman-64dc95c8f03\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/a-computer-of-ones-own/grace-hopper-the-programming-sea-woman-64dc95c8f03</a>",
+  "date": 1544108443000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Testing Pyramids &amp; Ice-Cream Cones, Alister Scott<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://watirmelon.blog/testing-pyramids/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://watirmelon.blog/testing-pyramids/</a>",
+  "date": 1544111716000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Your automation testing strategy, Lisa Crispin (@lisacrispin)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.mabl.com/blog/your-automation-testing-strategy\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.mabl.com/blog/your-automation-testing-strategy</a>",
+  "date": 1544111496000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test Pyramid, Martin Fowler (@martinfowler)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://martinfowler.com/bliki/TestPyramid.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://martinfowler.com/bliki/TestPyramid.html</a>",
+  "date": 1544117961000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Subcutaneous Test, Martin Fowler (@martinfowler)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://martinfowler.com/bliki/SubcutaneousTest.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://martinfowler.com/bliki/SubcutaneousTest.html</a> ",
+  "date": 1544112487000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "How To Keep Up With Software Technologies, Philippe Bourgau (@pbourgau) <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://philippe.bourgau.net/how-to-keep-up-with-software-technologies/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://philippe.bourgau.net/how-to-keep-up-with-software-technologies/</a>",
+  "date": 1544047008000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Aristocracy, democracy and system design, Herberto Graça (@hgraca)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://herbertograca.com/2018/09/12/4-aristocracy-democracy-and-system-design/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://herbertograca.com/2018/09/12/4-aristocracy-democracy-and-system-design/</a>",
+  "date": 1544045247000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "The surgical team, Herberto Graça (@hgraca)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://herbertograca.com/2018/09/10/3-the-surgical-team/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://herbertograca.com/2018/09/10/3-the-surgical-team/</a>",
+  "date": 1544045216000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Visual Agility: Why We Model, Ruth Malan (@ruthmalan)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.linkedin.com/pulse/visual-agility-why-we-model-ruth-malan/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.linkedin.com/pulse/visual-agility-why-we-model-ruth-malan/</a>",
+  "date": 1544047978000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Yak shaving and fixing, Sophie Alpert (@sophiebits)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://sophiebits.com/2018/12/03/yak-shaving-fixing.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://sophiebits.com/2018/12/03/yak-shaving-fixing.html</a>",
+  "date": 1544044999000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Passing the word, Herberto Graça (@hgraca)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://herbertograca.com/2018/09/17/6-passing-the-word/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://herbertograca.com/2018/09/17/6-passing-the-word/</a>",
+  "date": 1544045483000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "The second system effect, Herberto Graça (@hgraca)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://herbertograca.com/2018/09/14/5-the-second-system-effect/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://herbertograca.com/2018/09/14/5-the-second-system-effect/</a>",
+  "date": 1544045325000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Why did the Tower of Babel fail, Herberto Graça (@hgraca)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://herbertograca.com/2018/09/19/7-why-did-the-tower-of-babel-fail/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://herbertograca.com/2018/09/19/7-why-did-the-tower-of-babel-fail/</a>",
+  "date": 1544045616000
+}, {
+  "author": "Tiago Nunes",
+  "category": "Courses, events, conferences,...",
+  "content": "📢📢Olá pessoal, vem assistir a mais uma aula de Java, vamos mostrar classes e objetos com exemplos. Curso Básico de Java completamente grátis. 👇👇👇<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/LqT9NgAzF3k\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/LqT9NgAzF3k</a>",
+  "date": 1543618819000
+}, {
+  "author": "Manuel Castro Viñas",
+  "category": "Interesting Posts and Papers",
+  "content": "Programing as Theory Building,<br>Peter Naur<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://pages.cs.wisc.edu/~remzi/Naur.pdf\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://pages.cs.wisc.edu/~remzi/Naur.pdf</a>",
+  "date": 1543300392000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Refactoring item logic using ‘lift up conditional&#39;, Emily Bache (@emilybache)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=OJmg9aMxPDI\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=OJmg9aMxPDI</a>",
+  "date": 1543339957000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "No todo el mundo sabe o debe dar feedback, Laura Lacarra (@LauraLacarra)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://softwareyotrasdesvirtudes.com/2018/11/26/no-todo-el-mundo-sabe-o-debe-dar-feedback/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://softwareyotrasdesvirtudes.com/2018/11/26/no-todo-el-mundo-sabe-o-debe-dar-feedback/</a>",
+  "date": 1543283105000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "XP, Lean & Agile",
+  "content": "The Design Sprint Kit<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://designsprintkit.withgoogle.com/introduction/overview\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://designsprintkit.withgoogle.com/introduction/overview</a>",
+  "date": 1543220112000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Indirection Is Not Abstraction, Silas Reinagel (@SilasReinagel)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.silasreinagel.com/blog/2018/10/30/indirection-is-not-abstraction/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.silasreinagel.com/blog/2018/10/30/indirection-is-not-abstraction/</a>",
+  "date": 1543161593000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "16 Individual Warning Signals, John Cutler (@johncutlefish)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@johnpcutler/16-individual-warning-signals-740bf39f1d8\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@johnpcutler/16-individual-warning-signals-740bf39f1d8</a>",
+  "date": 1543161935000
+}, {
+  "author": "Tiago Nunes",
+  "category": "Courses, events, conferences,...",
+  "content": "Ai pessoal vamos aprender a programar em Java? Curso totalmente grátis em Português no YouTube vem assistir aqui ⬇️⬇️⬇️<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/k6ZJBmkvOVA\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/k6ZJBmkvOVA</a>",
+  "date": 1543149392000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Showing Kindness while Programming, Andrew Davis (@restoreddev)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://dev.to/restoreddev/showing-kindness-while-programming-52a7\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://dev.to/restoreddev/showing-kindness-while-programming-52a7</a> ",
+  "date": 1543161703000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Pair Programming For Introverts, Dave Farley (@davefarley77)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.davefarley.net/?p=267\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.davefarley.net/?p=267</a>",
+  "date": 1543161116000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "And Then This Happened, Vaughn Vernon (@VaughnVernon)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://kalele.io/cqrs/and-then-this-happened/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://kalele.io/cqrs/and-then-this-happened/</a> ",
+  "date": 1543162078000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Deadlines and commitments... the fallacy, Eduardo Ferro Aldama (@eferro)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.eferro.net/2017/04/deadlines-and-commitment-fallacy.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.eferro.net/2017/04/deadlines-and-commitment-fallacy.html</a> ",
+  "date": 1543161818000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "A coding dojo exercises plan towards refactoring legacy code, Philippe Bourgau (@pbourgau) <br><a rel=\"nofollow\" target=\"_blank\" href=\"http://philippe.bourgau.net/a-coding-dojo-exercises-plan-towards-refactoring-legacy-code/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://philippe.bourgau.net/a-coding-dojo-exercises-plan-towards-refactoring-legacy-code/</a>",
+  "date": 1542925468000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Notes on Designing Data-Intensive Applications chapter 3, Gabriel Moral (@Gabrielmoral) <br><a rel=\"nofollow\" target=\"_blank\" href=\"http://elcaminodeunaprendiz.com/posts/designing-data-intensive-applications-chapter-3/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://elcaminodeunaprendiz.com/posts/designing-data-intensive-applications-chapter-3/</a>",
+  "date": 1542923690000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Notes on Designing Data-Intensive Applications chapter 2, Gabriel Moral (@Gabrielmoral) <br><a rel=\"nofollow\" target=\"_blank\" href=\"http://elcaminodeunaprendiz.com/posts/designing-data-intensive-applications-chapter-2/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://elcaminodeunaprendiz.com/posts/designing-data-intensive-applications-chapter-2/</a>",
+  "date": 1542923589000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "On debt and legacy, Daniel Bolívar (@ddanielbee)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.dabolivar.com/posts/day-7/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.dabolivar.com/posts/day-7/</a> ",
+  "date": 1542924855000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Notes on Designing Data-Intensive Applications chapter 1, Gabriel Moral (@Gabrielmoral) <br><a rel=\"nofollow\" target=\"_blank\" href=\"http://elcaminodeunaprendiz.com/posts/designing-data-intensive-applications-chapter-1/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://elcaminodeunaprendiz.com/posts/designing-data-intensive-applications-chapter-1/</a>",
+  "date": 1542923560000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Mutual Purpose and Agreed-Upon Methods, Jessica Kerr (@jessitron)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@jessitron/mutual-purpose-and-agreed-upon-methods-deff5ccd9e88\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@jessitron/mutual-purpose-and-agreed-upon-methods-deff5ccd9e88</a> ",
+  "date": 1542923312000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Code patterns that are a recipe for trouble (part 1), Pedro Pereira Santos (@donbonifacio)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://engineering-management.space/post/code-patterns-that-are-a-recipe-for-trouble/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://engineering-management.space/post/code-patterns-that-are-a-recipe-for-trouble/</a>",
+  "date": 1542924027000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Priming Prime Directive, Martin Fowler (@martinfowler)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.martinfowler.com/bliki/PrimingPrimeDirective.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.martinfowler.com/bliki/PrimingPrimeDirective.html</a> ",
+  "date": 1542930111000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Notes on Michael Feathers&#39; Working Effectively with Legacy Code, Jeremy W. Sherman (@jeremywsherman)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://gist.github.com/jeremy-w/6774525\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gist.github.com/jeremy-w/6774525</a>",
+  "date": 1542922632000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Introducing the Gilded Rose kata and writing test cases using Approval Tests, Emily Bache (@emilybache)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/zyM2Ep28ED8\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/zyM2Ep28ED8</a> ",
+  "date": 1542925703000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Are Software Developers Overworked or Undecided?, Philippe Bourgau (@pbourgau)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://philippe.bourgau.net/are-software-developers-overworked-or-undecided/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://philippe.bourgau.net/are-software-developers-overworked-or-undecided/</a> ",
+  "date": 1542922972000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Legacy Code",
+  "content": "Case Study: tools and strategies for tackling legacy practices, Alejandro Scandroli, SWC BCN 2018<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/i8GzkkMWGYE\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/i8GzkkMWGYE</a> ... DDD strategic design, Wardley Maps, ...",
+  "date": 1542355961000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "How I was forced to do Dark Scrum, Roger Saner (@rogersaner) <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@rogersaner/how-i-was-forced-to-do-dark-scrum-d5fdb388df4f\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@rogersaner/how-i-was-forced-to-do-dark-scrum-d5fdb388df4f</a>",
+  "date": 1542319314000
+}, {
+  "author": "Gabriel Moral",
+  "category": "Interesting Posts and Papers",
+  "content": "A Busy Developer’s Guide to Database Storage Engines — The Basics, <br>Sid Choudhury <a rel=\"nofollow\" target=\"_blank\" href=\"https://blog.yugabyte.com/a-busy-developers-guide-to-database-storage-engines-the-basics/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://blog.yugabyte.com/a-busy-developers-guide-to-database-storage-engines-the-basics/</a>",
+  "date": 1542012426000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Learning",
+  "content": "When to Practice Your Craft?, Alexandru Bolboaca <a rel=\"nofollow\" target=\"_blank\" href=\"https://alexbolboaca.ro/opinions/when-to-practice-your-craft\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://alexbolboaca.ro/opinions/when-to-practice-your-craft</a>",
+  "date": 1541494084000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "How to Hack an Engineer, Nemil Dalal (@nemild)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.nemil.com/musings/hack-an-engineer.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.nemil.com/musings/hack-an-engineer.html</a> ",
+  "date": 1541356507000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "The tar pit, Herberto Graça (@hgraca)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://herbertograca.com/2018/09/05/1-the-tar-pit/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://herbertograca.com/2018/09/05/1-the-tar-pit/</a> ",
+  "date": 1541356795000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Notes on &quot;A Philosophy of Software Design.&quot;, Will Larson (@Lethai)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://lethain.com/notes-philosophy-software-design/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://lethain.com/notes-philosophy-software-design/</a>",
+  "date": 1541356946000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "The mythical man-month, Herberto Graça (@hgraca)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://herbertograca.com/2018/09/07/2-the-mythical-man-month/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://herbertograca.com/2018/09/07/2-the-mythical-man-month/</a>",
+  "date": 1541356906000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Opportunistic Refactoring, Martin Fowler (@martinfowler)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://martinfowler.com/bliki/OpportunisticRefactoring.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://martinfowler.com/bliki/OpportunisticRefactoring.html</a> ",
+  "date": 1541361018000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Functional Programming",
+  "content": "Functional Calisthenics, Jorge Gueorguiev<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://codurance.com/2017/10/12/functional-calisthenics/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://codurance.com/2017/10/12/functional-calisthenics/</a>",
+  "date": 1541345111000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "La elección de los casos para testear, Fran Iglesias (@talkingbit1)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://franiglesias.github.io/how-to-select-test-cases/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://franiglesias.github.io/how-to-select-test-cases/</a>",
+  "date": 1541357108000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "A Philosophy of Software Design, John Ousterhout<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?time_continue=3&amp;v=bmSAYlu0NcY\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?time_continue=3&amp;v=bmSAYlu0NcY</a>",
+  "date": 1541341544000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Three Deep Breaths, John Cutler (@johncutlefish)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@johnpcutler/three-deep-breaths-30b854364c6a\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@johnpcutler/three-deep-breaths-30b854364c6a</a>",
+  "date": 1541357699000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "RFC driven development, Pedro Pereira Santos (@donbonifacio)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://engineering-management.space/post/rfc-driven-development/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://engineering-management.space/post/rfc-driven-development/</a>",
+  "date": 1541356606000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Go to the Balcony, William Ury<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?time_continue=104&amp;v=FKgSYaLzeR4\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?time_continue=104&amp;v=FKgSYaLzeR4</a>",
+  "date": 1541357474000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Architecture/Design",
+  "content": "Modelling time, Eric Evans <br><br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=T29WzvaPNc8\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=T29WzvaPNc8</a><br><br>Eric Evans talks about generic subdomains and its modelling, using time as example, and how different model ideas can move us towards different implementations. Quite interesting. ",
+  "date": 1541084582000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "High-Level vs. Low-Level<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://feierabendprojekte.wordpress.com/2018/10/27/high-level-vs-low-level/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://feierabendprojekte.wordpress.com/2018/10/27/high-level-vs-low-level/</a>",
+  "date": 1541030782000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "La teoría de la carga cognitiva. Una teoría que sí se basa en investigaciones, Javier Álamo<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://evidenciaenlaescuela.wordpress.com/2017/09/17/la-teoria-de-la-carga-cognitiva-una-teoria-que-si-se-basa-en-investigaciones/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://evidenciaenlaescuela.wordpress.com/2017/09/17/la-teoria-de-la-carga-cognitiva-una-teoria-que-si-se-basa-en-investigaciones/</a>",
+  "date": 1541031018000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Mocking as a Design Tool, Sandro Mancuso (@sandromancuso)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://codurance.com/2018/10/18/mocking-as-a-design-tool/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://codurance.com/2018/10/18/mocking-as-a-design-tool/</a> ",
+  "date": 1541030963000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Developing software oriented architectures, Will Larson (@Lethain)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://lethain.com/lessons-from-developing-software-oriented-architectures/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://lethain.com/lessons-from-developing-software-oriented-architectures/</a> ",
+  "date": 1541031143000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "My notes on the video series &quot;London vs Chicago TDD styles&quot;. Pietro Di Bello. <a rel=\"nofollow\" target=\"_blank\" href=\"https://gist.github.com/xpepper/2e3519d2cb8568a0b13739d9ae497f21\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://gist.github.com/xpepper/2e3519d2cb8568a0b13739d9ae497f21</a>",
+  "date": 1540803001000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Katas",
+  "content": "Object Calisthenics: write better object-oriented code, Fran Diéguez<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://t.co/iebKG6m1fm\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://t.co/iebKG6m1fm</a>",
+  "date": 1540668191000
+}, {
+  "author": "Javier Sánchez",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "&quot;test &amp;&amp; commit || revert&quot;, Kent Beck (@KentBeck)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a>",
+  "date": 1540561299000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "TDD Pattern: Do not cross boundaries Revisited, Bill Caputo (@logosity)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://williamcaputo.com/archives/000225.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://williamcaputo.com/archives/000225.html</a> ",
+  "date": 1540485851000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Readers Club",
+  "content": "Hemos terminado de leer Building Evolutionary Architectures (personalmente, de todo lo que he visto del tema, lo que más me ha gustado ha sido la presentación de María Gomez en la SCPNA&#39;18: <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=O9Hz9xOwUO8\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=O9Hz9xOwUO8</a> ), y estamos pensando en seguir con otro :-).<br><br><br>Antes de nada, vamos a cambiar el horario de las reuniones semanales, volvemos a los jueves a las 21:30 CE(S)T, a ver como encaja.  <br><br>Proponemos como siguiente libro Designing Data-Intensive Applications (<a rel=\"nofollow\" target=\"_blank\" href=\"https://dataintensive.net/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://dataintensive.net/</a>), que por el índice (y conversaciones por twitter y demás sitios habituales) tiene pinta de enseñar bastante, empezaríamos con el 1er capítulo el jueves 1 de noviembre. Hemos preparado un calendario (<a rel=\"nofollow\" target=\"_blank\" href=\"https://calendar.google.com/calendar/embed?src=6h83g0um7jus4g5k9j7prpgubk%40group.calendar.google.com&amp;ctz=Europe%2FMadrid\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://calendar.google.com/calendar/embed?src=6h83g0um7jus4g5k9j7prpgubk%40group.calendar.google.com&amp;ctz=Europe%2FMadrid</a>), para que sea más fácil de recordar :-).<br><br>¡¡Os esperamos!!<br>",
+  "date": 1540364997000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Embedded Systems Testing Resources, Phillip Johnston (@pjohnston_)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://embeddedartistry.com/blog/2018/10/15/embedded-systems-testing-resources\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://embeddedartistry.com/blog/2018/10/15/embedded-systems-testing-resources</a>",
+  "date": 1540118052000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Negative architecture, and assumptions about code, Matthias Noback (@matthiasnoback)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://matthiasnoback.nl/2018/08/negative-architecture-and-assumptions-about-code/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://matthiasnoback.nl/2018/08/negative-architecture-and-assumptions-about-code/</a>",
+  "date": 1540116235000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "&quot;It depends&quot; / Jocelyn Goldfein model for software classification, Eduardo Ferro (@eferro)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.eferro.net/2017/12/it-depends-jocelyn-goldfin-model-for.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.eferro.net/2017/12/it-depends-jocelyn-goldfin-model-for.html</a>",
+  "date": 1540062771000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "So yeah, about Clojure&#39;s syntax..., Valentin Waeselynck (@val_waeselynck)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://vvvvalvalval.github.io/posts/2018-01-06-so-yeah-about-clojures-syntax.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://vvvvalvalval.github.io/posts/2018-01-06-so-yeah-about-clojures-syntax.html</a>",
+  "date": 1540062389000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "The Woman Bringing Civility to Open Source Projects, Klint Finley<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.wired.com/story/woman-bringing-civility-to-open-source-projects/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.wired.com/story/woman-bringing-civility-to-open-source-projects/</a><br>",
+  "date": 1540062211000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Narrow Niche: When is Narrow Too Narrow?, Erik Dietrich (@daedtech) <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://daedtech.com/narrow-niche-when-is-narrow-too-narrow/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://daedtech.com/narrow-niche-when-is-narrow-too-narrow/</a>",
+  "date": 1540062575000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Tools - CI - CD",
+  "content": "It’s Not Continuous Delivery If You Can’t Deploy Right Now, Ken Mugrage<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/po712VIZZ7M\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/po712VIZZ7M</a> ... XP is to Agile what CD is to DevOps",
+  "date": 1539888416000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "Four neuromyths that are still prevalent in schools – debunked, Bradley Busch<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.theguardian.com/teacher-network/2016/feb/24/four-neuromyths-still-prevalent-in-schools-debunked\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.theguardian.com/teacher-network/2016/feb/24/four-neuromyths-still-prevalent-in-schools-debunked</a>",
+  "date": 1539438192000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "To Be a Good Leader, Start By Being a Good Follower, Kim Peters and Alex Haslam<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower</a>",
+  "date": 1539438050000
+}, {
+  "author": "Matias Mascazzini",
+  "category": "Community",
+  "content": "Se cierra <a rel=\"nofollow\" class=\"ot-hashtag bidi_isolate\" href=\"https://plus.google.com/s/%23GooglePlus/posts\" >#GooglePlus</a> y no es chiste , ¿Qué hacemos? (@matiasmasca) <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://plus.google.com/communities/114859785439968913587\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://plus.google.com/communities/114859785439968913587</a><br><br>Hola, <br>no soy muy activo en la comunidad, pero me encanta lo que hacéis aquí y participe un poquito en sus inicios, <a rel=\"nofollow\" class=\"ot-hashtag bidi_isolate\" href=\"https://plus.google.com/s/%23Google/posts\" >#Google</a> anuncio que en 10 meses va a cerrar Google Plus, por los problemas de seguridad que genera y por la poca adopción que tuvo. <br>Tenemos que ir pensando a donde vamos a migrar todo este movimiento y como rescatar el conocimiento generado. ",
+  "date": 1539441887000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "No Business Agility without Agile Software Delivery, Eduardo Ferro (@eferro)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.eferro.net/2018/10/no-business-agility-without-agile.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.eferro.net/2018/10/no-business-agility-without-agile.html</a>",
+  "date": 1539445952000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Well Crafted Code, Quality, Speed and Budget, David Tanzer (@dtanzer)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.devteams.at/2015/12/14/well-crafted-code-quality-speed-and-budget.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.devteams.at/2015/12/14/well-crafted-code-quality-speed-and-budget.html</a>",
+  "date": 1539437942000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "<br>SRE: The Biggest Lie Since Kanban, Ernest Mueller (@ernestmueller)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://theagileadmin.com/2018/10/02/sre-the-biggest-lie-since-kanban/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://theagileadmin.com/2018/10/02/sre-the-biggest-lie-since-kanban/</a>",
+  "date": 1539437808000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Career narratives, Will Larson (@lethain)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://lethain.com/career-narratives/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://lethain.com/career-narratives/</a>",
+  "date": 1538838086000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "70 Books (and Other Resources) for Internal Change Agents, John Cutler (@johncutlefish)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://hackernoon.com/70-books-and-other-resources-for-internal-change-agents-bb3bcc4b347f\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://hackernoon.com/70-books-and-other-resources-for-internal-change-agents-bb3bcc4b347f</a>",
+  "date": 1538839354000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "TDD: Why do You Want Me to Write Bad Code, David Tanzer <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.davidtanzer.net/david%27s%20blog/tdd/2018/08/21/why_do_you_want_me_to_write_wrong_code.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.davidtanzer.net/david&#39;s%20blog/tdd/2018/08/21/why_do_you_want_me_to_write_wrong_code.html</a>",
+  "date": 1538419802000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Tools - CI - CD",
+  "content": "Impact of Continuous Integration on Team Culture, Naresh Jain<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.industriallogic.com/blog/impact-of-continuous-integration-on-team-culture/</a>",
+  "date": 1537962261000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Architecture/Design",
+  "content": "Evolutionary Software Architectures, Neal Ford<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://youtu.be/CglSFhwbI3s\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://youtu.be/CglSFhwbI3s</a><br>",
+  "date": 1537772700000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Leaky vs punch-through abstractions, Jon Luca <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://blog.jonlu.ca/posts/leaky-abstractions\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://blog.jonlu.ca/posts/leaky-abstractions</a>",
+  "date": 1537006062000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "The Right Time for Testing, Maaret Pyhäjärvi (@maaretp)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://visible-quality.blogspot.com/2018/09/the-right-time-for-testing.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://visible-quality.blogspot.com/2018/09/the-right-time-for-testing.html</a> ",
+  "date": 1537006281000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Mockists Are Dead, Fabio Pereira (@fabiopereirame)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists</a>",
+  "date": 1536981100000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Tautology Tests, Roy Williams (@roywilliamsiii)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@rowillia/tautology-tests-7dabd81ade30\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@rowillia/tautology-tests-7dabd81ade30</a>",
+  "date": 1536979467000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "How long is too long for a build?, Brett L. Schuchert (@schuchert)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.industriallogic.com/blog/how-long-is-too-long-for-a-build/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.industriallogic.com/blog/how-long-is-too-long-for-a-build/</a>",
+  "date": 1536795410000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "The Life-Changing Magic of Tidying Up Code, Kent Beck (@KentBeck)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.facebook.com/notes/kent-beck/the-life-changing-magic-of-tidying-up-code/1544047022294823/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.facebook.com/notes/kent-beck/the-life-changing-magic-of-tidying-up-code/1544047022294823/</a> ",
+  "date": 1536611850000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Accelerate&#39;s definition of developer productivity, Will Larson (@Lethai)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://lethain.com/accelerate-developer-productivity/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://lethain.com/accelerate-developer-productivity/</a>",
+  "date": 1536611132000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Creativity in Software Development, Matthew Butt (@bnathyuw)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://blog.matthewbutt.com/2018/09/09/creativity-in-software-development/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://blog.matthewbutt.com/2018/09/09/creativity-in-software-development/</a> ",
+  "date": 1536611993000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Sandro Mancuso &amp; Uncle Bob comparative design episode 1 notes, Grzegorz Galezowski (@GGalezowski)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://feelings-erased.blogspot.com/2018/09/sandro-mancusso-uncle-bob-comparative.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://feelings-erased.blogspot.com/2018/09/sandro-mancusso-uncle-bob-comparative.html</a> ",
+  "date": 1536611743000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Why an interface with only one implementation?, Ted Kaminski (@tedinski)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.tedinski.com/2018/07/31/interfaces-cutting-dependencies.html\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.tedinski.com/2018/07/31/interfaces-cutting-dependencies.html</a> ",
+  "date": 1536611460000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "The functional-structural impedance mismatch, Devon Burriss (@DevonBurriss) <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://devonburriss.me/functional-structural-impedance-mismatch/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://devonburriss.me/functional-structural-impedance-mismatch/</a>",
+  "date": 1536612177000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Use Uncertainty As a Driver, Kevlin Henney (@KevlinHenney)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@kevlinhenney/https-medium-com-kevlinhenney-use-uncertainty-as-a-driver-493ebebd575d\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@kevlinhenney/https-medium-com-kevlinhenney-use-uncertainty-as-a-driver-493ebebd575d</a>",
+  "date": 1536506850000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Comunicación elegante, Patricia Ramírez<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.linkedin.com/pulse/comunicaci%C3%B3n-elegante-patricia-ram%C3%ADrez-loeffler/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.linkedin.com/pulse/comunicaci%C3%B3n-elegante-patricia-ram%C3%ADrez-loeffler/</a>",
+  "date": 1536507425000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Clasificando a las personas, Gonzalo García (@gzpunkt)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://tinselcity.net/reflexiones/taxonomias-y-personas\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://tinselcity.net/reflexiones/taxonomias-y-personas</a>",
+  "date": 1536499196000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Followership, Jason Wong (@attackgecko)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.attack-gecko.net/2018/09/04/followership/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.attack-gecko.net/2018/09/04/followership/</a>",
+  "date": 1536506563000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Notes to myself on software engineering, François Chollet (@fchollet)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d</a>",
+  "date": 1536505053000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Un año en Barcelona, Fran Iglesias (@talkingbit1)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://franiglesias.github.io/a-year-in-barcelona/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://franiglesias.github.io/a-year-in-barcelona/</a>",
+  "date": 1536499318000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Not Leadership “Material”, John Cutler (@johncutlefish)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://medium.com/@johnpcutler/not-leadership-material-45032563394d\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://medium.com/@johnpcutler/not-leadership-material-45032563394d</a>",
+  "date": 1536500479000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Timeless Laws of Software Development, Phillip Johnston<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://embeddedartistry.com/blog/2018/8/13/timeless-laws-software-development\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://embeddedartistry.com/blog/2018/8/13/timeless-laws-software-development</a>",
+  "date": 1536499570000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "The other butterfly effect, John D. Cook (@JohnDCook)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.johndcook.com/blog/2018/08/07/the-other-butterfly-effect/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.johndcook.com/blog/2018/08/07/the-other-butterfly-effect/</a> ",
+  "date": 1535892339000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "The Patient Change Agent, John Cutler (@johncutlefish)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://hackernoon.com/the-patient-change-agent-fd8548f04777\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://hackernoon.com/the-patient-change-agent-fd8548f04777</a>",
+  "date": 1535892195000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "That’ll Never Work Here: Heretics, Head Noddies, and the Drift Into Mediocrity, John Cutler (@johncutlefish)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://hackernoon.com/thatll-never-work-here-heretics-head-noddies-and-the-drift-into-mediocrity-4424a4b61e13\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://hackernoon.com/thatll-never-work-here-heretics-head-noddies-and-the-drift-into-mediocrity-4424a4b61e13</a>",
+  "date": 1535892074000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "Lifting the Curse of Knowledge, Erik Dietrich (@daedtech) <br><a rel=\"nofollow\" target=\"_blank\" href=\"https://daedtech.com/lifting-the-curse-of-knowledge/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://daedtech.com/lifting-the-curse-of-knowledge/</a>",
+  "date": 1535891742000
+}]
