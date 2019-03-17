@@ -1,0 +1,751 @@
+[{
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "Becoming an Expert Statistician (or Mathematician or Programmer) http://www.thejuliagroup.com/blog/?p=2157 Becoming an Expert Statistician (or Mathematician or Programmer) : AnnMaria’s Blog thejuliagroup.com",
+  "date": 1383541200000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Clean Code",
+  "content": "We don’t have time for code reviews | 8th color blog.8thcolor.com",
+  "date": 1383541200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "A list of 31 Javascript refactoring patterns https://github.com/tcorral/Refactoring_Patterns por +Tomás Corral Casas TranslateShow original text",
+  "date": 1383451200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Software architecture is a byproduct of continuous design process https://twitter.com/abdullin/status/394874766735441920/photo/1 Twitter / abdullin: Software architecture is a ... twitter.com",
+  "date": 1383451200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Dismantling the Monoliths https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/",
+  "date": 1383364800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Teaching programming basics http://www.raulmurciano.com/articles/teaching-programming-basics/ Teaching programming basics - Raul Murciano Ah, the good old days... Right after finishing my CS studies, I received an offer from my university to work there as a teacher. It was really unexpected and I felt flattered. It seemed a good opportunity to stay in that nice campus instead of joining a job market that I didn't find appealing at ... raulmurciano.com",
+  "date": 1383364800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "JavaScript Masterclass, Angelina Fabbro (@hopefulcyborg) Angelina Fabbro: JavaScript Masterclass | JSConfUS 2013 [JSConfUS 2013] Angelina Fabbro: JavaScript Masterclass",
+  "date": 1383364800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html Readings in distributed systems This post is a work in progress. Inspired by a recent purchase of the Red Book, which provides a curated list of important papers around database systems, I've decided to begin assembling a list of important papers in distributed systems. Similar to the Red Book, I've broken each group of papers ... christophermeiklejohn.com",
+  "date": 1383364800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Befriending the Turtles Rocky Mountain Ruby 2013 Befriending the Turtles by Glenn Vanderburg Rocky Mountain Ruby 2013 Befriending the Turtles by Glenn Vanderburg",
+  "date": 1383278400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Behaviour-driven RIAs with JavaScript, Carlos Ble: http://skillsmatter.com/podcast/ajax-ria/behavior-driven-rias-with-javascript",
+  "date": 1383192000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Distributed Systems Archaeology https://speakerdeck.com/mrb/distributed-systems-archaeology Distributed Systems Archaeology // Speaker Deck speakerdeck.com",
+  "date": 1383192000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Resultado de la sesión de refactoring en vivo en Neapolis, Vilanova http://bit.ly/1crsFXI Gracias a todos los assitentes, a WorkOs y SCBCN. TranslateShow original text",
+  "date": 1383192000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "Originally shared by Raul Tierno Una perspectiva sobre el taller de Design Patterns de Xavi Gost el jueves 24. http://kcy.me/udqn TranslateShow original text Design Patterns kcy.me",
+  "date": 1383105600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "How to be a Programmer: A Short, Comprehensive, and Personal Summary http://samizdat.mines.edu/howto/HowToBeAProgrammer.html How to be a Programmer: A Short, Comprehensive, and Personal Summary To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to ... samizdat.mines.edu",
+  "date": 1382932800000
+}, {
+  "author": "LeandroEG",
+  "category": "XP, Lean & Agile",
+  "content": "https://www.miriadax.net/web/agilidad-lean-gestionando-proyectos-negocios-sxxi Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI miriadax.net",
+  "date": 1382846400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "http://www.vogella.com/articles/Mockito/article.html",
+  "date": 1382760000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Rules, Sandi Metz http://www.youtube.com/watch?v=npOGOmkxuio&feature=youtu.be TranslateShow original text",
+  "date": 1382673600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Originally shared by Alfonso Burgos \"High Performance Browser Networking\" http://feedly.com/k/18A8O5t High Performance Browser Networking Nutshell Handbook, the Nutshell Handbook logo, and the O'Reilly logo are registered trademarks of O'Reilly Media, Inc. High-Performance Browser Networking, the image of a Madagascar harrier, and related trade dress are trademarks of O'Reilly Media, Inc. Many of the designations used by ... feedly.com",
+  "date": 1382587200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "Choose a pattern! Anton Keks http://vimeo.com/album/2079585/video/31716032 TranslateShow original text Choose a Pattern! - Anton Keks vimeo.com",
+  "date": 1382587200000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "James Shore: Alternatives to Acceptance Testing jamesshore.com",
+  "date": 1382500800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Modularity. Details. Pick One. J. B. Rainsberger (@jbrains) http://blog.thecodewhisperer.com/2013/01/31/modularity-details-pick-one/",
+  "date": 1382500800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Functional Programming Basics http://pragprog.com/magazines/2013-01/functional-programming-basics The Pragmatic Bookshelf | PragPub January 2013 | Functional Programming Basics Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun. Our titles are available on paper and electronically, and all our ebooks are DRM-free. Enjoy! pragprog.com",
+  "date": 1382500800000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Webcast: Introducción a la Programación Orientada a Objetos (by MejorandolaWeb) Hoy miércoles, y mañana jueves, vamos a tener dos eventos en vivo gratuitos, en los hangouts de DesarrolloWeb.com, donde ofreceremos una introducción a la Programación Orientada a Objetos. En ellos aprenderemos fundamentos y características de la POO, y cómo se aplican a los lenguajes más populares de la Web. Si te interesan estos eventos de libre acceso puedes suscribirte libremente para recibir avisos cuando comience la emisión en esta página. TranslateShow original text Webcast POO escuela.us6.list-manage1.com",
+  "date": 1382500800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Reducing Incidental Complexity in Our Code and in Our Teaching http://blog.8thlight.com/ryan-verner/2013/10/09/reducing-incidental-complexity-in-our-code-and-in-our-teaching.html Reducing Incidental Complexity in Our Code and in Our Teaching | 8th Light We write beautiful web applications that are durable and free of defects in workmanship. blog.8thlight.com",
+  "date": 1382500800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "The Learning Conundrum http://net.tutsplus.com/articles/the-learning-conundrum/ The Learning Conundrum | Nettuts+ When I started working in information technology professionally in 1989, things were pretty easy in terms of choosing a direction to head into. At least in my net.tutsplus.com",
+  "date": 1382500800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Magic Tricks of Testing, Sandi Metz http://www.youtube.com/watch?v=qPfQM4w4I04&feature=youtu.be",
+  "date": 1382500800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "OOP is Dead! Long Live OODD! by David West http://vimeo.com/77415896 Professor David West - OOP is Dead! Long Live OODD! vimeo.com",
+  "date": 1382414400000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Propuesta de Godjo Adzic para remodelar el \"Agile Testing Quadrants\", pidiendo feedback en su blog sobre la misma. TranslateShow original text Let’s break the Agile Testing Quadrants – Gojko Adzic gojko.net",
+  "date": 1382328000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Originally shared by Carlos Ble Join now my Online Training Class on Test Doubles. It will be in November but there are only 25 spots: http://kcy.me/twes - #mocks #stubs #TDD Test Doubles Training kcy.me",
+  "date": 1382328000000
+}, {
+  "author": "Miguel Angel Diez",
+  "category": "Professional matters",
+  "content": "http://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/ The best career advice I’ve received | NCZOnline nczonline.net",
+  "date": 1382155200000
+}, {
+  "author": "Nico Cortés",
+  "category": "Legacy Code",
+  "content": "Working Effectively With Legacy Code \"Over the past fifteen years, much has been written about object oriented design and team development processes. The unfortunate thing is that much design and process advice assumes that your project is a blank page. In actuality, greenfield projects are noticably rare. Most projects carry some amount of legacy code. In many new development efforts, the amount of legacy code will overwhelm the amount of new code by factors of 100 to 1, or 1000 to 1. Needless to say, you can't work very fast with a legacy code base. Work is often much slower, but you can speed it up if you establish a strategy to deal with your existing code and mitigate risk as new development goes forward. In this paper, I'll outline a strategy that can be used to work with legacy code. But first let's establish some background....\" - Michael Feathers www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf objectmentor.com",
+  "date": 1382155200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Treating Object like People, Matt Wynne Baruco 2013: Treating objects like people, by Matt Wynne Baruco 2013: Treating objects like people, by Matt Wynne",
+  "date": 1382155200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "L'arte perduta di pensare ad oggetti, Matteo Vaccari (@xpmatteo) http://www.youtube.com/watch?v=jO6Z3wOdfWc Esta charla es muy buena (y el italiano que habla no es muy difícil de entender). TranslateShow original text L'arte perduta di pensare ad oggetti, by Matteo Vaccari",
+  "date": 1382155200000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Tools - CI - CD",
+  "content": "Using Sublime theme in Chrome Inspector and more ... Awesomesauce: Turn Chrome Developer Tools into an IDE - Greg Rickaby gregrickaby.com",
+  "date": 1382155200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "FizzBuzz en SML http://bit.ly/1cAS2TM trikitrok / FizzBuzzInSML / source / fizzbuzz.sml — Bitbucket fun fizz_buzz(number: int) = let val multiple_of_three = number mod 3 = 0 val multiple_of_five = number mod 5 = 0 in if multiple_of_three andalso multiple_of_five then \"FizzBuzz\" else if multiple_of_three then \"Fizz\" else if multiple_of_five then \"Buzz\" else Int.toString(number) end fun ... bit.ly",
+  "date": 1382068800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Muchos caciques y pocos desarrolladores http://gabrielmorrissa.blogspot.com.es/2013/10/muchos-caciques-y-pocos-desarrolladores.html# TranslateShow original text Muchos caciques y pocos desarrolladores gabrielmorrissa.blogspot.com.es",
+  "date": 1382068800000
+}, {
+  "author": "Tomás Corral Casas",
+  "category": "Courses, events, conferences,...",
+  "content": "Taller de testing y pruebas unitarias en Javascript. Comenzaremos explicando cuales son las bases sobre las que se cimentan las pruebas unitarias pasando por TDD y trabaremos con las herramientas más eficientes para el testeo en Javascript llegando a implementar el material del workshop en Github con Travis para montar nuestro entorno de integración continua. A que estás esperando? !APUNTATE! http://escuela.it/cursos/taller-tdd-js/ TranslateShow original text Taller de Testing y pruebas unitarias en Javascript - EscuelaIT escuela.it",
+  "date": 1382068800000
+}, {
+  "author": "Gabriel Moral",
+  "category": "Courses, events, conferences,...",
+  "content": "Un curso que creo que puede ser interesante https://www.miriadax.net/web/agilidad-lean-gestionando-proyectos-negocios-sxxi TranslateShow original text Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI miriadax.net",
+  "date": 1382068800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Mars Rover kata en Racket ASL (Lisp/Scheme family) http://bit.ly/1bEiz1f Guardé todos los baby steps para que puedan seguir el proceso de desarrollo con TDD y el posterior refactoring. Falta introducir obstáculos. TranslateShow original text trikitrok / MarsRoverKataInRacketAdvancedStudent Mars Rover kata in Racket's advanced student language (Lisp/Scheme family) bit.ly",
+  "date": 1382068800000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Speci cations and Assertions homepages.cwi.nl/~jve/courses/10/pdfs/Week4.pdf homepages.cwi.nl",
+  "date": 1381982400000
+}, {
+  "author": "Nico Cortés",
+  "category": "Languages",
+  "content": "Ejemplo introductorio a la Programación Orientada a Aspectos (AOP) con AspectJ - por +Roberto Canales Mora TranslateShow original text AspectJ, Programación con AspectosProgramación con aspectos AspectJ adictosaltrabajo.com",
+  "date": 1381982400000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Taller Business Model Canvas - Tetuan Valley, Madrid - Miércoles 17 Oct, 19H. Ponente: Juan Corbera (Taller.es) Taller de prototipado de modelos de negocio utilizando la metodologia canvas o lienzo de modelo de negocio desde un punto de practico. - 1º. Crear un lenguaje común, el lenguaje de las ideas aplicado al prototipado de modelos de negocio. - 2º. La herramienta, que es un canvas o lienzo de modelos de negocio y como funciona. - 3º. Aplicación practica. Elegir una idea de negocio que a priori no sea viable para trabajar sobre ella y encontrar una idea factible de convertirse en un proyecto. TranslateShow original text Workshops and courses | Tetuan Valley blog.tetuanvalley.com",
+  "date": 1381896000000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Tests primero. Código de producción, después (by +Juanma Gómez) Lectura complementaria recomendada: - http://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html Tests primero. Código de producción, después juanmagomez.wordpress.com",
+  "date": 1381896000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Jaume Jornet Rivas #hangoutsonairGerard Chiva, Marc Florit, Jordi Varela, Luis Carrasco, Antonio de la Torre, and Toni Tassani TranslateShow original text CASK2013 Highlights",
+  "date": 1381896000000
+}, {
+  "author": "Tomás",
+  "category": "XP, Lean & Agile",
+  "content": "Comparto un resumen de talleres que se hicieron en la cas2013 con las grabaciones http://iwt2-javierj.tumblr.com/post/64211981156/testing-en-la-conferencia-agile-spain-2-013 TranslateShow original text Testing en la Conferencia Agile Spain 2.013 iwt2-javierj.tumblr.com",
+  "date": 1381896000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Courses, events, conferences,...",
+  "content": "Build Stuff 2013 Conference buildstuff.lt",
+  "date": 1381896000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Object-oriented design patterns from a functional perspective, Lev Gorodinski http://gorodinski.com/blog/2013/09/18/oop-patterns-from-a-functional-perspective/",
+  "date": 1381896000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Grupo de estudio: - SOLID Principles of Object Oriented Design 1/2 - lunes 21 de octubre de 2013 - Gran Via de les Corts Catalanes, 837 08018 Barcelona, Barcelona TranslateShow original text SOLID Principles of Object Oriented Design 1/2 meetup.com",
+  "date": 1381896000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Professional matters",
+  "content": "4 Ways to Write LinkedIn Messages That Actually Get Read Thanks to +Iván Stepaniuk Join LinkedIn | LinkedIn LinkedIn strengthens and extends your existing network of trusted contacts. LinkedIn is a networking tool that helps you discover inside connections to recommended job candidates, industry experts and business partners. linkedin.com",
+  "date": 1381896000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Curso gratuito de Iniciación a la programación en Objective-C TranslateShow original text Curso gratuito de Iniciación a la programación en Objective-C - EscuelaIT escuela.it",
+  "date": 1381896000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Introducing Rubinius X http://rubini.us/2013/10/15/introducing-rubinius-x/ Introducing Rubinius X - Rubinius Rubinius is an implementation of the Ruby programming language. The Rubinius bytecode virtual machine is written in C++. The bytecode compiler is written in pure Ruby. The vast majority of the core library is also written in Ruby, with some supporting primitives that interact with the VM directly. rubini.us",
+  "date": 1381809600000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Jaume Jornet Rivas Enlace a las charlas de la CAS2013 transmitidas en Streaming TranslateShow original text En Directo | Conferencia Agile-Spain 2013 conferencia2013.agile-spain.org",
+  "date": 1381723200000
+}, {
+  "author": "Nico Cortés",
+  "category": "XP, Lean & Agile",
+  "content": "Extreme Programming Overview www.xp123.com/xplor/xp0202/xp-one-page.PDF xp123.com",
+  "date": 1381636800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Dance you Imps!, Robert C. Martin http://blog.8thlight.com/uncle-bob/2013/10/01/Dance-You-Imps.html \"...designers, feel free to use ORMs to bring data structures from the disk ... into memory. But please don't think of those data structures as your business objects\"\" Dance you Imps! | 8th Light We write beautiful web applications that are durable and free of defects in workmanship. blog.8thlight.com",
+  "date": 1381636800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Slides of Magic Tricks of Testing talk, Sandi Metz https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf",
+  "date": 1381636800000
+}, {
+  "author": "Nico Cortés",
+  "category": "Interesting Posts and Papers",
+  "content": "New Tweets per second record, and how! https://blog.twitter.com/2013/new-tweets-per-second-record-and-how",
+  "date": 1381636800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "Design Patterns in Scala http://pavelfatin.com/design-patterns-in-scala/ Design Patterns in Scala pavelfatin.com",
+  "date": 1381636800000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Katas",
+  "content": "Why should we do code katas? davenicolette.wordpress.com",
+  "date": 1381550400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "El próximo miércoles 16 WorkOs y Software Craftsmanship Barcelona organizan un Coding Dojo en Neapolis, (Rambla de l'Exposició 1, Vilanova i La Geltrú). 18:30 - 19:00 Pequeña intro a TDD 19:00 - 21:00 Kata Mars Rover Desde Barcelona se puede llegar en tren. Neapolis está a 5 minutos andando de la estación de tren de Vilanova. TranslateShow original text",
+  "date": 1381464000000
+}, {
+  "author": "Ismael Delgado Molina",
+  "category": "Katas",
+  "content": "Using Katas To Improve | 8th Light blog.8thlight.com",
+  "date": 1381377600000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Patterns",
+  "content": "In this talk, we'll explore the current state of MVC in the JavaScript community, what MVC was originally supposed to be (Smalltalk-80) and whether modern frameworks abuse (or evolve) the MVC pattern. We'll also look at a framework that tries to stick more closely to the original version of MVC and close up with a panel discussion. I thoroughly enjoyed the panel and will update with links to video once they're posted. Digesting JavaScript MVC // Speaker Deck speakerdeck.com",
+  "date": 1381377600000
+}, {
+  "author": "Nico Cortés",
+  "category": "XP, Lean & Agile",
+  "content": "This doc provide an overview on the derivation and application of user stories, which are the primary agile mechanism that carries customer’s requirements through the agile software development value stream. In turn, user stories are a critical element of the Lean and Scalable Requirements Information Model for Agile Enterprises and The Big Picture of Enterprise Agility, both of which may be found on the blog http://scalingsoftwareagility.wordpress.com/ Thanks to @rcanalesmora. trailridgeconsulting.com/files/user-story-primer.pdf trailridgeconsulting.com",
+  "date": 1381377600000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Readers Club",
+  "content": "Recommended Reading - Rapid Prototyping with JS Startup CTO Corner #4: Recommended Reading - Rapid Prototyping with JS morganlinton.com",
+  "date": 1381291200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Martín Salías Kleer - Poster de Extreme Programming",
+  "date": 1381204800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "Mikado Method - Making Code Changes Less of an Impact. Kev McCabe http://vimeo.com/54450491# Kev McCabe - Mikado Method - Making Code Changes Less of an Impact vimeo.com",
+  "date": 1381118400000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Humour",
+  "content": "Originally shared by Craig Deakin What Group Projects really taught me.",
+  "date": 1380772800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "What's the Best Way for a Programmer to Learn a New Language? http://www.informit.com/promotions/what-is-the-best-way-for-a-programmer-to-learn-a-new-13948 Informit informit.com",
+  "date": 1380686400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html JavaScript Allonge is Free braythwayt.com",
+  "date": 1380686400000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Readers Club",
+  "content": "There is a Cowboy in my Domain! - Implementing Domain Driven Design Review and Interview infoq.com",
+  "date": 1380600000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "http://rosalind.info/problems/locations/ ROSALIND | Problems | Locations rosalind.info",
+  "date": 1380600000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "http://dddcommunity.org/case-studies/rainsberger_jb_2003_10-html/ Persistence Last by J. B. Rainsberger October 2003 I was working at IBM when I discovered JUnit, Design Patterns, Refactoring and Pragmatic Programmer. These all gave me a bright idea how to deal with a specific pr... dddcommunity.org",
+  "date": 1380600000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "Fuentes de aprendizaje, producto de un OpenSpace en SCBCN 2013 http://bit.ly/GzqKT2 TranslateShow original text Twitter / scbcn2013: Fuentes de aprendizaje #scbcn ... twitter.com",
+  "date": 1380513600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "The Second Coming of Java: Clinton-Era Relic Returns to Rule Web Originally shared by Manuel Rivero http://www.wired.com/wiredenterprise/2013/09/the-second-coming-of-java/ The Second Coming of Java: Clinton-Era Relic Returns to Rule Web | Wired Enterprise | Wired.com wired.com",
+  "date": 1380513600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Originally shared by Jaume Jornet Rivas #hangoutsonairJosé E. Rodríguez Software Craftsmanship Barcelona 2013 - TDD Like Bethoven",
+  "date": 1380513600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "OOP Básico, lo que crees saber II, Xavi Gost TranslateShow original text Originally shared by Jaume Jornet Rivas #hangoutsonair Software Craftsmanship Barcelona 2013 - OOP Básico, lo que crees saber II",
+  "date": 1380513600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Writing “As a User” does not make it a user story http://gojko.net/2013/09/30/writing-as-a-user-does-not-make-it-a-user-story/ Writing “As a User” does not make it a user story – Gojko Adzic I got a question from one of the blog readers on how I would describe a spec with examples for a user-interface specific user story, such as “As a user, I want to register in order to log in”. The reader challenged the value of doing a Cucumber test for the registration, because it's obvious and ... gojko.net",
+  "date": 1380513600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Applying the transformation priority premise, Miguel San Román Originally shared by Manuel Rivero #hangoutsonair Software Craftsmanship Barcelona 2013 - Applying the transformation priority premise",
+  "date": 1380513600000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Readers Club",
+  "content": "Structure and Interpretation of Computer Programs Contents. Foreword · Preface to the Second Edition · Preface to the First Edition · Acknowledgments · 1 Building Abstractions with Procedures · 1.1 The Elements of Programming · 1.1.1 Expressions · 1.1.2 Naming and the Environment · 1.1.3 Evaluating Combinations · 1.1.4 Compound Procedures ... bit.ly",
+  "date": 1380513600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Solid Workshop en SCBCN 2013 http://youtu.be/LoyT5NwXEps Software Craftsmanship Barcelona - Solid Workshop I",
+  "date": 1380427200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Software Craftsmanship Barcelona 2013 - Kata Arquitectura I Software Craftsmanship Barcelona 2013 - Kata Arquitectura I Software Craftsmanship Barcelona 2013 - Kata Arquitectura I",
+  "date": 1380427200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Posible solución de la Birthday Greetings Kata para SCBCN2013 http://bit.ly/197rN8t TranslateShow original text BirthdayGreetingsKataSCBCN2013SolutionCode github.com",
+  "date": 1380427200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Software Craftsmanship Barcelona 2013 - Kata Arquitectura II Software Craftsmanship Barcelona 2013 - Kata Arquitectura II Software Craftsmanship Barcelona 2013 - Kata Arquitectura II",
+  "date": 1380427200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "OOP Básico, lo que crees saber I, Xavi Gost TranslateShow original text Originally shared by Jaume Jornet Rivas #hangoutsonair Software Craftsmanship Barcelona 2013 - OOP Básico, lo que crees saber I",
+  "date": 1380427200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Software Craftsmanship Barcelona 2013 - Diseñar clases usando CRC cards Software Craftsmanship Barcelona 2013 - Diseñar clases usando tarjetas CRC TranslateShow original text Software Craftsmanship Barcelona 2013 - Diseñar clases usando tarjetas CRC",
+  "date": 1380427200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Software Craftsmanship Barcelona - Hexagonal Architecture II Software Craftsmanship Barcelona - Hexagonal Architecture II Software Craftsmanship Barcelona - Hexagonal Architecture II",
+  "date": 1380427200000
+}, {
+  "author": "Ismael Delgado Molina",
+  "category": "Interesting Posts and Papers",
+  "content": "Entrevista a Edsger W. Dijkstra. (1/3) No sabía en qué categoría ubicarlo así que la dejo aquí. TranslateShow original text Discipline in Thought - Part 1 of 3",
+  "date": 1380427200000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Humour",
+  "content": "Twitter / ScalaVienna: Why do we like functional ... Instantly connect to what's most important to you. Follow your friends, experts, favorite celebrities, and breaking news. twitter.com",
+  "date": 1380254400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Tengo curiosidad por saber que piensan otros freelancers de esto: Lessons learned in a year of freelancing http://swizec.com/blog/lessons-learned-in-a-year-of-freelancing/swizec/6348 TranslateShow original text",
+  "date": 1380168000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "Legacy Code Refactoring, Steve Jackson http://stevenjackson.github.io/2013/09/22/legacy-code-refactoring/",
+  "date": 1380168000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Languages",
+  "content": "Deploying JavaScript Applications (by Alex Sexton @SlexAxton) Deploying JavaScript Applications - Alex Sexton alexsexton.com",
+  "date": 1379995200000
+}, {
+  "author": "Nico Cortés",
+  "category": "Interesting Posts and Papers",
+  "content": "Chuleta de las redes sociales en España TranslateShow original text Chuleta de las redes sociales en España | Gestión Cultural Formación y Comunicación Dosdoce dosdoce.com",
+  "date": 1379995200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "http://www.meetup.com/Scala-Developers-Barcelona/events/139198932/ Welcome Scala Newbies. Autumn Edition meetup.com",
+  "date": 1379995200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "http://mantras.pradeepvarma.in/#!/ Programming Mantras - Programming Mantras mantras.pradeepvarma.in",
+  "date": 1379908800000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Liz Keogh hablando sobre spike & stabilize, su manera de trabajo mas alla de TDD. TranslateShow original text Beyond Test Driven Development lizkeogh.com",
+  "date": 1379908800000
+}, {
+  "author": "Xavi Gost",
+  "category": "Courses, events, conferences,...",
+  "content": "Originally shared by Xavi Gost Si eres un CERDO en este proyecto, este es el moemnto de decirselo al mundo. Los CERDOS son personas comprometidas con el proyecto. El compromiso no lo entendemos como dedicacion, dedicacion es una de las cosas que se puede comprometer pero no es la unica. Necesitamos CERDOS que sepan programar, diseñar, escribir, divulgar .... Asi que si eres un CERDO, presentate, dinos que habilidades puedes aportar (PO, UX, Diseño, JS, SocialMedia, Escritor, Traductor... etc...), cuanta dedicacion (en pomodoros a la semana, un pomodoro= 25 min), dinos cual es tu compromiso. GO CERDOS GO!! TranslateShow original text",
+  "date": 1379908800000
+}, {
+  "author": "Xavi Gost",
+  "category": "Courses, events, conferences,...",
+  "content": "Originally shared by Xavi Gost En los comentarios de esta entrada presentaros los POLLOS de este proyecto. Pollos sois aquellos que estais involucrados pero no comprometidos, aquellos que quereis que se haga el software pero no vais a poder responsabilizaros. Aun asi, un POLLO puede y debe aportar al proyecto siempre que pueda , bien sea acudiendo a las demos y dando buen feedback en comentarios, probando la aplicacion o haciendo pequeñas tareas como puede ser una traduccion o reparar un pequeño bug. Presentaros en los comentarios, diciendonos al resto de la comunidad porque os sentis POLLOS en este proyecto y que podeis aportar al mismo... pero por favor no malgasteis vuestro tiempo justificandoos por no ser CERDOS. Los POLLOS sois muy necesarios... VIVA LOS POLLOS!!! TranslateShow original text",
+  "date": 1379908800000
+}, {
+  "author": "Xavi Gost",
+  "category": "Courses, events, conferences,...",
+  "content": "Originally shared by Xavi Gost Guau!! 90 Miembros y ni un mensaje!! Bueno, ha llegado el momento, el hackaton ya esta convocado el proximo fin de semana en barcelona dentro de las actividades de la Software Craftmanship de Barcelona. http://softwarecraftsmanshipbarcelona.org/ Asi que es hora de definirse... Empecemos por ver quien es un POLLO y quien un CERDO El resto , los LURKERS, podeis seguir el proyecto porque es OpenSource y transparente , pero os agradeceria que abandonarais la comunidad asi no tendremos una falsa sensacion de fortaleza. GRACIAS!! TranslateShow original text softwarecraftsmanshipbarcelona.org/ softwarecraftsmanshipbarcelona.org",
+  "date": 1379908800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "A Case Against Cucumber http://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html",
+  "date": 1379822400000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": "Hay que ir poniéndose las pilas con Gradle que va a más. Originally shared by Carlos Sierra Buenas. Ya tenemos disponible la charla de Mario García sobre Gradle. Para que la podáis disfrutar el Domingo :-) TranslateShow original text MadridJug - Gradle",
+  "date": 1379822400000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Originally shared by Marco Antonio González Gómez-Caro Webinar sobre TDD aplicado a código legado (legacy). Muy interesante e instructivo, ya que no sólo de desarrollar aplicaciones desde cero vive el desarrollador ;-) TranslateShow original text 10Pines-Webinar TDD Avanzado - Septiembre 2013",
+  "date": 1379736000000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Marco Antonio González Gómez-Caro Las implicaciones de añadir funcionalidades de más. Breve pero interesante. TranslateShow original text Mary Poppendieck. El coste de las funcionalidades de más jummp.wordpress.com",
+  "date": 1379736000000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Refactoring",
+  "content": "Originally shared by Marco Antonio González Gómez-Caro Conciénciate, los tests son código, por lo que tienes que tratarlos como tal (código limpio, refactorizar, etc). TranslateShow original text Duplicated Test Code & High Coupling - Software People Inspiring codemanship.co.uk",
+  "date": 1379736000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Originally shared by Tuts+ Code Looking for an intro to NoSQL databases? Check out this video: http://enva.to/18JrjoR Introduction to NoSQL by Martin Fowler",
+  "date": 1379736000000
+}, {
+  "author": "Ricardo Roldán",
+  "category": "XP, Lean & Agile",
+  "content": "The Automated Tester agilewarrior.wordpress.com",
+  "date": 1379649600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "We don’t do code reviews to improve the code http://blog.8thcolor.com/2013/09/we-dont-do-code-reviews-to-improve-the-code/ (twitteado por +Javier Neira Sanchez) We don’t do code reviews to improve the code | 8th color blog.8thcolor.com",
+  "date": 1379563200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Podcasts",
+  "content": "Introducción a Lean, WorkOS Podcast http://www.ivoox.com/introduccion-a-lean-workos-podcast-audios-mp3_rf_2362288_1.html",
+  "date": 1379563200000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Languages",
+  "content": "Buena introducción a las Promises y Deferrend de JavaScript, con ejemplos de uso en jQuery muy acertados. TranslateShow original text Script Junkie | Creating Responsive Applications Using jQuery Deferred and Promises msdn.microsoft.com",
+  "date": 1379563200000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Tools - CI - CD",
+  "content": "To scale further, our developer must switch to 100% lock-free algorithms for data sharing. He is now into the realm of black magic. He exploits hardware instructions like compare-and-swap (CAS) to flip between instances of a data structure without locks. The code is now another order of magnitude more difficult and the skill set even more rare. Lose one developer, and the entire application can die. Multithreading Magic - zeromq Abstract. In this article Pieter Hintjens and Martin Sustrik examine the difficulties of building concurrent (multithreaded) applications and what this means for enterprise computing. The authors argue that a lack of good tools for software designers means that neither chip vendors nor large ... zeromq.org",
+  "date": 1379476800000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Languages",
+  "content": "Originally shared by Alfonso Burgos Bjarne Stroustrup - The Essence of C++: With Examples in C++84, C++98, C++11, and C++14 Bjarne Stroustrup - The Essence of C++: With Examples in C++84, C++98, C++11, and C++14 (Channel 9) channel9.msdn.com",
+  "date": 1379390400000
+}, {
+  "author": "Miguel Angel Diez",
+  "category": "XP, Lean & Agile",
+  "content": "http://www.leanagiletraining.com/blog/business-value/creativity-and-process/ Creativity and Process | LeanAgileTraining Now I have to tell you something, and I mean this in the best and most inoffensive way possible: I don't believe in process. In fact, when I interview a potential employee and he or she says that 'it's all about the process,' I see that as a bad sign … The problem is that at a lot of big ... leanagiletraining.com",
+  "date": 1379304000000
+}, {
+  "author": "José Carlos Gil Zambrana",
+  "category": "Courses, events, conferences,...",
+  "content": "Originally shared by Xavi Gost Esta es la carta de llamada a la acción , difundidla alla donde penseis puede ser interesante. Cada vez más a menudo estamos usando Hangouts on Air para poder reunirnos y hablar de temas que nos interesan, se ha convertido en una gran herramienta para permitirnos hacer pequeños eventos como mesas redondas , fishbowls o charlas… en todos estos casos, detectamos necesidades que no están cubiertas por la herramienta de Google. Afortunadamente somos programadores y .. ¿que hace un programador cuando la herramienta no es suficiente? Programa una solución.. Así me dirijo a vosotros para invitaros a participar en un nuevo proyecto OpenSource que usando APIs de Hangout y Youtube nos facilite cosas como la convocatoria , el seguimiento de los comentarios de Hangout al Youtube y del Youtube al Hangout, la moderación, controlar el número de participantes en un fishbowl y pasar de participante a miron y viceversa con facilidad. Para eso he creado una comunidad en Google+ (https://plus.google.com/u/0/communities/104511224564957817094) donde reclutar programadores , diseñadores, PO’s, o simplemente futuros usuarios de esta aplicación. En esta comunidad nos organizaremos encontraremos un nombre , definiremos las historias de usuario y haremos las demos… Todos podeis colaborar, no importa nivel y habilidades, siempre hay algo que aportar. Durante el próximo Software Craftmanship Barcelona los días 28 y 29 de este més (http://softwarecraftsmanshipbarcelona.org/) haremos un hackathon para darle un impulso inicial al proyecto. Es tu oportunidad de entrar en un proyecto útil para la comunidad, colaborar en software Open Source, trabajar con otros profesionales de los que aprender, hacer currículo… etc Venga! ¿a qué esperas? Xavi Gost",
+  "date": 1379304000000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "How do you maintain code quality? Free webinar TOMORROW - Intro to unit testing #developer #TDD Intro To Unit Testing - Free Webinar Unit testing is all the rage and more and more teams are beginning to unit test, especially with agile methodologies coming into play in many organizations. True, it’s not always easy to change methods and work habits, but in order to maintain code quality by minimizing bugs and releasing clean working code to market, you need to incorporate developer testing into your daily routine, including unit testing. In this webinar, Gil will discuss: ... okt.to",
+  "date": 1379304000000
+}, {
+  "author": "Xavi Gost",
+  "category": "Tools - CI - CD",
+  "content": "Cada vez más a menudo estamos usando Hangouts on Air para poder reunirnos y hablar de temas que nos interesan, se ha convertido en una gran herramienta para permitirnos hacer pequeños eventos como mesas redondas , fishbowls o charlas… en todos estos casos, detectamos necesidades que no están cubiertas por la herramienta de Google. Afortunadamente somos programadores y .. ¿que hace un programador cuando la herramienta no es suficiente? Programa una solución.. Así me dirijo a vosotros para invitaros a participar en un nuevo proyecto OpenSource que usando APIs de Hangout y Youtube nos facilite cosas como la convocatoria , el seguimiento de los comentarios de Hangout al Youtube y del Youtube al Hangout, la moderación, controlar el número de participantes en un fishbowl y pasar de participante a miron y viceversa con facilidad. Para eso he creado una comunidad en Google+ (https://plus.google.com/u/0/communities/104511224564957817094) donde reclutar programadores , diseñadores, PO’s, o simplemente futuros usuarios de esta aplicación. En esta comunidad nos organizaremos encontraremos un nombre , definiremos las historias de usuario y haremos las demos… Todos podeis colaborar, no importa nivel y habilidades, siempre hay algo que aportar. Durante el próximo Software Craftmanship Barcelona los días 28 y 29 de este més (http://softwarecraftsmanshipbarcelona.org/) haremos un hackathon para darle un impulso inicial al proyecto. Es tu oportunidad de entrar en un proyecto útil para la comunidad, colaborar en software Open Source, trabajar con otros profesionales de los que aprender, hacer currículo… etc Venga! ¿a qué esperas? Xavi Gost TranslateShow original text Community Community",
+  "date": 1379304000000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Readers Club",
+  "content": "Data Mining and Analysis: Fundamental Concepts and Algorithms :: start Fundamentals of Data Mining Algorithmsstart dcc.ufmg.br",
+  "date": 1379304000000
+}, {
+  "author": "Fermin Saez",
+  "category": "Courses, events, conferences,...",
+  "content": "Originally shared by Jahertor Rubgolo Descubre unx, una plataforma con profesores del MIT y UNED, que ofrece cursos de formación online en abierto, gratis y en español !! TranslateShow original text unX: cursos de formación online en abierto, gratis y en español | Formación Online formaciononline.co",
+  "date": 1379217600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Stupid Question 238-239: Should I do code Katas and what is a Kata? http://irisclasson.com/2013/09/11/stupid-question-238-239-should-i-do-code-katas-and-what-is-a-kata/ Stupid Question 238-239: Should I do code Katas and what is a Kata? » Iris Classon irisclasson.com",
+  "date": 1379131200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Data, Visibility, and Abstraction http://vimeo.com/album/2525252/video/74363040 Data, Visibility, and Abstraction vimeo.com",
+  "date": 1379044800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Tratando de entenderlo: Domain-Driven Design Espacio de reflexión y exposición de ideas y dificultades encontradas en mi proceso de aprendizaje del desarrollo de proyectos software. martes, 27 de agosto de 2013. Domain-Driven Design. DISCLAIMER: ESTE ARTÍCULO TODAVÍA ESTÁ EN CONSTRUCCIÓN. Como otros resúmenes de libros que he hecho, ... tratandodeentenderlo.blogspot.com",
+  "date": 1378958400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Directamente relacionado con el anterior: The Bamboo Project: Career Resilience: The Four Patterns that Should Guide All Your Career Moves http://www.michelemmartin.com/thebambooprojectblog/2013/03/the-four-patterns-that-should-guide-all-your-career-moves.html The Bamboo Project: Career Resilience: The Four Patterns that Should Guide All Your Career Moves michelemmartin.com",
+  "date": 1378958400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Software developers are a model for career resilience http://scrumplus.blogspot.com.es/2013/04/software-developers-are-model-for.html Software developers are a model for career resilience Since the official end of the Great Recession, the private sector has pretty much rebounded. The Dow Jones has recently hit all-time highs and some companies are now posting record profits. Despite this, unemployment has rema... scrumplus.blogspot.com.es",
+  "date": 1378958400000
+}, {
+  "author": "Pepe Doval",
+  "category": "Professional matters",
+  "content": "+jesus iniesta no soy capaz de encontrar tu post original para responderte (¿alguien lo borró? ¿estamos posteando en el sitio inadecuado?). Como he dicho, no creo que yo te pueda ayudar mucho, y no quiero trollearte, pero lo que cuentas de perseguir desarrollo profesional + comer me recuerda el caso de un conocido mío que es escritor (un oficio parecido al nuestro, si lo piensas) y trabaja como operario de gasolinera. Es feliz. Yo lo envidio y aspiro a llegar a algo así (que mi desarrollo profesional no esté condicionado por tener que comer). Lo que quiero decir, en definitiva, es que si lo del curro es para comer y lo que te va a llenar es lo otro, no te cierres a lo tecnológico, donde los puestos de trabajo suelen exigir bastante dedicación dentro y fuera de las horas de trabajo. TranslateShow original text",
+  "date": 1378958400000
+}, {
+  "author": "Nico Cortés",
+  "category": "Patterns",
+  "content": "List of DSL Patterns \"My book on Domain Specific Languages uses a pattern structure to organize the concepts that I use to describe DSLs. Here is a list of the patterns in that book. Each is linked to a page for each pattern. The pages don’t contain very much detail, little more than an indication of the relevant chapter in the book. My main purpose for these is to provide a reference URI for each pattern.\" (Martin Fowler -@martinfowler) DSL Patterns List of DSL Patterns. My book on Domain Specific Languages uses a pattern structure to organize the concepts that I use to describe DSLs. Here is a list of the patterns in that book. Each is linked to a page for each pattern. The pages don't contain very much detail, little more than an ... bit.ly",
+  "date": 1378872000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Como contrapunto el mismo ejemplo anterior de dentro hacia afuera: Brian Swan Inside Out TDD http://vimeo.com/14325277 TranslateShow original text ScotRUG Talks - Brian Swan Inside Out TDD vimeo.com",
+  "date": 1378872000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Matt Wynne: Outside-in TDD http://vimeo.com/14325350 (twitteado por +Carlos Ble ) TranslateShow original text ScotRUG Talks Matt Wynne Outside-in TDD vimeo.com",
+  "date": 1378872000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Why Mocks suck http://vimeo.com/9618360 Brian Swan tells us why Mocks suck vimeo.com",
+  "date": 1378872000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "Design Patterns for JavaScript Applications http://www.infoq.com/news/2013/09/javascript-design-patterns Design Patterns for JavaScript Applications Writing increasingly larger and more complex JavaScript applications we tend to overlook the core principles involved, Carl Danley, a senior web engineer, motivates a series of blog posts about JavaScript design patterns. Patterns provide a clear approach to writing structured and maintainable code, concepts which are important when developing large JavaScript applications. infoq.com",
+  "date": 1378872000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Patterns",
+  "content": "Method Chaining Make modifier methods return the host object, so that multiple modifiers can be invoked in a single expression (Martin Fowler -@martinfowler) Internal DSL Pattern: Method Chaining | Chad Myers' Blog bit.ly",
+  "date": 1378872000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Should you build it if nobody comes? http://darrenmart.com/blog/139/should-you-build-it-if-nobody-comes Should you build it if nobody comes? darrenmart.com",
+  "date": 1378699200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Last chance to get a seat in the first free Rails Girls workshop in Barcelona - happening this Thursday & Friday! http://railsgirls.com/barcelona Barcelona 13th September 2013 railsgirls.com",
+  "date": 1378612800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "It's not your test framework, it's you LA Ruby Conference 2013 It's not your test framework, it's you by Robbie Clutton, Matt Parker LA Ruby Conference 2013 It's not your test framework, it's you by Robbie Clutton, Matt Parker",
+  "date": 1378612800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Una forma divertida de aprender algoritmos: http://codeandconquer.co/#start TranslateShow original text Code & Conquer codeandconquer.co",
+  "date": 1378612800000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": "Originally shared by Marco Antonio González Gómez-Caro Webcast gratuito con título \"JVM and Java Garbage Collection\". Se necesita cuenta de Oracle. TranslateShow original text Redirecting to the Login Server for authentication... Redirecting to the Login Server for authentication... apex.oracle.com",
+  "date": 1378526400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Un post muy interesante de +Miguel San Román aplicando la transformation priority premise a una kata concreta: http://msanroman.me/transformation-priority-premise-hanoi-kata/﻿ TranslateShow original text Applying the transformation priority premise to Hanoi Tower's kata msanroman.me",
+  "date": 1378526400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "http://barcelona.agile-spain.org/2013/09/open-space-equipos-19-septiembre-19h-en-xing/ » Open Space Equipos – 19 Septiembre 19h en XING Agile Barcelona El próximo jueves, 19 de Septiembre, a las 19h queremos desde agile-barcelona volver a juntarnos para realizar un Open Space, en esta ocasión para hablar alrededor de los Equipos. Como sábeis, un Open Space es un formato de conferencia abierta, donde no existe una agenda fija, si no que esta se ... barcelona.agile-spain.org",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Tres links sobre Classic TDD or London School: http://codemanship.co.uk/parlezuml/blog/?postid=987 http://myagileeducation.com/2011/whats-this-london-school-of-tdd/#li-comment-2267 (twitteado por +Guillermo Pascual ) https://groups.google.com/forum/#!msg/growing-object-oriented-software/GNS8bQ93yOo/-MsDlyUGe84J (twitteado por +Guillermo Pascual ) +Guillermo Pascual, gracias por el último, no lo conocía, y me gustó mucho. TranslateShow original text",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "http://openmymind.net/Own-A-System-Beyond-Its-Childhood-Or-Stay-A-Bad-Programmer/ Own A System Beyond Its Childhood, Or Stay A Bad Programmer Knowing how your design survives the test of time is the only way to really grow as a programmer openmymind.net",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Webinar gratuito sobre TDD Avanzado http://www.10pines.com/training/webinars/webinar-tdd-avanzado (twitteado por +Angel Java Lopez) TranslateShow original text Training - Webinars - - 10 Pines 10pines.com",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "No son katas, sino ejercicios, pero creo que esta idea de compartir tus soluciones a ejercicios y luego pasar una revisión de código colectiva, es muy interesante: Exercism Crowd-sourced code reviews on daily practice problems. http://exercism.io/ (twitteado por +Javier Acero) TranslateShow original text exercism.io/ Receive Feedback. exercism.io is intended to be a conversation about what good code might look like. There's no right answer, and many good questions. That old adage about it being about the journey, not the destination? Yeah, that one. That's what we're going for. exercism.io",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Practicing programming practicing programming | steveyegge2 (twitteado por +Carlos Ble) TranslateShow original text",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Practicing Ruby's public archives http://www.rubyflow.com/items/9606-practicing-ruby-s-public-archives \"Even though Practicing Ruby is a paid service, a good portion of its content has been released under a free documentation license.\" (twitteado por +Arturo Herrero) Practicing Ruby's public archives : RubyFlow Practicing Ruby's public archives. Posted by seacreature on July 24, 2013 — 0 comments. Even though Practicing Ruby is a paid service, a good portion of its content has been released under a free documentation license. You can find the archives for the first four volumes (over 60 articles) below ... rubyflow.com",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Tell Don't Ask, Martin Fowler (@martinfowler) http://martinfowler.com/bliki/TellDontAsk.html",
+  "date": 1378440000000
+}, {
+  "author": "Vicente Baixauli",
+  "category": "Courses, events, conferences,...",
+  "content": "Videos de las charlas de la conferencia Steel City Ruby en Pittsburgh, Pennsylvania TranslateShow original text Steel City Ruby Conf steelcityruby.confbots.com",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Functional Programming Principles in Scala (Sept 16th 2013) https://www.coursera.org/course/progfun Functional Programming Principles in Scala coursera.org",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "BcnDevCon http://bcndevcon.org/ BcnDevCon bcndevcon.org",
+  "date": 1378440000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Recursos publicados en la comunidad sobre Arquitectura Hexagonal: TranslateShow original text Originally shared by Manuel Rivero http://css.dzone.com/articles/hexagonal-architecture Hexagonal architecture in JavaScript | Web Builder Zone The goal: unit testing JavaScript code, in isolation from frameworks, the server side and the DOM.To pursue this goal, the code under development must contain... css.dzone.com",
+  "date": 1378353600000
+}, {
+  "author": "Alfonso Burgos",
+  "category": "Readers Club",
+  "content": "A Tour of C++ By Bjarne Stroustrup Informit informit.com",
+  "date": 1378353600000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Jaume Jornet Rivas Keynote de +Jurgen Appelo en la ALE2013 sobre como articular lo que denomina Tribal Business. Parte de que la nueva estructura organizativa del siglo 21 es la red, no la jerarquía. Los trabajadores de las empresas modernas necesitan conexiones, no de control. Y el enfoque de la gestión debe estar en la dirección, no de gobierno. TranslateShow original text Jurgen Appelo - Keynote",
+  "date": 1378353600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Community",
+  "content": "La charla empezará aquí dentro de unos minutos: TDD, where did it all go wrong TranslateShow original text TDD, where did it all go wrong",
+  "date": 1378353600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Principles of Reactive Programming (Nov 4th 2013) Martin Odersky, Erik Meijer and Roland Kuhn https://www.coursera.org/course/reactive",
+  "date": 1378353600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Entorno de programación higiénico con LXC TranslateShow original text Originally shared by Sergi Collado Entorno de programación higiénico con LXC | becodemyfriend.com",
+  "date": 1378353600000
+}]

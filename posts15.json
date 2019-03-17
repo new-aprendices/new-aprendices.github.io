@@ -1,0 +1,751 @@
+[{
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "How Developers Stop Learning: Rise of the Expert Beginner, Erik Dietrich (@daedtech) http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner",
+  "date": 1413691200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "The Failures of \"Intro to TDD\", Justin Searls (@searls) http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html",
+  "date": 1413691200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "react-primer, Short annotated examples of React concepts, Brandon Tilley (@BinaryMuse) https://github.com/BinaryMuse/react-primer",
+  "date": 1413604800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Functional TDD: A Clash of Cultures, Kent Beck (@KentBeck) https://m.facebook.com/notes/kent-beck/functional-tdd-a-clash-of-cultures/472392329460303",
+  "date": 1413604800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Listen to the tests, they tell smells in your code..., Alex Martins (@amartinsn) http://alexmartins.me/2010/07/26/listen-to-the-tests-they-tell-smells-in-your-code.html",
+  "date": 1413604800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Beware the Bloated Constructor, Erik Dietrich (@daedtech) http://www.daedtech.com/beware-the-bloated-constructor",
+  "date": 1413604800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Arcadia, integration of Clojure and Unity 3D. http://arcadia-unity.tumblr.com/post/100257212548/arcadia-0-1a-launched Arcadia 0.1a Launched arcadia-unity.tumblr.com",
+  "date": 1413604800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Testing the Hard Stuff and Staying Sane, John Hughes (@rjmh) http://www.ustream.tv/recorded/46638775",
+  "date": 1413604800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Inverting Control, Erik Dietrich (@daedtech) http://www.daedtech.com/inverting-control",
+  "date": 1413604800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Fractal TDD: Using tests to drive system design, Steve Freeman (@sf105) https://skillsmatter.com/skillscasts/2300-fractal-tdd-using-tests-to-drive-system-design",
+  "date": 1413432000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Introduction to Functional Programming | edX https://www.edx.org/course/delftx/delftx-fp101x-introduction-functional-2126#.VD4eUCUZ97g Introduction to Functional Programming | edX edx.org",
+  "date": 1413345600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "Inverting the Testing Pyramid, Naresh Jain (@nashjain) Inverting the Testing Pyramid by Naresh Jain Inverting the Testing Pyramid by Naresh Jain",
+  "date": 1413259200000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Online refactoring master class en Español impartido por @darsenovski (from +Carlos Ble twitter) Evento gratuito - 22 Oct TranslateShow original text Refactorización de Código Legado Clase Maestra- Eventbrite eventbrite.es",
+  "date": 1413172800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Controlling Time and Space: understanding the many formulations of FRP, Evan Czaplicki (@czaplic) \"Controlling Time and Space: understanding the many formulations of FRP\" by Evan Czaplicki \"Controlling Time and Space: understanding the many formulations of FRP\" by Evan Czaplicki",
+  "date": 1413172800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Embrace the asynchronous, Rod Vagg (@rvagg) Rod Vagg - Embrace the asynchronous",
+  "date": 1413172800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Refactoring Ruby with Monads, Tom Stuart (@tomstuart) Tom Stuart - Refactoring Ruby with Monads",
+  "date": 1413086400000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "BDD IS LIKE TDD IF… by +Dan North (@tastapod) BDD is like TDD if... bit.ly",
+  "date": 1413000000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Solid Deconstruction, Kevlin Henney (@KevlinHenney) http://www.slideshare.net/Kevlin/solid-deconstruction SOLID Deconstruction slideshare.net",
+  "date": 1412913600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Will the Real OO Please Stand Up? Kevlin Henney (@KevlinHenney) http://accu.org/content/conf2011/Kevlin-Henney-Will-the-Real-OO-Please-Stand-Up.pdf",
+  "date": 1412913600000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Taller de Testing y pruebas unitarias en Javascript Workshop de TDD, desarrollo guiado por pruebas unitarias mediante el lenguaje Javascript. (by +Tomás Corral Casas and +Reinaldo Aguilera ) TranslateShow original text Taller de Testing y pruebas unitarias en Javascript - EscuelaIT bit.ly",
+  "date": 1412827200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Retrospective Smells, Luis Gonçalves http://lmsgoncalves.com/2013/10/16/retrospective-smells",
+  "date": 1412481600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Introducing Modelling by Example, Konstantin Kudryashov http://everzet.com/post/99045129766/introducing-modelling-by-example",
+  "date": 1412395200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Agile-Spain University Day http://agile-extrem.ideascale.com/ Agile-Extrem agile-extrem.ideascale.com",
+  "date": 1412395200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "SmallWebHexagon sample project, Alistair Cockburn https://github.com/totheralistair/SmallWebHexagon",
+  "date": 1412308800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Types As Premature Optimization, Brian Shirai Brian Shirai - Types As Premature Optimization Brian Shirai - Types As Premature Optimization",
+  "date": 1412308800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Understanding Personas with Alan Cooper https://thenewcircle.com/s/post/1669/understanding_personas_with_alan_cooper_video",
+  "date": 1412222400000
+}, {
+  "author": "José Carlos Gil Zambrana",
+  "category": "XP, Lean & Agile",
+  "content": "Mob Programming, A Whole Team Approach, Roy \"Woody\" Zuill http://vimeo.com/78854354 Mob Programming, A Whole Team Approach vimeo.com",
+  "date": 1412136000000
+}, {
+  "author": "Vicenç Garcia",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Unit testing is out, Vertical Slice Testing is in Unit testing is out, Vertical Slice Testing is in | Sebastien Lambla We have been doing testing for a long time. Some people are practicing TDD, but I think that's only 46 people in the world and they all follow my twitter feed. . We all know the common issues people have with writing large test harnesses around systems: it seems to ... codebetter.com",
+  "date": 1412049600000
+}, {
+  "author": "alvaro garcía",
+  "category": "XP, Lean & Agile",
+  "content": "Does pair-programming have to suck?, Angela Harms http://oredev.org/2013/wed-fri-conference/does-pair-programming-have-to-suck Featured in Øredev 2013 #XP #pair #pairprogramming Wed-Fri Conference - Øredev 2013 oredev.org",
+  "date": 1412049600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Software Development Isn't Just Programming, Jason Gorman http://codemanship.co.uk/parlezuml/blog/?postid=1252",
+  "date": 1411876800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Decoupling from ASP .NET, Hexagonal Architectures in .NET, Ian Cooper https://skillsmatter.com/skillscasts/5744-decoupling-from-asp-net-hexagonal-architectures-in-net",
+  "date": 1411876800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Simulation Testing, Michael Nygard \"Simulation Testing\" by Michael Nygard \"Simulation Testing\" by Michael Nygard",
+  "date": 1411876800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Functional Programming Is Great. But It Ain't Magic., Jason Gorman http://codemanship.co.uk/parlezuml/blog/?postid=1251",
+  "date": 1411876800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Nos reunimos este jueves para comentar el primer capítulo del GOOS? TranslateShow original text",
+  "date": 1411790400000
+}, {
+  "author": "alvaro garcía",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "30 days of #TDD by the Telerik people 30 Days of TDD: Day One – What is TDD and Why Should I Use It? blogs.telerik.com",
+  "date": 1411790400000
+}, {
+  "author": "Abel Cuenca",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "To TDD or not to TDD? That is not the question, Seb Rose http://claysnow.co.uk/to-tdd-or-not-to-tdd/ Interesantes reflexiones sobre el debate TDD is dead? de hace algunos meses... TranslateShow original text To TDD or not to TDD? That is not the question. claysnow.co.uk",
+  "date": 1411790400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Beyond SOLID: The Dependency Elimination Principle http://getprismatic.com/story/1411621076772",
+  "date": 1411704000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Joomla! Day - Málaga, 14 - Nov - 2014 Sobre el JoomlaDay El JoomlaDay™ Málaga es un encuentro en torno al CMS enfocado a la comunidad de Málaga y alrededores. Durante un día entero, la comunidad Joomla! de la zona tendrá la oportunidad de reunirse para aprender, enseñar y, en definitiva, para compartir experiencias sobre este gestor de contenidos. Expertos en Joomla!® de primer nivel impartirán charlas y talleres para todos los niveles, y compartirán ratos de networking activo con todos los asistentes. Entre los temas que se tratarán están: * Programación para Joomla! * Diseño responsive para Joomla! * Opciones de negocio con Joomla!: qué tipos de salidas profesionales * Introducción al Proyecto Joomla!: cómo funciona, cómo se puede colaborar... * Joomla! para principiantes: desde la instalación hasta los pasos básicos para publicar contenido Es un evento comunitario, creado por la comunidad y para la comunidad, con entrada gratuita, aunque dado que el aforo es limitado requiere preinscripción. Prepárate para un día de Joomla!® en estado puro. TranslateShow original text Sobre el JoomlaDay™ bit.ly",
+  "date": 1411704000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Coding Dojo con +Leo Antoli en Runroom 30 de Septiembre. Información y registro en http://bit.ly/1BaI9WY TranslateShow original text",
+  "date": 1411617600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Programming With Functions http://wilhelmson.github.io/programming-with-functions/#/ Programming With Functions Programming With Functions. @jessewilliamson. wilhelmson.github.io. Functions in Math. x → y. [A] function is a relation between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output. -Wikipediaso you know it's legit ... wilhelmson.github.io",
+  "date": 1411617600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "TDD: three easy mistakes, Kevin Rutherford http://silkandspinach.net/2014/06/02/tdd-three-easy-mistakes/",
+  "date": 1411531200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "Leaving the Nest: Taking Responsibility for Your Own Learning, Kent Beck https://www.facebook.com/notes/kent-beck/leaving-the-nest-taking-responsibility-for-your-own-learning/828727357160130",
+  "date": 1411531200000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Testing and Securing Android Studio Applications, Belén Cruz Zapata y Antonio Hernández Niñirola Testing and Securing Android Studio Applications packtpub.com",
+  "date": 1411531200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Two Models of Computation: or, Why I'm Switching Trains, Jessica Kerr http://blog.jessitron.com/2013/05/two-models-of-computation-or-why-im.html",
+  "date": 1411444800000
+}, {
+  "author": "Gabriel Moral",
+  "category": "Community",
+  "content": "El robot que tenemos para publicar los post en twitter es awesome, traduce Uncle Bob en Robert C. Martin en un periquete, Gracias +Abel Cuenca ;) TranslateShow original text",
+  "date": 1411444800000
+}, {
+  "author": "Ricardo Roldán",
+  "category": "Interesting Posts and Papers",
+  "content": "RESTful Web Services: A Tutorial http://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069",
+  "date": 1411444800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Classical Inheritance vs Modular Patterns, Francisco Méndez Vilas http://fmvilas.github.io/Classical-Inheritance-vs-Modular-Patterns/#/",
+  "date": 1411444800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "A Note on Distributed Computing, Jim Waldo et al http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=DC9C45B1C474E590DDDA8A4FBA6F436F?doi=10.1.1.41.7628&rep=rep1&type=pdf",
+  "date": 1411444800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "Validation in Domain-Driven Design, Lev Gorodinski http://gorodinski.com/blog/2012/05/19/validation-in-domain-driven-design-ddd/",
+  "date": 1411444800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Microservices are not Jars, Giorgio Sironi http://www.giorgiosironi.com/2014/09/microservices-are-not-jars.html",
+  "date": 1411444800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "Your Code is My Hell, Avdi Grimm http://devblog.avdi.org/2011/08/22/your-code-is-my-hell/",
+  "date": 1411444800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Keep Software Weird, Leon Gersing https://vimeo.com/54042336 SCNA 2012: Leon Gersing - Keep Software Weird vimeo.com",
+  "date": 1411358400000
+}, {
+  "author": "Gabriel Moral",
+  "category": "Architecture/Design",
+  "content": "Microservices and Jars, Uncle Bob http://blog.cleancoder.com/uncle-bob/2014/09/19/MicroServicesAndJars.html Clean Coder Blog blog.cleancoder.com",
+  "date": 1411358400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Transducers.js: A JavaScript Library for Transformation of Data http://getprismatic.com/story/1411071709168 Transducers.js: A JavaScript Library for Transformation of Data getprismatic.com",
+  "date": 1411358400000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Interesting Posts and Papers",
+  "content": "Videos from the very interesting programming conference Strange Loop: https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw From its web site: \"Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web\". Strange Loop youtube.com",
+  "date": 1411358400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Succeeding with TDD: Pragmatic Techniques for effective mocking, Venkat Subramaniam https://vimeo.com/68383352 Venkat Subramaniam: Succeeding with TDD: Pragmatic Techniques for effective mocking vimeo.com",
+  "date": 1411358400000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Segunda parte del video Spotify Engineering Culture by +Henrik Kniberg TranslateShow original text Spotify engineering culture (part 2) | Spotify Labs labs.spotify.com",
+  "date": 1411272000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "The Language of the System, Rich Hickey The Language of the System - Rich Hickey",
+  "date": 1411272000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Sobre el polimorfismo en clojure y la oop, Javier Neira http://javierneirasanchez.blogspot.com.es/2013/03/sobre-el-polimorfismo-en-clojure-y-la.html TranslateShow original text",
+  "date": 1411272000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Laws of concurrent system design, Tony Hoare http://video.upmc.fr/differe.php?collec=S_C_colloquium_lip6_2012&video=9",
+  "date": 1411185600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Functional-ish Ruby, Kevin Buchanan http://blog.8thlight.com/kevin-buchanan/2014/08/20/functional-ish-ruby.html",
+  "date": 1411185600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Putting an Age-Old Battle to Rest, J. B. Rainsberger http://blog.thecodewhisperer.com/2013/12/07/putting-an-age-old-battle-to-rest/",
+  "date": 1411185600000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Languages",
+  "content": "Learn Vimscript the Hard Way Learn Vimscript the Hard Way Learn Vimscript the Hard Way · Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim. It is not a guide to using Vim. Before reading this book you should be comfortable editing text in Vim and know what terms like \"buffer\", \"window\" and \"insert ... learnvimscriptthehardway.stevelosh.com",
+  "date": 1411185600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Forget about classes, welcome objects, Alexandre de Oliveira Rubyc 2014 Alexandre de Oliveira: \"Forget about classes, welcome objects\" Rubyc 2014 Alexandre de Oliveira: \"Forget about classes, welcome objects\"",
+  "date": 1411099200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Learning TDD Through Test First Teaching, Sarah Allen Learning TDD Through Test First Teaching Learning TDD Through Test First Teaching",
+  "date": 1411099200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "What is Object Oriented Programming: A Critical Approach, Huw Collingbourne https://www.udemy.com/blog/object-oriented-programming-a-critical-approach/ Object Oriented Programming: A Critical Approach udemy.com",
+  "date": 1411099200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Thoughts On Five Years of Emerging Languages, Alex Payne https://al3x.net/2014/09/16/thoughts-on-five-years-of-emerging-languages.html Alex Payne — Thoughts On Five Years of Emerging Languages The online writing of Alex Payne al3x.net",
+  "date": 1411012800000
+}, {
+  "author": "José Carlos Gil Zambrana",
+  "category": "XP, Lean & Agile",
+  "content": "7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development, J. B. Rainsberger http://vimeo.com/m/79106557",
+  "date": 1411012800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Confianza, Jaume Jornet http://jaumejornet.es/blog/2014/09/08/confianza/ TranslateShow original text",
+  "date": 1411012800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Building Trust on Agile Teams, Rachel Davies http://agilecoach.typepad.com/agile-coaching/2010/08/building-trust.html",
+  "date": 1411012800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "How to not be an expert, Jen Myers https://vimeo.com/103375620 WDCNZ 2014: How to not be an expert vimeo.com",
+  "date": 1411012800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "When TDD Doesn't Matter, Kent Beck https://www.facebook.com/notes/kent-beck/when-tdd-doesnt-matter/797644973601702",
+  "date": 1411012800000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Readers Club",
+  "content": "Buenas, anoche terminamos el repaso a 'The Clean Coder', personalmente me han parecido unas sesiones bastantes productivas (y divertidas). ¿Continuamos con otro libro? Habíamos hablado de leer (o volver a leer) 'Growing Object Oriented Software Guided by Tests'. ¿os apetece, preferís otra opción? Manifestaos ;-) TranslateShow original text",
+  "date": 1411012800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Clojure Code Quality Tools http://blog.mattgauger.com/blog/2014/09/15/clojure-code-quality-tools",
+  "date": 1410926400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Software Design: Why, When & How, Kent Beck http://vimeo.com/105771493 Software Design: Why, When & How - Kent Beck vimeo.com",
+  "date": 1410840000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Components Just Enough Structure, Stuart Sierra Stuart Sierra - Components Just Enough Structure Stuart Sierra - Components Just Enough Structure",
+  "date": 1410840000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Learning",
+  "content": "It's not what you read, it's what you ignore, Scott Hanselman https://vimeo.com/39020426 Webstock '12: Scott Hanselman - It's not what you read, it's what you ignore vimeo.com",
+  "date": 1410840000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Community",
+  "content": "Hi To help the robot that automatically tweets the posts (thanks +Abel Cuenca) and also make possible the search on G+ you should follow this format in your posts: Title, author link After that you can put any comments you want. Please, do not put them at the beginning. An example: TDD is NOT (just) about you, Sandro Mancuso (@sandromancuso) http://codurance.com/2014/05/24/tdd-is-not-about-you/﻿",
+  "date": 1410840000000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Jaume Jornet Rivas Post the +Henrik Kniberg hablando de Squad Health Check model - modelo para visualizar la mejora en los equipos TranslateShow original text Squad Health Check model – visualizing what to improve labs.spotify.com",
+  "date": 1410840000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Clojure in the Large, Stuart Sierra http://www.infoq.com/presentations/Clojure-Large-scale-patterns-techniques",
+  "date": 1410840000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Architecture/Design",
+  "content": "Microservices martinfowler.com",
+  "date": 1410840000000
+}, {
+  "author": "alvaro garcía",
+  "category": "Languages",
+  "content": "How do #javascript #closure work? How do JavaScript closures work? - Stack Overflow stackoverflow.com",
+  "date": 1410753600000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Refactoring",
+  "content": "It's enough to say that it's a +Xavi Gost's talk about Refactor To Patterns. I really love this man. Via @borillo. TranslateShow original text #techHour - Refactorizar a patrones por Xavi Gost",
+  "date": 1410667200000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Readers Club",
+  "content": "Terminamos con el repaso al libro \"The Clean Coder\", hablando de los capítulos 12 al 14. Esta semana quedaremos el miercoles 17 de septiembre a las 22:00h. Estáis todos invitados :-) TranslateShow original text",
+  "date": 1410667200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "The Shape at the Bottom of All Things, Sandi Metz http://kickstartacademy.io/blog/2014-09-09-the-shape-at-the-bottom-of-all-things",
+  "date": 1410667200000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Naming standards for unit tests - by +Roy Osherove Naming standards for unit tests - Blog - Osherove bit.ly",
+  "date": 1410580800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Growing a Language, Guy Steele at 1998 ACM OOPSLA Growing a Language, by Guy Steele Growing a Language, by Guy Steele",
+  "date": 1410494400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Development and Philosophy, Steve Klabnik https://vimeo.com/63741965 Development and Philosophy by Steve Klabnik vimeo.com",
+  "date": 1410494400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Code Metrics, Continuous Inspection & What We Should Tell The Boss, Jason Gorman (@jasongorman) http://codemanship.co.uk/parlezuml/blog/?postid=1244",
+  "date": 1410408000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Design How Your Objects Talk Through Mocking, Konstantin Kudryashov (@everzet) http://www.youtube.com/watch?v=X6y-OyMPqfw",
+  "date": 1410408000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Bad Test, Good Test, Seb Rose (@sebrose) http://www.slideshare.net/sebrose/bad-test-good-test",
+  "date": 1410408000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Clojure Inside Out - Data, Stuart Halloway and Neal Ford http://www.youtube.com/watch?v=EVzv5kMkOfo",
+  "date": 1410408000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Better Than Unit Tests, Michael Nygard http://thinkrelevance.com/blog/2013/11/26/better-than-unit-tests",
+  "date": 1410408000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test Isolation Is About Avoiding Mocks, Gary Bernhardt https://www.destroyallsoftware.com/blog/2014/test-isolation-is-about-avoiding-mocks",
+  "date": 1410408000000
+}, {
+  "author": "Ricardo Roldán",
+  "category": "XP, Lean & Agile",
+  "content": "Software Development is Very, Very Hard — Even for Those Who Know It's Hard drdobbs.com",
+  "date": 1410321600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Crossing the Gap from Imperative to Functional Programming through Refactoring http://dig.cs.illinois.edu/papers/lambdaRefactoring.pdf",
+  "date": 1410321600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Refactoring Functional Programs http://www.cs.kent.ac.uk/people/staff/sjt/Pubs/AFP04/notes.pdf",
+  "date": 1410321600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Envoy, A Pattern Language for Managing State in a Functional Program, Eugene Wallingford http://www.cs.uni.edu/~wallingf/patterns/envoy.pdf",
+  "date": 1410321600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Roundabout, A Pattern Language for Recursive Programming, Eugene Wallingford http://www.cs.uni.edu/~wallingf/patterns/recursion.html﻿ Roundabout, A Pattern Language for Recursive Programming cs.uni.edu",
+  "date": 1410321600000
+}, {
+  "author": "Fermin Saez",
+  "category": "Tools - CI - CD",
+  "content": "I found myself in the need to check a mysql compatible query, and stumbled upon this: http://sqlfiddle.com/ Very convenient :) SQL Fiddle | A tool for easy online testing and sharing of database problems and their solutions. sqlfiddle.com",
+  "date": 1410235200000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Languages",
+  "content": "A good collection of Java 8 tutorials. Originally shared by Javarevisited Top 10 Java 8 Tutorials - Must Read, Best of Lot It's over six month now Java 8 has been released and I am daily receiving lot of emails about good Java 8 tutorials. To help my fellow programmers, I have compiled some of the best Java 8 tutorials available at the moment. My huge thanks to all authors for their contribution towards Java community, and I hope many Java programmers will benefit by reading these tutorials. My Collection of some of the best Java 8 tutorials from Web, Learn Java 8 by following these tutorials. http://java67.blogspot.com/2014/09/top-10-java-8-tutorials-best-of-lot.html #Java #Programming",
+  "date": 1410148800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "SICP Lecture 4B: Generic Operators Lecture 4B | MIT 6.001 Structure and Interpretation, 1986 Lecture 4B | MIT 6.001 Structure and Interpretation, 1986",
+  "date": 1410062400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Too Small to Refactor?, Robert C. Martin http://thecleancoder.blogspot.com.es/2010/09/too-small-to-refactor.html",
+  "date": 1410062400000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Interesting Posts and Papers",
+  "content": "Una presentación interesante sobre gestión de memoria en juegos, y como eso lleva a descubrimientos inesperados: https://speakerdeck.com/chrismdp/separating-allocation-from-code TranslateShow original text My journey started with a challenge that memory allocation was a separate concern to algorithm design, and ended in some quite unexpected discoveries. speakerdeck.com",
+  "date": 1410062400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Exercises in programming style, Aphyr https://github.com/aphyr/exercises-in-programming-style aphyr/exercises-in-programming-style exercises-in-programming-style - Comprehensive collection of programming styles using a simple computational task, term frequency github.com",
+  "date": 1410062400000
+}, {
+  "author": "alvaro garcía",
+  "category": "Katas",
+  "content": "I've published a new #kata: https://github.com/alvarogarcia7/kata-codereview-01-commandBuilder The drill is to code review&pull request it.If it's popular, we'll do it at the #scbcn14 #javascript #kaizen #scbcn14 #kata alvarogarcia7/kata-codereview-01-commandBuilder Contribute to kata-codereview-01-commandBuilder development by creating an account on GitHub. github.com",
+  "date": 1409976000000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Tools - CI - CD",
+  "content": "How is a binary executable organized? Let's explore it! - Julia Evans I used to think that executables were totally impenetrable. I’d compile a C program, and then that was it! I had a Magical Binary Executable … jvns.ca",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "SICP Lecture 4A: Pattern Matching and Rule-based Substitution Lecture 4A | MIT 6.001 Structure and Interpretation, 1986 Lecture 4A | MIT 6.001 Structure and Interpretation, 1986",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Git pretty http://justinhileman.info/article/git-pretty/ Git pretty — justin hileman dot info justinhileman.info",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Diligence, Patience, and Humility, Larry Wall http://oreilly.com/catalog/opensources/book/larry.html Open Sources: Voices from the Open Source Revolution Diligence, Patience, and Humility Diligence, Patience, and Humility. Larry Wall. We have a fondness for sayings in the Perl community. One of them is \"There's more than one way to do it.\" This is true in Perl. It's also true of Perl. And it's true of the Open Source community, as the essays in this volume illustrate. oreilly.com",
+  "date": 1409976000000
+}, {
+  "author": "Jorge Capel Planells",
+  "category": "Interesting Posts and Papers",
+  "content": "Common Reasons Managers Fail | Jose Bonnin | LinkedIn linkedin.com",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Podcasts",
+  "content": "Teoría frente a la práctica http://www.bastayadepicar.com/episodio/020/ TranslateShow original text",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "What is OSGi and why and how I should consider it for my projects? Barcelona JUG http://www.meetup.com/BarcelonaJUG/events/203059432/ What is OSGi and why and how I should consider it for my projects? meetup.com",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Software Craftsmanship Barcelona 2014, 27th, 28th of September http://www.softwarecraftsmanshipbarcelona.org/ TranslateShow original text Software Craftsmanship Barcelona 2014 | 27th, 28th of September softwarecraftsmanshipbarcelona.org",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Python Coding Dojos, Barcelona Punt Multimedia Casa del Mig http://www.puntmultimedia.org/python-coding-dojos/ TranslateShow original text Punt multimèdia – Python Coding Dojos puntmultimedia.org",
+  "date": 1409976000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Docker: Present and Future http://www.infoq.com/articles/docker-future Docker: Present and Future Chris Swan presents an overview of the Docker journey so far and where it is headed along with its growing ecosystem of tools for orchestration, composition and scaling. This article provides both a business and a technical point of view on Docker and separates the hype from the reality. infoq.com",
+  "date": 1409889600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Runtime State -> AST -> Call Graph: A Visualization Journey, Kent Beck (@KentBeck) https://www.facebook.com/notes/kent-beck/runtime-state-ast-call-graph-a-visualization-journey/818876671478532",
+  "date": 1409803200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "A Little About Patterns, Robert C. Martin http://blog.cleancoder.com/uncle-bob/2014/06/30/ALittleAboutPatterns.html",
+  "date": 1409803200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "The Next Decade (of Agile Software Development) J. B. Rainsberger https://speakerdeck.com/jbrains/the-next-decade-of-agile-software-development",
+  "date": 1409803200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Don't stagnate, Carles Climent http://www.carlescliment.com/blog/dont-stagnate Carles Climent - Don't stagnate I must admit I don't like the word n00b at all. You don't simply stop being noob one day and become a senior or a pro. Not in one day, nor in ten years, you'll be always a noob in many different skills. But I'm pretty sure this is not what Beck wanted to say and I loved the underlying idea so ... carlescliment.com",
+  "date": 1409803200000
+}, {
+  "author": "Jorge Capel Planells",
+  "category": "Courses, events, conferences,...",
+  "content": "WebCast SUGES: JavaScript para desarrolladores SharePoint - Blog de Adrián Díaz Cervera en Geeks.MS geeks.ms",
+  "date": 1409803200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "F# in Action: Playing Functional Conway's Game of Life, Vagif Abilov https://vimeo.com/85779515 F# in Action: Playing Functional Conway's Game of Life - Vagif Abilov vimeo.com",
+  "date": 1409716800000
+}, {
+  "author": "Vicenç Garcia",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test time - The Clean Code Blog Clean Coder Blog blog.cleancoder.com",
+  "date": 1409716800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Architecting Android…The clean way? Fernando Cejas http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/ Fernando Cejas | Architecting Android…The clean way? fernandocejas.com",
+  "date": 1409716800000
+}, {
+  "author": "Vicenç Garcia",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Writing meaningful, self-documenting, behaviour-oriented tests. Writing meaningful, self-documenting, behavior-oriented tests – Daniel Cazzulino's Blog blogs.clariusconsulting.net",
+  "date": 1409716800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "There is a Cowboy in my Domain! - Implementing DDD Review and Interview with Vaughn Vernon http://www.infoq.com/articles/implmenting-domain-driven-design-vaughn-vernon There is a Cowboy in my Domain! - Implementing Domain Driven Design Review and Interview Implementing Domain Driven Design, has brought clarity to an important but little understood area of software design. As a measure of Software Design literature, Vaughn's work is educational and fun. With real world code samples and sage advice, IDDD guides the reader through the sometimes murky waters of DDD and helps them gain the insight required to start a DDD journey of their own. infoq.com",
+  "date": 1409544000000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Readers Club",
+  "content": "Nueva semana, nuevo mes, nuevo hangout en el club de lectura :-). La propuesta para esta semana es juntarnos para hablar acerca de las impresiones de los capítulos 9, 10, 11 del libro \"Clean Coders\", de Robert C. Martin. Como en otras convocatorias, proponemos el jueves 4 de septiembre, a partir de las 22:00h, confirmad si os apuntáis. Os esperamos. TranslateShow original text",
+  "date": 1409544000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Kent Beck: Bits, Clumps, and Just Right https://www.facebook.com/notes/kent-beck/bits-clumps-and-just-right/792597974106402",
+  "date": 1409371200000
+}, {
+  "author": "Abel Cuenca",
+  "category": "Interesting Posts and Papers",
+  "content": "Me está pareciendo interesante el movimiento \"Papers we love\", con quedadas para hablar de Papers de programación. El repositorio de papers está en github:https://github.com/papers-we-love/papers-we-love. También cuentan con una cuenta en twitter, canal de youtube... TranslateShow original text papers-we-love/papers-we-love papers-we-love - Papers from the computer science community to read and discuss. github.com",
+  "date": 1409371200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Functional Programming Patterns And Their Role in Instruction, Eugene Wallingford http://www.cs.uni.edu/~wallingf/patterns/papers/fdpe2002/fdpe2002.pdf",
+  "date": 1409371200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Extraordinary Functions: Learning to Write Well Structured JavaScript, Leon Lukashevsky http://infinitemonkeys.influitive.com/extraordinary-functions-learning-to-write-well-structured-javascript/ Extraordinary Functions ~ Learning to Write Well Structured JavaScript Extraordinary Functions ~ Learning to Write Well Structured JavaScript. 12 May 2014. by: Leon Lukashevsky. If you are a web developer looking to broaden your horizons regarding JavaScript, to take the leap from using it for simple DOM scripting, to writing complex, well structured programs, ... infinitemonkeys.influitive.com",
+  "date": 1409371200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Clean Architecture in Ruby, Luis Zamith http://blog.groupbuddies.com/posts/20-clean-architecture Clean Architecture, by Luis Zamith of Group Buddies One of the hottest topics of the moment in the rails community is application design or architecture. There is an obsession (a good one, I think) with blog.groupbuddies.com",
+  "date": 1409371200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test-Driven JavaScript in Practice, Christian Johansen http://www.everytalk.tv/talks/693-NDC-Test-driven-JavaScript-in-practice EveryTalk.tv everytalk.tv",
+  "date": 1409371200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "JavaScript TDD Workshop, using Jasmine to test-drive your JavaScript application https://skillsmatter.com/skillscasts/1768-javascript-tdd-workshop-using-jasmine-to-test-drive-your-javascript-application",
+  "date": 1409371200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Readings in Databases https://github.com/rxin/db-readings rxin/db-readings db-readings - Readings in Databases github.com",
+  "date": 1409371200000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Refactoring",
+  "content": "Sandro Mancuso's live coding session about refactoring legacy code for vJUG. [Disclaimer] A similar session was already shared in this comunity by +Manuel Rivero, but this one is easier to follow because it is a hangout, and the code is always displayed. My apologies if someone thinks this is only noise. Testing and Refactoring Legacy Code",
+  "date": 1409284800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Forbidden, esoteric and obsolete statements you might find in legacy scientific Fortran code http://www.ibiblio.org/pub/languages/fortran/ch1-5.html",
+  "date": 1409198400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Lisp: A Language for Stratified Design, Abelson and Sussman http://dspace.mit.edu/bitstream/handle/1721.1/6064/AIM-986.pdf?sequence=2",
+  "date": 1409198400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "When Is It Safe to Introduce Test Doubles?, J. B. Rainsberger http://blog.thecodewhisperer.com/2010/09/14/when-is-it-safe-to-introduce-test-doubles/ When Is It Safe to Introduce Test Doubles? blog.thecodewhisperer.com",
+  "date": 1409112000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Software Craftsmen Are Arrogant, Slow, and Dogmatic http://blog.8thlight.com/paul-pagel/2014/08/21/software-craftsmen-are-arrogant-slow-and-dogmatic.html Software Craftsmen Are Arrogant, Slow, and Dogmatic | 8th Light blog.8thlight.com",
+  "date": 1409112000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test Smell: Everything is mocked, Steve Freeman http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html",
+  "date": 1409112000000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Refactoring",
+  "content": "Healthy design by refactoring or more features? Balanced both of them! The Eternal Struggle Between Business and Programmers rdd.me",
+  "date": 1409112000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Writing code you won't hate tomorrow http://www.slideshare.net/rdohms/writing-code-you-wont-hate-tomorrow?ref=http://fr.slideshare.net/?ss Writing code you won't hate tomorrow slideshare.net",
+  "date": 1409112000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Testing from the ground up, Mary Rose Cook http://maryrosecook.com/blog/post/testing-from-the-ground-up Testing from the ground up at Mary Rose Cook Tests are pieces of code that check if your main code works. I write tests to catch bugs when I refactor. I write tests to force myself to think through and handle edge cases. I write tests to show the users of my project that my code does what I say it does. For this essay, I will describe the ... maryrosecook.com",
+  "date": 1409112000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Thinking for Programmers, Leslie Lamport http://channel9.msdn.com/Events/Build/2014/3-642 Thinking for Programmers (Channel 9) channel9.msdn.com",
+  "date": 1409025600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Podcasts",
+  "content": "Functional Geekery 14, Richard Minerich on F# http://www.functionalgeekery.com/episode-14-richard-minerich/",
+  "date": 1409025600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Guide: Writing Testable Code, Google http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf",
+  "date": 1409025600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Honor Thy Encapsulation http://alexsquest.com/texts/complexity-in-software-2-honor-thy-encapsulation",
+  "date": 1408939200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "What does it mean to be Reactive?, Erik Meijer (@headinthebox) https://www.youtube.com/watch?v=sTSQlYX5DU0",
+  "date": 1408939200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Let Code Flow Towards Better Design, J. B. Rainsberger http://blog.thecodewhisperer.com/2014/08/22/let-code-flow-towards-encapsulation",
+  "date": 1408939200000
+}]

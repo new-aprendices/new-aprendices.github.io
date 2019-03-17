@@ -1,0 +1,751 @@
+[{
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Muy buen vídeo as usual de +Henrik Kniberg Teneis que verlo :) TranslateShow original text Originally shared by Henrik Kniberg Here's an attempt to describe Spotify's engineering culture. http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/ It's a short animated video, similar in style to my other video \"Agile Product Ownership in a Nutshell\". Enjoy! Spotify engineering culture (part 1) labs.spotify.com",
+  "date": 1395979200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Under the Hood: warp, a fast C and C++ preprocessor https://code.facebook.com/posts/476987592402291/under-the-hood-warp-a-fast-c-and-c-preprocessor/ Under the Hood: warp, a fast C and C++ preprocessor code.facebook.com",
+  "date": 1395979200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "The <i>True</i> Corruption of Agile http://blog.8thlight.com/uncle-bob/2014/03/28/The-Corruption-of-Agile.html The <i>True</i> Corruption of Agile | 8th Light blog.8thlight.com",
+  "date": 1395979200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Flaccid Scrum http://martinfowler.com/bliki/FlaccidScrum.html FlaccidScrum martinfowler.com",
+  "date": 1395979200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Rebecca Wirfs-Brock: Maintaining Your Code Clint Eastwood Style @ I T.A.K.E. Unconference 2013 Rebecca Wirfs-Brock: Maintaining Your Code Clint Eastwood Style @ I T.A.K.E. Unconference 2013",
+  "date": 1395979200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "When FP Meets DDD Good Things Happen Cyrille Martraire: When FP Meets DDD @ I T.A.K.E. Unconference 2013 Cyrille Martraire: When FP Meets DDD @ I T.A.K.E. Unconference 2013",
+  "date": 1395979200000
+}, {
+  "author": "Matias Mascazzini",
+  "category": "Courses, events, conferences,...",
+  "content": "Originally shared by ComunidadTIC Game Idol, concurso para diseñadores y desarrolladores de toda Latinoamérica http://ow.ly/2F95Vo TranslateShow original text Game Idol, concurso para diseñadores y desarrolladores de toda Latinoamérica | Comunidad TIC ow.ly",
+  "date": 1395979200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Charla sobre REST por +Alex Muntada Detalles y registro en http://bit.ly/1eVP7Yg TranslateShow original text REST bit.ly",
+  "date": 1395892800000
+}, {
+  "author": "Cristian Henao",
+  "category": "Community",
+  "content": "Hola hace tiempo compartí algo sobre las clases en #java ahora continuando con la secuencia de programación orientada a Objetos, les comparto una entrada sobre clases abstractas, espero que sea de útilidad ;) http://codejavu.blogspot.com/2013/05/clases-abstractas.html﻿ TranslateShow original text Clases Abstractas codejavu.blogspot.com",
+  "date": 1395892800000
+}, {
+  "author": "alvaro garcía",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Interesting results about using #TDD Survey Result on Usage of TDD - codecentric Blog blog.codecentric.de",
+  "date": 1395892800000
+}, {
+  "author": "alvaro garcía",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Connection between #TDD and Integration phase Can TDD Help Reduce Integration Time? | James Grenning’s Blog renaissancesoftware.net",
+  "date": 1395892800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Why your previous developer was terrible https://medium.com/p/506a06ae35ea Why your previous developer was terrible medium.com",
+  "date": 1395720000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Research Studies on the efectiveness and cost of TDD http://biblio.gdinwiddie.com/biblio/StudiesOfTestDrivenDevelopment",
+  "date": 1395547200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Code coverage tools for C++ http://agileflirt.com/2011/03/code-coverage-tools-for-c/",
+  "date": 1395547200000
+}, {
+  "author": "alvaro garcía",
+  "category": "Tools - CI - CD",
+  "content": "A plugin for code coverage in #java . Integrates well with #Eclipse IDE eCobertura - Cobertura Eclipse Plugin - Overview ecobertura.johoop.de",
+  "date": 1395547200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Test-driven C++ with GoogleMock el 7 de Abril http://bit.ly/PYPBUZ TranslateShow original text Test-driven C++ with GoogleMock bit.ly",
+  "date": 1395547200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Survival Mode http://5whys.com/blog/definition-survival-mode.html Definition: Survival Mode - Elastic Team Leadership in Software - Elastic Leadership A team is in \"Survival\" mode if they do not have time to learn and slowly practice new s... 5whys.com",
+  "date": 1395547200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Refactoring Coderetreat el 5 de Abril http://bit.ly/1qhEuDY TranslateShow original text Coderetreat: Refactoring bit.ly",
+  "date": 1395547200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "tddproblems TDD Problems Learn and practice Test Driven Development through solving problems listed here! sites.google.com",
+  "date": 1395547200000
+}, {
+  "author": "alvaro garcía",
+  "category": "Tools - CI - CD",
+  "content": "A tool for running your (fast) tests automatically from #eclipse or #intellijidea for #java Infinitest infinitest.github.io",
+  "date": 1395547200000
+}, {
+  "author": "Nico Cortés",
+  "category": "XP, Lean & Agile",
+  "content": "Scrum in 60 Seconds Scrum in 60 Seconds",
+  "date": 1395460800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Second part of the String Calculator Kata introducing interaction based testing with mocks. http://vimeo.com/26617244 String Calculator TDD Kata 2 - Interactions vimeo.com",
+  "date": 1395460800000
+}, {
+  "author": "alvaro garcía",
+  "category": "Clean Code",
+  "content": "About Protected Variations - related to Open-Closed Principle (part of GRASP - General Responsibility Assignment Software Patterns) GRASP (object-oriented design) - Wikipedia, the free encyclopedia General Responsibility Assignment Software Patterns (or Principles), abbreviated GRASP, consists of guidelines for assigning responsibility to classes and objects in object-oriented design. The different patterns and principles used in GRASP are: Controller, Creator, Indirection, ... en.wikipedia.org",
+  "date": 1395374400000
+}, {
+  "author": "Nico Cortés",
+  "category": "XP, Lean & Agile",
+  "content": "Story Mapping Software Story Mapping Software | Accentient blog.accentient.com",
+  "date": 1395374400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "http://msanroman.me/8-tips-about-overcoming-the-impostor-syndrome-i-wish-i-had-known 8 tips about overcoming the impostor syndrome I wish I had known msanroman.me",
+  "date": 1395374400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Community",
+  "content": "http://aprendiendotdd.com/2014/03/entrevistacarlosble/",
+  "date": 1395374400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "\"Speaking JavaScript\" free book online http://speakingjs.com/es5/",
+  "date": 1395288000000
+}, {
+  "author": "Fermin Saez",
+  "category": "Tools - CI - CD",
+  "content": "Mola, cliente y servidor en el mismo fiddle... TranslateShow original text",
+  "date": 1395288000000
+}, {
+  "author": "Nico Cortés",
+  "category": "XP, Lean & Agile",
+  "content": "MOOCs en castellano que comienzan en el mes de marzo. Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI es otro MOOC, en este caso organizado por la Universidad Rey Juan Carlos, que va por su segunda edición. El curso, que comienza el 10 de marzo, permitirá a los alumnos profundizar en las técnicas más ágiles que se necesitan para gestionar con éxito el día a día de los proyectos software y tecnológicos. TranslateShow original text Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI (2ª edición) miriadax.net",
+  "date": 1395288000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Readers Club",
+  "content": "Club de Lectura: Implementing Domain-Driven Design (Capítulo 10 - Agregados) TranslateShow original text Club de Lectura: Implementing Domain-Driven Design (Capítulo 10 - Aggregates)",
+  "date": 1395288000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "MOOCs en castellano que comienzan en el mes de marzo. Introducción a Raspberry Pi, de la Universidad Galileo de Guatemala comienza el 24 de marzo y dura un mes. Este curso cuenta con dos versiones, una teórica y otra teorico-práctica de mayor nivel para aquellos alumnos que disponen del equipo necesario. TranslateShow original text Introducción a Raspberry Pi (Ver-2) | Telescopio telescopio.galileo.edu",
+  "date": 1395288000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "Practical Event Sourcing http://verraes.net/2014/03/practical-event-sourcing/ Practical Event Sourcing Independent Software Consultant verraes.net",
+  "date": 1395115200000
+}, {
+  "author": "Ricardo Roldán",
+  "category": "XP, Lean & Agile",
+  "content": "Agile is not a Process – it Defines a Culture - Only Dead Fish onlydeadfish.co.uk",
+  "date": 1395115200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Humour",
+  "content": "Clean Code http://www.commitstrip.com/en/page/11/ CommitStrip - The coders' life blog commitstrip.com",
+  "date": 1394942400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "node.js workshop exercises and examples https://github.com/auth0/bootcamp-workshop auth0/bootcamp-workshop github.com",
+  "date": 1394942400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Awesome PHP https://github.com/ziadoz/awesome-php ziadoz/awesome-php github.com",
+  "date": 1394942400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Some thoughts on pair-programming styles http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/ Some thoughts on pair-programming styles – Corey Haines Corey's Ramblings articles.coreyhaines.com",
+  "date": 1394942400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Code Kata http://katas.softwarecraftsmanship.org/ Code Kata katas.softwarecraftsmanship.org",
+  "date": 1394942400000
+}, {
+  "author": "Ricardo Roldán",
+  "category": "XP, Lean & Agile",
+  "content": "Improving user stories workshop at Booster 2014 orjantaule.blogspot.no",
+  "date": 1394856000000
+}, {
+  "author": "Fermin Saez",
+  "category": "Tools - CI - CD",
+  "content": "Originally shared by Jeffrey Hamby A File-based Document Store for .NET. Rob Conery described creating this because of a need for a nosql-like SQLLite. A handy tool for small scale implementations with full LINQ compliance. robconery/biggy github.com",
+  "date": 1394856000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Por dónde empiezo: 7 ideas para ponerme al día http://carlosbuenosvinos.com/por-donde-empiezo-7-ideas-para-ponerme-al-dia/ TranslateShow original text Por dónde empiezo: 7 ideas para ponerme al día Estos días he estado haciendo entrevistas a muchos perfiles. Por si no lo sabéis, en Atrapalo, tenemos unas 15 posiciones abiertas para incorporar desarrolladores PHP de todos los perfiles, juniors... carlosbuenosvinos.com",
+  "date": 1394856000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Architecture/Design",
+  "content": "Conical Frustum Architecture adrianbontea.com",
+  "date": 1394856000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "Taming Complex Domains with Domain Driven Design http://www.slideshare.net/ziobrando/taming-complex-domains-with-domain-driven-design-presentation",
+  "date": 1394769600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Extreme Programming http://www.slideshare.net/xpmatteo/extreme-programming-32324409 Extreme Programming slideshare.net",
+  "date": 1394769600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "JB Rainsberger course in Edinburgh in September. http://doodle.com/ftpptpgihp87thwx Doodle: JB Rainsberger course Doodle radically simplifies the process of scheduling events, meetings, appointments, etc. Herding cats gets 2x faster with Doodle. doodle.com",
+  "date": 1394683200000
+}, {
+  "author": "Antonio Martinez",
+  "category": "Tools - CI - CD",
+  "content": "Integración continua en Travis para soluciones .NET con Nunit kcy.me",
+  "date": 1394683200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Visions of a Post-Agile World http://blog.sprint.ly/post/41801740808/visions-of-a-post-agile-world Visions of a Post-Agile World blog.sprint.ly",
+  "date": 1394683200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Software Development Attitude http://martinfowler.com/bliki/SoftwareDevelopmentAttitude.html SoftwareDevelopmentAttitude martinfowler.com",
+  "date": 1394683200000
+}, {
+  "author": "Christian Soronellas",
+  "category": "XP, Lean & Agile",
+  "content": "http://pragdave.me/blog/2014/03/04/time-to-kill-agile/ Agile Is Dead (Long Live Agility) - PragDave pragdave.me",
+  "date": 1394683200000
+}, {
+  "author": "Antonio Martinez",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Aprende TDD - http://kcy.me/110ju TranslateShow original text Hola Mundo kcy.me",
+  "date": 1394596800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "http://blog.ploeh.dk/2014/03/10/solid-the-next-step-is-functional/ SOLID: the next step is Functional blog.ploeh.dk",
+  "date": 1394510400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Originally shared by Panu Viljamaa Currying was invented before Object-Oriented programming. But then OO provides its own way of achieving similar benefits. http://panuviljamaablog.blogspot.com/2014/03/objects-vs-functions-round-1-currying.html Objects vs. Functions round 1: Currying vs. Instantiation panuviljamaablog.blogspot.com",
+  "date": 1394510400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Reused Abstractions Principle (RAP), Jason Gorman (@jasongorman) http://codemanship.co.uk/parlezuml/blog/?postid=934",
+  "date": 1394510400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Hexagonal Architecture For Testers: Part 1 | Duncan Nisbet http://www.duncannisbet.co.uk/hexagonal-architecture-for-testers-part-1 Hexagonal Architecture For Testers: Part 1 | Duncan Nisbet duncannisbet.co.uk",
+  "date": 1394424000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Some mocks, Steve Freeman https://web.archive.org/web/20161029190044/http://www.higherorderlogic.com/2013/01/some-mocks/",
+  "date": 1394341200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "How We Code: ORMs and Anemic Domain Models http://fideloper.com/how-we-code How We Code: ORMs and Anemic Domain Models In this article, I'm going to cover an example of implementing some business logic in our usual Active Record patterns, and then I'll show how the same logic can be applied using the Data Mapper pattern. In both cases, we'll see how we can move our business logic into our business entities, thus avoiding anemic business domain. We'll also cover pros and cons of the two styles of ORMs and how they affect the way we write our code. fideloper.com",
+  "date": 1394341200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "The Flawed Theory Behind Unit Testing, Michael Feathers (@mfeathers) http://michaelfeathers.typepad.com/michael_feathers_blog/2008/06/the-flawed-theo.html",
+  "date": 1394341200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "You are NOT a Software Engineer! http://www.chrisaitchison.com/2011/05/03/you-are-not-a-software-engineer/ You are NOT a Software Engineer! You are not a Software Engineer. You do not build skyscrapers. You do not build bridges. You grow gardens. You are a Software Gardener. chrisaitchison.com",
+  "date": 1394341200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "Why GitHub is not your CV – The If Works https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/ Why GitHub is not your CV – The If Works blog.jcoglan.com",
+  "date": 1394341200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Test-Driven Development. A Cognitive Justification?, Steve Freeman https://web.archive.org/web/20161029190044/http://www.higherorderlogic.com/2008/06/test-driven-development-a-cognitive-justification/",
+  "date": 1394341200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Humour",
+  "content": "Originally shared by Alfonso Burgos pair programming - thecodinglove thecodinglove.com",
+  "date": 1394341200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Git workshop with +alvaro garcía el 28 de Abril http://bit.ly/1ijMkaK TranslateShow original text Git workshop with Álvaro García bit.ly",
+  "date": 1394254800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "All the little things, Sandi Metz https://speakerdeck.com/skmetz/all-the-little-things-rubyonales all the little things (rubyonales) // Speaker Deck speakerdeck.com",
+  "date": 1394254800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Docker : The good parts http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/ Docker : The good parts | Shrikrishna Holla Shrikrishna Holla's personal log blog.shrikrishnaholla.in",
+  "date": 1394254800000
+}, {
+  "author": "Antonio Martinez",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "TDD is a Path I just discovered 'The TDD That Can be Spoken Is Not the Eternal TDD' by Charles Hoffman and I was startled by the insight there. Most of what Chuck wrote about resonated strongly with me. I have traveled the TDD path for 10 years now. TDD sounded great to me, I did QA for years and still had ... kcy.me",
+  "date": 1394168400000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Readers Club",
+  "content": "Originally shared by Paulo Clavijo Chapter 8: Domain Events﻿ Club de Lectura: Implementing Domain-Driven Design - Chapter 8: Domain Events Chapter 8: Domain Events﻿",
+  "date": 1394168400000
+}, {
+  "author": "Antonio Martinez",
+  "category": "Readers Club",
+  "content": "Una página con más de 1000 libros gratuitos sobre programación kcy.me",
+  "date": 1394168400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Thoughts on the symmetry between good test names and your object's API, Corey Haines http://articles.coreyhaines.com/posts/test-names-should-influence-design/",
+  "date": 1394168400000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "Tutorial de Maven 3 (By Erick_Camacho -@ecamach, Javahispano) www.javahispano.org/storage/contenidos/Tutorial_de_Maven_3_Erick_Camacho.pdf javahispano.org",
+  "date": 1394082000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "Webinar: Building Your First Application with MongoDB Webinar: Building Your First Application with MongoDB slideshare.net",
+  "date": 1394082000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Podcasts",
+  "content": "Mi madre es más craftsman que tú ... TranslateShow original text Basta ya de picar bastayadepicar.com",
+  "date": 1394082000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "Maven by Example (PDF for free) books.sonatype.com/mvnex-book/pdf/mvnex-pdf.pdf books.sonatype.com",
+  "date": 1394082000000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Functional Programming",
+  "content": "Mark Hibberd & Tony Morris: Argonaut - pure functional JSON functionaltalks.org",
+  "date": 1394082000000
+}, {
+  "author": "Fermin Saez",
+  "category": "Interesting Posts and Papers",
+  "content": "Ejemplos de aplicaciones más allá del \"Hello world\" explicadas desde su concepción hasta el código. http://blogs.msdn.com/b/officeapps/archive/2014/03/05/showcase-apps-with-real-world-code-samples.aspx TranslateShow original text",
+  "date": 1394082000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "¿En qué se parecen Yeoman y Maven? (By +Alberto Romeu ) TranslateShow original text ¿En qué se parecen Yeoman y Maven? - Protips y más albertoromeu.com",
+  "date": 1394082000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Clases de SEO Clases de libre acceso con los fundamentos del posicionamiento en buscadores. \"Si quieres introducirte en el mundo del posicionamiento en buscadores tenemos unas clases gratuitas que seguro te interesarán. Comienzan hoy, en una hora (21:00 de España). Son unas clases que darán paso, a continuación, al Curso de SEO: desde cero a profesional. Si te interesa posicionar mejor tu página web, o las de tus clientes, y mejorar el modo como Google te muestra entre los resultados de las búsquedas, no dejes de informarte sobre este imprescindible curso.\" TranslateShow original text Registro Al hacer clic en este botón, enviará su información al organizador del seminario web y éste la utilizará para comunicarse con usted acerca de este evento y de otros servicios suyos. Cerrar Su información se enviará al organizador del seminario web y éste la utilizará para comunicarse con usted ... escuela.us6.list-manage2.com",
+  "date": 1393995600000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Professional matters",
+  "content": "Top 5 hackathon survival tips blog.pluralsight.com",
+  "date": 1393995600000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Clean Code: Writing Code for Humans 1/2 When: mar 4 de Mar de 2014 19:00 – 22:00 (CET) Where: Newshore (Avinguda Diagonal 218, 2º , Barcelona, Spain) Clean Code: Writing Code for Humans 1/2 meetup.com",
+  "date": 1393909200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "StringCalculator con commits pasito a pasito en C++ usando googlemock y Boost.Regex https://github.com/trikitrok/StringCalculatorAdditionUsingGoogleMock/commits/master TranslateShow original text",
+  "date": 1393736400000
+}, {
+  "author": "Nico Cortés",
+  "category": "XP, Lean & Agile",
+  "content": "For free!!! Agile for Dummies—An IBM eBook In Agile for Dummies, an IBM eBook, you’ll learn the fundamentals of agile development from A to Z—and more. See how software teams increase their productivity and produce higher-quality applications that more quickly fulfill customer needs. In this eBook, you'll learn: 1. The ABCs of agile 2. The roles in agile 3. How to introduce your company and projects to agile 4. Choosing your approach 5. Tools and much more www.techwell.com/sites/default/files/resource/download/Agile%20for%20dummies%20ebook_0.pdf techwell.com",
+  "date": 1393563600000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Meetup Barcelona - jue., 6 de marzo, 19:00 GMT+1 Presentación de #Walkmod una herramienta para gestionar y compartir convenciones de código de la mano de +Raquel Pau Fernández y +Albert Coroleu Fuente: +Nacho Cougil Jares TranslateShow original text Introducción a WalkMod barcelonajug.org",
+  "date": 1393563600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "Defining Object-Oriented Design by Sandi Metz http://www.youtube.com/watch?v=HGT8bKSS6XQ",
+  "date": 1393477200000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Meetup Barcelona, 04 Marzo 2014, 19:00H * Clean Code: Writing Code for Humans 1/2 Newshore (Avinguda Diagonal 218, 2º , Barcelona, Spain) Clean Code: Writing Code for Humans 1/2 meetup.com",
+  "date": 1393390800000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Courses, events, conferences,...",
+  "content": "Webinar - Real Devs don't use IFs 6 Marzo TranslateShow original text Training - Webinars y Videos - - 10 Pines 10pines.com",
+  "date": 1393304400000
+}, {
+  "author": "Manuel Guadarrama",
+  "category": "Architecture/Design",
+  "content": "The Onion Architecture : part 1 : Jeffrey Palermo (.com) jeffreypalermo.com",
+  "date": 1393304400000
+}, {
+  "author": "Manuel Guadarrama",
+  "category": "Architecture/Design",
+  "content": "Peeling Back the Onion Architecture blog.tonysneed.com",
+  "date": 1393304400000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "Tools - CI - CD",
+  "content": "Originally shared by Marco Antonio González Gómez-Caro Aquí os dejo una buena recopilación de recursos sobre Git. Vía JavaHispano. TranslateShow original text Understanding Git queness.com",
+  "date": 1393304400000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Tools - CI - CD",
+  "content": "Try Jasmine in your browser, because downloading a zip file is too much work! compiles and runs CoffeeScript. You can even mix-and-match (say, CoffeeScript specs for JavaScript sources); running specs will save them in localStorage so you don't lose them (a button will appear, allowing you to clear it); fork try jasmine yourself on Github; thanks to Carin Meier for ... tryjasmine.com",
+  "date": 1393218000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "http://zeroturnaround.com/rebellabs/why-the-debate-on-object-oriented-vs-functional-programming-is-all-about-composition/ Why the debate on Object-Oriented vs Functional Programming is all about composition zeroturnaround.com",
+  "date": 1393131600000
+}, {
+  "author": "Nico Cortés",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Engineer Notebook: An Extreme Programming Episode - by Robert C. Martin and Robert S. Koss XP Epsiode Figure 1 · Figure 2 · Note · About the Authors. This article is derived from a chapter of the forthcoming book Advanced Principles, Patterns and Process of Software Development, Robert C. Martin, Prentice Hall, 2001. Copyright © 2000 by Robert C. Martin, all rights reserved. objectmentor.com",
+  "date": 1393131600000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Are You Really Doing BDD? I'm a fan of BDD, but I find that many examples (and codebases and default settings) fall short of the original philosophy. Here's Why. Wekeroad wekeroad.com",
+  "date": 1393045200000
+}, {
+  "author": "Cristian Henao",
+  "category": "Community",
+  "content": "Hola!!! hace poco les comparti una entrada sobre la herencia en java, esta vez quiero devolverme un poco y compartir para los que apenas comienzan esta entrada sobre las Clases..... fundamental para los ejemplos que se vienen ;)... espero les pueda ser de utilidad.... http://codejavu.blogspot.com/2013/05/clases-en-java.html﻿ TranslateShow original text Clases en Java codejavu.blogspot.com",
+  "date": 1393045200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "The framework as an implementation detail SymfonyLive London 2013 - Marcello Duarte & Konstantin Kudryashov - The Framework as an imp.. SymfonyLive London 2013 - Marcello Duarte & Konstantin Kudryashov - The Framework as an imp..",
+  "date": 1392872400000
+}, {
+  "author": "Manuel Guadarrama",
+  "category": "Humour",
+  "content": "@pedromsantos: Never interrupt a programmer http://t.co/6Etm3n7vlv",
+  "date": 1392872400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "TDD, Architecture & Non-Functional Goals - All Of These Things Belong Together, Jason Gorman (@jasongorman) http://codemanship.co.uk/parlezuml/blog/?postid=1213",
+  "date": 1392786000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Hexagonal Symfony https://github.com/MarcelloDuarte/hexagonal-symfony MarcelloDuarte/hexagonal-symfony github.com",
+  "date": 1392786000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "XP, Lean & Agile",
+  "content": "This Company Believes You Should Never Hack Alone | Wired Enterprise | Wired.com wired.com",
+  "date": 1392786000000
+}, {
+  "author": "Marcin Gryszko",
+  "category": "Courses, events, conferences,...",
+  "content": "En Madrid organizamos un open space sobre la programación funcional. Mas info + RSVPs en bit.ly/fpopenspace TranslateShow original text",
+  "date": 1392786000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "No creo que nadie sea capaz de tragarse las casi dos horas de video, pero aquí van. Esta es una posible solución paso a paso de la kata de refactoring Birthday greetings que hicimos anoche en Barcelona Software Crafstsmanship: Commits en GitHub: http://bit.ly/1oMwzOe Video de casi toda la primera parte: http://bit.ly/1m6HCj8 Video de casi toda la segunda parte: http://bit.ly/N73Kx8 TranslateShow original text",
+  "date": 1392699600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "DDD and Architectures with Vaughn Vernon http://vimeo.com/63802840 DDD and Architecture with Vaughn Vernon at Citerus, Stockholm vimeo.com",
+  "date": 1392613200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "http://lanyrd.com/2014/welovejsq12014/ WeLoveJS Winter 2014 #Domotica #NodeJS #FirefoxOS lanyrd.com",
+  "date": 1392440400000
+}, {
+  "author": "Nico Cortés",
+  "category": "Humour",
+  "content": "Thanks to +Francisco Ferri Pérez Marketing-driven roadmaps for developers - Raul Murciano I recently gave a short talk at T3chFest, an event organized by a lovely group of students at Universidad Carlos III in Madrid. My talk included a short video-rant on the dangers of marketing-driven roadmaps and how toxic they can be for the development teams (Spanish-only sorry!): ... raulmurciano.com",
+  "date": 1392354000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Domain Driven Design",
+  "content": "Bradley Holt introductory speak to DDD using PHP examples. I recommend it as a DDD introduction. Domain-Driven Design",
+  "date": 1392267600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Rock, Paper, Scissors game using pattern matching in OCaml http://bit.ly/1nsNtxR TranslateShow original text",
+  "date": 1392181200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Rock, Paper, Scissors game using double dispatch in Ruby https://github.com/trikitrok/RockPaperScissorsDoubleDispatchRuby/blob/master/RockPaperScissors.rb",
+  "date": 1392181200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "The Erosion Of The Status Of Software Developers As Professionals http://codemanship.co.uk/parlezuml/blog/?postid=1210 TranslateShow original text The Erosion Of The Status Of Software Developers As Professionals - Software People Inspiring codemanship.co.uk",
+  "date": 1392181200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "Embedded OOAD http://www.eventhelix.com/RealtimeMantra/#.Uvue0JjzI5A",
+  "date": 1392181200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Katas",
+  "content": "Para completar la serie, solución con multimethods en Clojure https://github.com/trikitrok/RockPaperScissorsMultimethodsClojure/blob/master/rockpaperscissors/src/rockpaperscissors/core.clj Es mucho mejor porque hace dynamic dispatch en varios objetos (en el ejemplo sólo dos). Se podría usar para funciones de más de 2 variantes (lo cual sería horrible tanto con double dispatch en OO como con pattern matching) TranslateShow original text",
+  "date": 1392181200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "The middle hexagon should be independent of the adapters, Kevin Rutherford (@kevinrutherford) http://silkandspinach.net/2005/03/22/the-middle-hexagon-should-be-independent-of-the-adapters/",
+  "date": 1392181200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Si estás en Madrid: Seminario de desarrollo ágil y TDD http://www.javahispano.org/portada/2014/2/3/seminario-de-desarrollo-agil-y-tdd.html TranslateShow original text javaHispano - Portada - Seminario de desarrollo ágil y TDD javahispano.org",
+  "date": 1392094800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "Podcast sobre Value Objects: http://elephantintheroom.io/blog/2013/10/episode-2-heart-and-soul-of-oop/ via +Abel Cuenca TranslateShow original text Episode #002: The Heart and Soul of OOP - Elephant in the Room <iframe width= elephantintheroom.io",
+  "date": 1392094800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Refactoring by the Book http://www.thoughtworks.com/insights/blog/refactoring-book",
+  "date": 1392094800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "If you had to start over, what technologies would you learn in 2014? http://www.hanselman.com/blog/IfYouHadToStartOverWhatTechnologiesWouldYouLearnIn2014.aspx If you had to start over, what technologies would you learn in 2014? - Scott Hanselman hanselman.com",
+  "date": 1392008400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Let's Learn a Little Clojure https://skillsmatter.com/skillscasts/3868-uncle-bob-returns",
+  "date": 1392008400000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Languages",
+  "content": "JavaScript Promises: There and back again - HTML5 Rocks html5rocks.com",
+  "date": 1392008400000
+}, {
+  "author": "Nico Cortés",
+  "category": "Tools - CI - CD",
+  "content": "UMongo is a GUI app that can browse and administer a MongoDB cluster. It is available for Linux, Windows and Mac OSX. AG’s site / EdgyTech » UMongo edgytech.com",
+  "date": 1391922000000
+}, {
+  "author": "Fermin Saez",
+  "category": "Katas",
+  "content": "Beautiful! Conway's Game of Life in Java garajeando.blogspot.com",
+  "date": 1391922000000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Jaume Jornet Rivas Play at Work. Charla de +Eelco Rustenburg en TEDx Tedx Eelco Rustenburg: Play at work",
+  "date": 1391922000000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Jaume Jornet Rivas Keynote de +Alan Cyment sobre Continuous Delivery y Kaizen TranslateShow original text keynote - Delivery continuo, kaizen y lunes como la gente by Alan cyment",
+  "date": 1391922000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Curso de TDD en abierto de +Carlos Ble en Barcelona (Marzo) y Madrid (Abril): http://www.carlosble.com/training/tdd/es/#fechas TranslateShow original text Curso de Test Driven Development carlosble.com",
+  "date": 1391922000000
+}, {
+  "author": "Jaume Jornet Rivas",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Jaume Jornet Rivas Versionone ha publicado la octava edición de su encuesta \"State of Agile\" correspondiente a 2013. Se puede descargar el pdf en el enlace. TranslateShow original text Annual State of Agile Survey | State of Agile Survey stateofagile.versionone.com",
+  "date": 1391922000000
+}, {
+  "author": "Nico Cortés",
+  "category": "Patterns",
+  "content": "Responsible Design for Android (thanks to +Ricardo Borillo ) Responsible Design for Android leanpub.com",
+  "date": 1391835600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "Hexagonal Architecture, +Alfredo Casado http://prezi.com/a4z6dzlfmfcb/hexagonal-architecture/ Hexagonal Architecture prezi.com",
+  "date": 1391835600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Clean Code",
+  "content": "4 Things Java Programmers Can Learn from Clojure (without learning Clojure) http://www.lispcast.com/java-learn-from-clojure",
+  "date": 1391662800000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Lista de user groups de MongoDB. En España hay grupos en: * Barcelona. * Madrid. * Málaga. * Mallorca. TranslateShow original text User Groups | MongoDB MongoDB supports the local developer communities that organize MongoDB User Groups (MUGs). Join a MongoDB User Group to learn best practices and network with peers. mongodb.com",
+  "date": 1391662800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Architecture/Design",
+  "content": "GoRuCo 2012 Hexagonal Rails by Matt Wynne GoRuCo 2012 Hexagonal Rails by Matt Wynne",
+  "date": 1391662800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Domain Driven Design",
+  "content": "Domain-Driven Design with Clojure http://www.infoq.com/presentations/DDD-Clojure",
+  "date": 1391662800000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "From the streets of Test Driven Development: JavaScript davidvujic.blogspot.se",
+  "date": 1391576400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Refactoring Interfaces, Nat Pryce http://www.natpryce.com/articles/000746.html",
+  "date": 1391576400000
+}, {
+  "author": "Ricardo Roldán",
+  "category": "Readers Club",
+  "content": "A Software Developer's Reading List stevewedig.com",
+  "date": 1391490000000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Originally shared by Jaume Jornet Rivas Mesa redonda sobre SPA organizada por @programando_net- programandonet.com TranslateShow original text Mesa redonda sobre SPA",
+  "date": 1391490000000
+}, {
+  "author": "Fermin Saez",
+  "category": "XP, Lean & Agile",
+  "content": "Agile with Guts - A pragmatic guide to value-driven development infoq.com",
+  "date": 1391490000000
+}, {
+  "author": "Manuel Guadarrama",
+  "category": "Katas",
+  "content": "https://github.com/emilybache/Refactoring-Katas emilybache/Refactoring-Katas github.com",
+  "date": 1391403600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Trucos git por +Pepe Doval http://www.youtube.com/playlist?list=PLJq-O-GkzDUOX1koXDuJfDTtFFniMlryy TranslateShow original text Trucos git youtube.com",
+  "date": 1391403600000
+}, {
+  "author": "Nico Cortés",
+  "category": "Courses, events, conferences,...",
+  "content": "Nueva edición del curso: * edX - Paradigms of Computer Programming TranslateShow original text LouvainX: Paradigms of Computer Programming: 1.01x About Video",
+  "date": 1391403600000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Legacy Code",
+  "content": "Metrics based Refactoring for cleaner code, Graham Brooks (@grahamcbrooks) http://www.grahambrooks.com/metrics/process%20pattern/refactoring/2012/01/02/metrics-based-refactoring-for-cleaner-code.html",
+  "date": 1391317200000
+}, {
+  "author": "alvaro garcía",
+  "category": "Professional matters",
+  "content": "We're looking for a senior analyst-programmer in c#. more info here: http://www.linkedin.com/jobs2/view/10795591 Analista Senior .NET linkedin.com",
+  "date": 1391317200000
+}, {
+  "author": "Juan Salvador Aleixandre Talens",
+  "category": "Readers Club",
+  "content": "Libro Programación Concurrente y Tiempo Real Tu navegador no soporta Frames y esta web los necesita. Mala suerte!. libropctr.com",
+  "date": 1391317200000
+}, {
+  "author": "alvaro garcía",
+  "category": "Tools - CI - CD",
+  "content": "Awesome testing plugin for eclipse / intellij that auto-executes tests associated with modified code: Plugin: Infinitest: http://infinitest.github.io/ Blog post (info on it): http://www.jayway.com/2011/09/21/infinitest/ Infinitest – Jayway jayway.com",
+  "date": 1391317200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Tools - CI - CD",
+  "content": "Karma - Spectacular Test Runner for Javascript http://karma-runner.github.io/0.10/index.html Karma - Spectacular Test Runner for Javascript karma-runner.github.io",
+  "date": 1391317200000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "We don’t write patterns – we get out of their way so they can emerge, Cory Foy http://blog.coryfoy.com/2013/08/we-dont-write-patterns-we-get-out-of-their-way-so-they-can-emerge/",
+  "date": 1391230800000
+}, {
+  "author": "Marco Antonio González Gómez-Caro",
+  "category": "XP, Lean & Agile",
+  "content": "Originally shared by Marco Antonio González Gómez-Caro Muy buenas. Os comparto una iniciativa que me parece muy interesante. +José Manuel Beas, para muchos de nosotros todo un referente en el movimiento Agile en el país, ha compartido la publicación del libro \"España Lean Start-up 2013\". Esperan feedback, por lo que no dudéis en hacerles llegar vuestra opinión. TranslateShow original text España Lean Startup 2013 nodos.typepad.com",
+  "date": 1391230800000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Functional Programming",
+  "content": "Deconstructing Functional Programming http://www.infoq.com/presentations/functional-pros-cons \"Gilad Bracha explains how to distinguish FP hype from reality and to apply key ideas of FP in non-FP languages, separating the good parts of FP from its unnecessary cultural baggage.\" Deconstructing Functional Programming infoq.com",
+  "date": 1391144400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "https://koding.com/ Koding - A new way for developers to work. koding.com",
+  "date": 1391144400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Readers Club",
+  "content": "Papers for the masses http://masspapers.com/topics.php",
+  "date": 1391144400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "Mesa redonda sobre REST, RESTFul y APIs https://plus.google.com/u/0/events/c0rkhko3ln48g83ctac3nt64rg4 Lunes 3 de febrero a las 22h TranslateShow original text",
+  "date": 1391144400000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Courses, events, conferences,...",
+  "content": "codewars Achieve mastery through challenge www.codewars.com/ Es gratis y tiene un montón de katas y ejercicios. Por ahora tienen para JavaScript, CoffeeScript y Ruby, pero prometen que pronto llegarán más. TranslateShow original text",
+  "date": 1391144400000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Courses, events, conferences,...",
+  "content": "JavaScript CodeRetreat Valencia One day-long practicing the art of programming 8 FEBRUARY 2014 JavaScript Code Retreat #1 - Valencia jscoderetreat.com",
+  "date": 1391058000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Domain Driven Design",
+  "content": "CQRS and Event Sourcing, An Alternative Architecture for DDD slideshare.net",
+  "date": 1391058000000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "Domain Driven Design",
+  "content": "Muy buena introduccion a CQRS: http://eamodeorubio.wordpress.com/2012/09/03/cqrs-1-que-es/ http://eamodeorubio.wordpress.com/2012/09/10/cqrs-2-sincronizacion/ http://eamodeorubio.wordpress.com/2012/09/17/cqrs-3-event-sourcing/ TranslateShow original text CQRS (1): ¿Qué es? eamodeorubio.wordpress.com",
+  "date": 1390971600000
+}]
