@@ -6105,6 +6105,11 @@
   "date": 1475871265000
 }, {
   "author": "Manuel Rivero",
+  "category": "XP, Lean & Agile",
+  "content": "Don’t forget the developers!, Kevin Rutherford (‏@kevinrutherford)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://silkandspinach.net/2016/10/06/dont-forget-the-developers/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://silkandspinach.net/2016/10/06/dont-forget-the-developers/</a>",
+  "date": 1475786142000
+}, {
+  "author": "Manuel Rivero",
   "category": "Interesting Posts and Papers",
   "content": "Cynefin for Developers, Liz Keogh (@lunivore)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://lizkeogh.com/cynefin-for-developers/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://lizkeogh.com/cynefin-for-developers/</a>",
   "date": 1475481858000
@@ -10681,6 +10686,11 @@
 }, {
   "author": "Manuel Rivero",
   "category": "Languages",
+  "content": "JS Objects: Distractions, Kyle Simpson (@getify)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://davidwalsh.name/javascript-objects-distractions\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://davidwalsh.name/javascript-objects-distractions</a>",
+  "date": 1420908563000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Languages",
   "content": "JS Objects: Inherited a Mess, Kyle Simpson (@getify)<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://davidwalsh.name/javascript-objects\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://davidwalsh.name/javascript-objects</a>",
   "date": 1420907601000
 }, {
@@ -11560,7 +11570,7 @@
   "date": 1413106900000
 }, {
   "author": "Nyan Dev",
-  "category": "Humour",
+  "category": "",
   "content": "And this is why I fucking love IntelliJ IDEA. ",
   "date": 1413130201000
 }, {
@@ -13383,6 +13393,11 @@
   "category": "",
   "content": null,
   "date": 1403214194000
+}, {
+  "author": "Nico Cortés",
+  "category": "Refactoring",
+  "content": "Smells to Refactorings:  Quick Reference Guide (pdf)",
+  "date": 1403076011000
 }, {
   "author": "Nico Cortés",
   "category": "Patterns",
@@ -18473,6 +18488,11 @@
   "category": "Podcasts",
   "content": "Mock, Stub, Spy y otras hierbas con Carlos Blé<br><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.32minutos.net/?p=14\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">http://www.32minutos.net/?p=14</a>",
   "date": 1370783594000
+}, {
+  "author": "David Vílchez",
+  "category": "Podcasts",
+  "content": " <br>A petición de Manuel os comparto este episodio de 32minutos, aviso: no sólo para aprendices :)",
+  "date": 1370789393000
 }, {
   "author": "Manuel Rivero",
   "category": "Katas",

@@ -1,4 +1,24 @@
 [{
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Learning By Testing, Raimo Radczewski (@rradczewski)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://ymmv.craftswerk.io/2019/03/learning-by-testing\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://ymmv.craftswerk.io/2019/03/learning-by-testing</a>",
+  "date": 1553932268000
+}, {
+  "author": "Paulo Clavijo",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Comparing TDD flavours, Nikos Voulgaris<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://nvoulgaris.com/comparing-tdd-flavours/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://nvoulgaris.com/comparing-tdd-flavours/</a>",
+  "date": 1553704338000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Professional matters",
+  "content": "El Viaje del Héroe, Daniel Hompanera (@dhompanera)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=CORfUaiam54\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=CORfUaiam54</a>",
+  "date": 1552770222000
+}, {
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Refactoring to Patterns – Summary, Brian<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://myadventuresincoding.wordpress.com/2008/03/15/refactoring-patterns-summary/\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://myadventuresincoding.wordpress.com/2008/03/15/refactoring-patterns-summary/</a>",
+  "date": 1552771974000
+}, {
   "author": "Manuel Rivero",
   "category": "TDD - BDD - Testing - Monitoring",
   "content": "Testing &amp; validating Apache Spark jobs, Holden Karau (@holdenkarau)<br><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=LP6blh4TFqI\" class=\"ot-anchor bidi_isolate\" jslog=\"10929; track:click\" dir=\"ltr\">https://www.youtube.com/watch?v=LP6blh4TFqI</a>",
