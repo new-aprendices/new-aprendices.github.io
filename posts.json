@@ -1,5 +1,30 @@
 [{
   "author": "Manuel Rivero",
+  "category": "Patterns",
+  "content": "Design patterns across paradigms, Mark Seemann (@ploeh)",
+  "date": 1556992630707
+},{
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Welcome to a Dogma-Free Zone, Gene Hughson (@GeneHughson) https://genehughson.wordpress.com/2012/06/26/welcome-to-a-dogma-free-zone/",
+  "date": 1556992538504
+},{
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Making the right thing work before making it work right, Pavneet Singh Saund (@pavsaund) https://pavsaund.com/2016/02/04/making-the-right-thing-work-before-making-it-work-right/",
+  "date": 1556992380477
+},{
+  "author": "Manuel Rivero",
+  "category": "Languages",
+  "content": "Answer to How innovative is Clojure as a Lisp dialect from Lisp expert's perspective?, Jan Rychter (@jrychter) https://www.reddit.com/r/lisp/comments/acid7a/how_innovative_is_clojure_as_a_lisp_dialect_from/edg6qiy/",
+  "date": 1556992193977
+},{
+  "author": "Manuel Rivero",
+  "category": "Interesting Posts and Papers",
+  "content": "Intellectual humility: the importance of knowing you might be wrong, Brian Resnick (@B_resnick) https://www.vox.com/science-and-health/2019/1/4/17989224/intellectual-humility-explained-psychology-replication",
+  "date": 1556991909194
+},{
+  "author": "Manuel Rivero",
   "category": "Architecture/Design",
   "content": "Effective Design, Kent Beck (@KentBeck) https://www.slideshare.net/deimos/kent-beck-effective-design",
   "date": 1555684064571
