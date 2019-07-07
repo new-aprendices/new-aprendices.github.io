@@ -1,7 +1,17 @@
 [{
   "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Integrated Tests Are A Scam: No conflict with GOOS, J. B. Rainsberger (@jbrains) https://blog.thecodewhisperer.com/permalink/no-conflict-with-goos",
+  "date": 1562508185456
+},{
+  "author": "Manuel Rivero",
+  "category": "Refactoring",
+  "content": "Long Names: a smell? or a clue?, J. B. Rainsberger (@jbrains) https://thecodewhisperer-blog.tumblr.com/post/4609737669/long-names-a-smell-or-a-clue",
+  "date": 1562507988366
+},{
+  "author": "Manuel Rivero",
   "category": "Patterns",
-  "content": "Design patterns across paradigms, Mark Seemann (@ploeh)",
+  "content": "Design patterns across paradigms, Mark Seemann (@ploeh) https://blog.ploeh.dk/2012/05/25/Designpatternsacrossparadigms/",
   "date": 1556992630707
 },{
   "author": "Manuel Rivero",
