@@ -1,6 +1,18 @@
 [{
   "author": "Manuel Rivero",
   "category": "TDD - BDD - Testing - Monitoring",
+  "content": "What we talk about when we talk about software, Nat Pryce (@natpryce) https://vimeo.com/275530146",
+  "date": 1564942287419
+},
+ {
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
+  "content": "Property-Based Testing The Ugly Parts: Case Studies from Komposition, Oskar Wickström (@owickstrom) https://www.youtube.com/watch?v=z2ete8VZnZY",
+  "date": 1564942371934
+},
+{
+  "author": "Manuel Rivero",
+  "category": "TDD - BDD - Testing - Monitoring",
   "content": "Integrated Tests Are A Scam: No conflict with GOOS, J. B. Rainsberger (@jbrains) https://blog.thecodewhisperer.com/permalink/no-conflict-with-goos",
   "date": 1562508185456
 },{
